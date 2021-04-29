@@ -26,7 +26,6 @@
 
 #### [天池-铝型材表面瑕疵检测](https://tianchi.aliyun.com/competition/entrance/231682/forum)
 
-#### [Part IV ALISC大规模商品图像检索和8000类精细粒度图像识别竞赛获胜方案简介](./PDF形式资料/高阶相关PPT/Part IV ALISC大规模商品图像检索和8000类精细粒度图像识别竞赛获胜方案简介.pdf)
 
 #### [TinyMind 多标签图像分类竞赛 之路](http://www.mamicode.com/info-detail-2466907.html)
 

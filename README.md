@@ -1,6 +1,32 @@
 ## 持续更新中...
 ## 整理各种比赛经验帖子，欢迎大家贡献
 
+#### [2021 瓷砖表面缺陷检测总决赛冠军解决方案：传统方法+深度学习](https://mp.weixin.qq.com/s/lplbNz2jY6XOOS6VTqsiuw)
+
+#### [支付宝夺冠CVPR细粒度视觉分类挑战赛：数据增强+知识蒸馏](https://baijiahao.baidu.com/s?id=1669179024802175438&wfr=spider&for=pc)
+
+#### [图像赛排行榜拉开100名差距的小技巧](https://mp.weixin.qq.com/s/BbFCAHtS-nZYe_--WP65tA)
+
+#### [Kaggle木薯叶图像分类比赛打酱油经验贴](https://mp.weixin.qq.com/s/TGE9km9hyq1ty5IvzkKsQg)
+
+#### [图像分类：来自13个Kaggle项目的经验总结](https://mp.weixin.qq.com/s/Q9Uai1LjNFsMPt16usWMvA)
+
+#### [Apache Flink极客挑战赛-垃圾图片分类赛道冠军方案分享](https://mp.weixin.qq.com/s/7pcYnmJECpEM5M7TehEZFQ)
+
+#### [字节跳动获CVPR2021 细粒度图像竞赛双料冠军](https://mp.weixin.qq.com/s/-9bp90AN3Q0T-MW5isB7Og)
+
+#### [CVPR2021 FGVC8植物病理识别挑战赛，冠军方案解读](https://mp.weixin.qq.com/s/Vgg2kpAmXInAFbHYFedUKg)
+
+#### [搜狗商品识别中的一些技术应用](https://zhuanlan.zhihu.com/p/84786889)
+
+#### [Datawhale比赛汇总](https://github.com/datawhalechina/competition-baseline)
+
+#### [10亿级！淘宝大规模图像检索引擎算法设计概览](https://mp.weixin.qq.com/s/xfV4Vm6AMY_vN4hCrTsRtg)
+
+#### [目标检测类算法比赛的经验总结](https://mp.weixin.qq.com/s/CkTssvkRTq-h_JkZof5l7Q)
+
+#### [竞赛冠军方案：2020珠港澳人工智能算法大赛双料冠军解读](https://mp.weixin.qq.com/s/XncGJTXHAgCb3_rVp770gQ)
+
 #### [好大夫在线在AI落地场景上的探索：医学报告单结构化](https://mp.weixin.qq.com/s/J1TDlMNp8Cy2DpqMKO9RFw)
 
 #### [DataWhale 各种比赛baseline汇总](https://github.com/datawhalechina/competition-baseline)
@@ -29,7 +55,7 @@
 
 #### [TinyMind 多标签图像分类竞赛 之路](http://www.mamicode.com/info-detail-2466907.html)
 
- ![ãå¾ååç±»ã å³äºå¾ååç±»ä¸­ç±»å«ä¸å¹³è¡¡é£äºäº](http://p1.pstatp.com/large/pgc-image/65acc7a8b3104085aef0eb9eab33bfcb) 
+ ![ãå¾ååç±»ã å³äºå¾ååç±»ä¸­ç±»å«ä¸å¹³è¡¡é£äºäº](http://p1.pstatp.com/large/pgc-image/65acc7a8b3104085aef0eb9eab33bfcb)
 
 #### [【图像分类】华为云·垃圾分类亚军方案分享](https://blog.csdn.net/u011599639/article/details/102065805)
 

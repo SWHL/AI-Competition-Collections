@@ -1,6 +1,8 @@
 ## 持续更新中...
 ## 整理各种比赛经验帖子，欢迎大家贡献
 
+#### [干货 | 解密美图大规模多媒体数据检索技术DeepHash ](https://www.sohu.com/a/240830376_651893)
+
 #### [2021 瓷砖表面缺陷检测总决赛冠军解决方案：传统方法+深度学习](https://mp.weixin.qq.com/s/lplbNz2jY6XOOS6VTqsiuw)
 
 #### [支付宝夺冠CVPR细粒度视觉分类挑战赛：数据增强+知识蒸馏](https://baijiahao.baidu.com/s?id=1669179024802175438&wfr=spider&for=pc)

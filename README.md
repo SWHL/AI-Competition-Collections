@@ -1,5 +1,6 @@
 ## 持续更新中...
 ## 整理各种比赛经验帖子，欢迎大家贡献
+#### [详解这场图片分类赛baseline，赢取官方人才认证+奖金](https://mp.weixin.qq.com/s/mRyFVNN4gFVq_6lUJoDQEg)
 
 #### [干货 | 解密美图大规模多媒体数据检索技术DeepHash ](https://www.sohu.com/a/240830376_651893)
 

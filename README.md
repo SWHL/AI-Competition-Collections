@@ -1,7 +1,7 @@
 ## 持续更新中...
 ## 整理各种比赛经验帖子，欢迎大家贡献
 
-#### [高通人工智能应用创新大赛冠军方案解读](https://mp.weixin.qq.com/s/2efke2PymcqMstkw4httUA)
+#### [【2021-09-29】高通人工智能应用创新大赛冠军方案解读](https://mp.weixin.qq.com/s/2efke2PymcqMstkw4httUA)
 
 #### [详解这场图片分类赛baseline，赢取官方人才认证+奖金](https://mp.weixin.qq.com/s/mRyFVNN4gFVq_6lUJoDQEg)
 

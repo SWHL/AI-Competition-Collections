@@ -62,7 +62,7 @@
 
 #### [TinyMind 多标签图像分类竞赛 之路](http://www.mamicode.com/info-detail-2466907.html)
 
- ![ãå¾ååç±»ã å³äºå¾ååç±»ä¸­ç±»å«ä¸å¹³è¡¡é£äºäº](http://p1.pstatp.com/large/pgc-image/65acc7a8b3104085aef0eb9eab33bfcb)
+- [TinyMind人民币编码识别竞赛，第三名代码](https://github.com/RayDean/RMB_TechDing)
 
 #### [【图像分类】华为云·垃圾分类亚军方案分享](https://blog.csdn.net/u011599639/article/details/102065805)
 

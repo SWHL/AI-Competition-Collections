@@ -1,5 +1,6 @@
 ## 持续更新中...
 ## 整理各种比赛经验帖子，欢迎大家贡献
+#### [【2021-11-04】我是如何赢得吴恩达首届 Data-centric AI 竞赛的？](https://mp.weixin.qq.com/s/VVCrRPZZWw7o6gR_SP8EUg) | [比赛主页](https://worksheets.codalab.org/worksheets/0x7a8721f11e61436e93ac8f76da83f0e6)
 #### [【2021-11-01】LVIS Challenge 2021长尾分布实例分割冠军解决方案](https://zhuanlan.zhihu.com/p/427853229)
 #### [【2021-10-28】ICCV2021 UVO Challenge 双冠军比赛复盘](https://zhuanlan.zhihu.com/p/422929082)
 #### [【2021-09-29】高通人工智能应用创新大赛冠军方案解读](https://mp.weixin.qq.com/s/2efke2PymcqMstkw4httUA)

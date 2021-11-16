@@ -1,5 +1,7 @@
 ## 持续更新中...
 ## 整理各种比赛经验帖子，欢迎大家贡献
+#### [【2021-11-16】ECV 2021 冠军方案解读：占道经营识别方案](https://mp.weixin.qq.com/s/e07eRbNAkoDVRs7Q-rV0TA)
+#### [【2021-11-16】ECV 2021 冠军方案解读：船只数量检测方案](https://mp.weixin.qq.com/s/VgDcS-edk9Mqkv-qSfcRJA)
 #### [【2021-11-11】ECV 2021 冠军方案解读：渣土车识别方案](https://mp.weixin.qq.com/s/0L5ozZuJKfmPJMfN_64tog)
 #### [【2021-11-11】ECV 2021 冠军方案解读：驾驶员不良驾驶识别方案](https://mp.weixin.qq.com/s/pOlr6-W6W-wRDERxaNpWSQ)
 #### [【2021-11-08】2021科大讯飞-X光安检图像识别赛Top1方案！](https://mp.weixin.qq.com/s/pIrqtxseLpUj1TZV4VohNw)

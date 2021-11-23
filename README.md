@@ -1,5 +1,7 @@
 ## 持续更新中...
 ## 整理各种比赛经验帖子，欢迎大家贡献
+#### [【2021-11-23】从39个kaggle竞赛中总结出来的图像分割的Tips和Tricks（附资源）](https://mp.weixin.qq.com/s/O93JIkUXIfvFwHNfy0ZHZA)
+#### [【2021-11-23】ICCV 2021 口罩人物身份鉴别全球挑战赛冠军方案分享](https://mp.weixin.qq.com/s/cmP-jJLbCTw-sIUQnZxmKw)
 #### [【2021-11-19】ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text 冠军方案源码](https://github.com/zhang0jhon/AttentionOCR)
 #### [【2021-11-19】【冠军】ICDAR 2019 自由字型文本识别竞赛冠军方案](https://bbs.cvmart.net/articles/884/vote_count) | [Github源码](https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy)
 #### [【2021-11-16】ECV 2021 冠军方案解读：占道经营识别方案](https://mp.weixin.qq.com/s/e07eRbNAkoDVRs7Q-rV0TA)

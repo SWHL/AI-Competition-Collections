@@ -1,5 +1,6 @@
 ## 持续更新中...
 ## 整理各种比赛经验帖子，欢迎大家贡献
+#### [【2021-11-28】【极市打榜】算法竞赛/打榜通用技巧总结（附源码）](https://mp.weixin.qq.com/s/Myvzu5oX1yB7H2nMBW-IpA)
 #### [【2021-11-23】从39个kaggle竞赛中总结出来的图像分割的Tips和Tricks（附资源）](https://mp.weixin.qq.com/s/O93JIkUXIfvFwHNfy0ZHZA)
 #### [【2021-11-23】ICCV 2021 口罩人物身份鉴别全球挑战赛冠军方案分享](https://mp.weixin.qq.com/s/cmP-jJLbCTw-sIUQnZxmKw)
 #### [【2021-11-19】ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text 冠军方案源码](https://github.com/zhang0jhon/AttentionOCR)

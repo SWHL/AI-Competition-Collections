@@ -1,7 +1,7 @@
 ## 持续更新中...
 ## 整理各种比赛经验帖子，欢迎大家贡献
 #### [【2021-12-07】(视频目标检测|多目标追踪)当CV碰上无人机：ICCV 2019 VisDrone挑战赛冠军解决方案解读](https://mp.weixin.qq.com/s?src=11&timestamp=1638858473&ver=3481&signature=jsd6*CIAyuPDJTA8hCs4XaIUhQdsChjaOmc3rWah8aNJa*JV5V6pl2-iXudFQa-35UBtliYmFfW37ULr-FWGrbDMeL43DjCTtrxLdCU3fkPWZuFt5OeckQ5RmwoMdjMv&new=1)
-#### [【2021-12-07】语义分割-【冠军方案】CVPR2021 OmniCV WoodScape 挑战赛冠军方案解读](https://mp.weixin.qq.com/s?src=11&timestamp=1638858473&ver=3481&signature=I3*kxEDWnsIib4oOObkoMEr5jIKGDWPm4a5CQCiR64y7pErI4QLKVHnDkMYilv2nJg5wFIJbUn0NLouwOgKv1PvpMMML*ojq28o-448z7j4atHQmHeAEksos4o1zDT55&new=1)
+#### [【2021-12-07】(语义分割)【冠军方案】CVPR2021 OmniCV WoodScape 挑战赛冠军方案解读](https://mp.weixin.qq.com/s?src=11&timestamp=1638858473&ver=3481&signature=I3*kxEDWnsIib4oOObkoMEr5jIKGDWPm4a5CQCiR64y7pErI4QLKVHnDkMYilv2nJg5wFIJbUn0NLouwOgKv1PvpMMML*ojq28o-448z7j4atHQmHeAEksos4o1zDT55&new=1)
 #### [【2021-11-28】【极市打榜】算法竞赛/打榜通用技巧总结（附源码）](https://mp.weixin.qq.com/s/Myvzu5oX1yB7H2nMBW-IpA)
 #### [【2021-11-23】从39个kaggle竞赛中总结出来的图像分割的Tips和Tricks（附资源）](https://mp.weixin.qq.com/s/O93JIkUXIfvFwHNfy0ZHZA)
 #### [【2021-11-23】ICCV 2021 口罩人物身份鉴别全球挑战赛冠军方案分享](https://mp.weixin.qq.com/s/cmP-jJLbCTw-sIUQnZxmKw)

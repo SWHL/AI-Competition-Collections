@@ -1,4 +1,5 @@
 # AI-Competition-Collections
+> 【从他人比赛经验中，总是可以学到很多东西】  -- by SWHL
 ## 持续更新中... | [NLP赛事分享贴,请戳这里](./NLP.md)
 #### [【2021-12-07】(视频目标检测|多目标追踪)当CV碰上无人机：ICCV 2019 VisDrone挑战赛冠军解决方案解读](https://mp.weixin.qq.com/s?src=11&timestamp=1638858473&ver=3481&signature=jsd6*CIAyuPDJTA8hCs4XaIUhQdsChjaOmc3rWah8aNJa*JV5V6pl2-iXudFQa-35UBtliYmFfW37ULr-FWGrbDMeL43DjCTtrxLdCU3fkPWZuFt5OeckQ5RmwoMdjMv&new=1)
 #### [【2021-12-07】(语义分割)【冠军方案】CVPR2021 OmniCV WoodScape 挑战赛冠军方案解读](https://mp.weixin.qq.com/s?src=11&timestamp=1638858473&ver=3481&signature=I3*kxEDWnsIib4oOObkoMEr5jIKGDWPm4a5CQCiR64y7pErI4QLKVHnDkMYilv2nJg5wFIJbUn0NLouwOgKv1PvpMMML*ojq28o-448z7j4atHQmHeAEksos4o1zDT55&new=1)

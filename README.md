@@ -59,7 +59,7 @@
             <td></td>
         </tr>
         <tr>
-            <td><a href="http://www.mamicode.com/info-detail-2466907.html" target="_blank">TinyMind 多标签图像分类竞赛 之路</a>|<a href="https://github.com/RayDean/RMB_TechDing" target="_blank">TinyMind人民币编码识别竞赛，第三名代码</a></td>
+            <td><a href="http://www.mamicode.com/info-detail-2466907.html" target="_blank">TinyMind 多标签图像分类竞赛 之路</a>|<a href="https://github.com/RayDean/RMB_TechDing" target="_blank">识别第三名代码</a></td>
             <td></td>
         </tr>
         <tr>
@@ -98,7 +98,7 @@
         <tr>
             <td rowspan="12" style="border-bottom:1px solid">目标检测</td>
             <td>
-                <a href="https://mp.weixin.qq.com/s?src=11&timestamp=1638858473&ver=3481&signature=jsd6*CIAyuPDJTA8hCs4XaIUhQdsChjaOmc3rWah8aNJa*JV5V6pl2-iXudFQa-35UBtliYmFfW37ULr-FWGrbDMeL43DjCTtrxLdCU3fkPWZuFt5OeckQ5RmwoMdjMv&new=1" target="_blank">(视频目标检测|多目标追踪)当CV碰上无人机：ICCV 2019 VisDrone挑战赛冠军解决方案解读</a>
+                <a href="https://mp.weixin.qq.com/s?src=11&timestamp=1638858473&ver=3481&signature=jsd6*CIAyuPDJTA8hCs4XaIUhQdsChjaOmc3rWah8aNJa*JV5V6pl2-iXudFQa-35UBtliYmFfW37ULr-FWGrbDMeL43DjCTtrxLdCU3fkPWZuFt5OeckQ5RmwoMdjMv&new=1" target="_blank">当CV碰上无人机：ICCV 2019 VisDrone挑战赛冠军解决方案解读</a>
             </td>
             <td>2021-12-07</td>
         </tr>

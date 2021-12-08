@@ -1,6 +1,9 @@
 ### NLP
 > 【从他人比赛经验中，总是可以学到很多东西】
+
+已有整理的仓库: [NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
 ---
+#### [【2021-12-08】2020法研杯阅读理解赛道第一名方案](https://renxingkai.github.io/2021/05/14/cail-2020-mrc/)
 #### [【2021-12-07】竞赛大牛亲授 | 使用深度学习模型及NLP竞赛上分技巧](https://blog.51cto.com/u_15310860/3198328)
 #### [【2021-12-07】如何到top5%？NLP文本分类和情感分析竞赛总结](https://cloud.tencent.com/developer/article/1540861)
 #### [【2021-12-07】NLP 竞赛经验总结-2021](https://zhuanlan.zhihu.com/p/371198818)

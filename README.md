@@ -224,7 +224,71 @@
 </table>
 
 
-
+## 竞赛平台
+<table style="border-bottom:1px solid">
+    <thead>
+        <tr align="center" style="border-bottom:1px solid;border-top:1px solid;boder-">
+            <td><b>平台名称</b></td>
+            <td style="border-left:1px solid"><b>简单介绍</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://coggle.club/" target="_blank">Coggle数据科学</a>
+            </td>
+            <td>全平台比赛信息汇总平台</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.datafountain.cn/competitions" target="_blank">DataFountain</a>
+            </td>
+            <td>涉及CV、NLP、数据挖掘等全面的比赛平台</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.heywhale.com/home/competitions" target="_blank">和鲸社区</a>
+            </td>
+            <td>综合性比赛平台，侧重数据科学、机器人一些</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.flyai.com/" target="_blank">FlyAI</a>
+            </td>
+            <td>涉及视觉计算、自然语言处理、语音、结构化数据等</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://competitions.codalab.org/competitions/" target="_blank">CodaLab</a>
+            </td>
+            <td>多数为学术型的竞赛平台，包括一些学术会议的附赛</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://tianchi.aliyun.com/competition/gameList/activeList" target="_blank">天池</a>
+            </td>
+            <td>比较有名，不作过多说明</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="http://contest.aicubes.cn/#/" target="_blank">同花顺算法平台</a>
+            </td>
+            <td>来源于真实场景业务问题，CV\NLp\语音都有涉及</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.kaggle.com/competitions" target="_blank">Kaggle</a>
+            </td>
+            <td>比较有名，不作过多说明</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="http://ailab.aiwin.org.cn/competitions/" target="_blank">AIWIN</a>
+            </td>
+            <td>一个比较小众的平台，涉及CV较多一些，每年有两次(春季赛|秋季赛)</td>
+        </tr>
+    </tbody>
+</table>
 
 
 

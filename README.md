@@ -64,7 +64,7 @@
         </tr>
         <tr>
             <td style="border-bottom:1px solid">
-                <a href="https://blog.csdn.net/u011599639/article/details/102065805" target="_blank">【图像分类】华为云·垃圾分类亚军方案分享</a>
+                <a href="https://blog.csdn.net/u011599639/article/details/102065805" target="_blank">华为云·垃圾分类亚军方案分享</a>
             </td>
             <td style="border-bottom:1px solid">-</td>
         </tr>

@@ -153,6 +153,14 @@
             </td>
             <td style="border-bottom:1px solid">2021-12-08</td>
         </tr>
+        <!-----------------------------AI算法部分---------------------->
+        <tr>
+            <td rowspan="1" style="border-bottom:1px solid">AI算法</td>
+            <td style="border-bottom:1px solid">
+                <a href="https://mp.weixin.qq.com/s/CGrVYSq_nFj7dVWN8fheCw" target="_blank">腾讯QQ浏览器2021AI算法大赛，北大冠军团队经验分享，附详细代码</a>
+            </td>
+            <td style="border-bottom:1px solid">2021-12-12</td>
+        </tr>
         <!------------------------------OCR部分---------------------->
         <tr>
             <td rowspan="5" style="border-bottom:1px solid">OCR</td>
@@ -173,6 +181,13 @@
             <td><a href="https://discussion.datafountain.cn/questions/2232" target="_blank">基于OCR的身份证要素提取</a></td>
             <td></td>
         </tr>
+        <tr>
+            <td style="border-bottom:1px solid">
+                <a href="https://mp.weixin.qq.com/s/55syneurJCy7YBL_Vw16Wg" target="_blank">【比赛冠军方案开源】真实场景下身份证复印件OCR信息抽取</a> |
+                <a href="https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement" target="_blank">源码</a>
+            </td>
+            <td style="border-bottom:1px solid"></td>
+        </tr>  
         <tr>
             <td style="border-bottom:1px solid">
                 <a href="https://mp.weixin.qq.com/s/55syneurJCy7YBL_Vw16Wg" target="_blank">【比赛冠军方案开源】真实场景下身份证复印件OCR信息抽取</a> |

@@ -188,13 +188,6 @@
             </td>
             <td style="border-bottom:1px solid"></td>
         </tr>  
-        <tr>
-            <td style="border-bottom:1px solid">
-                <a href="https://mp.weixin.qq.com/s/55syneurJCy7YBL_Vw16Wg" target="_blank">【比赛冠军方案开源】真实场景下身份证复印件OCR信息抽取</a> |
-                <a href="https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement" target="_blank">源码</a>
-            </td>
-            <td style="border-bottom:1px solid"></td>
-        </tr>
         <!------------------------------比赛技巧部分---------------------->
         <tr>
             <td rowspan="9">比赛技巧</td>

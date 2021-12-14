@@ -68,9 +68,13 @@
             </td>
             <td style="border-bottom:1px solid">-</td>
         </tr>
-        <!------------------------------语义分割部分---------------------->
+        <!------------------------------图像分割部分---------------------->
         <tr>
-            <td rowspan="5" style="border-bottom:1px solid">语义分割</td>
+            <td rowspan="6" style="border-bottom:1px solid">图像分割</td>
+            <td><a href="https://mp.weixin.qq.com/s/k_v8FG26VGKlZypIdyw5lQ" target="_blank">魔改nnU-Net夺冠！2021 BraTS 脑肿瘤分割竞赛第一名解决方案</a></td>
+            <td>2021-12-14</td>
+        </tr>
+        <tr>
             <td><a href="https://developer.huaweicloud.com/hero/thread-99413-1-1.html" target="_blank">[参赛经验分享]2020西安人工智能大赛冠军模型分享-西南交通大学VGE团队</a></td>
             <td>2021-12-08</td>
         </tr>

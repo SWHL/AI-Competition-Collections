@@ -1,7 +1,8 @@
-# Other(推荐系统|数据挖掘等)
+# Other(推荐系统|数据挖掘|知识图谱等)
 > 【从他人比赛经验中，总是可以学到很多东西】
 
 ---
+#### [【2021-12-29】筛选风险词、用实体类型推断发现限售商品，阿里安全夺冠知识图谱大赛](https://mp.weixin.qq.com/s/1AXztwJCgkEauOKZwfs5Kw)
 #### [【2021-12-23】电商风控赛事亚军方案分享](https://mp.weixin.qq.com/s/jpJBvPihhHxREC6-FcXGyQ)
 #### [【2021-12-12】[冠军团队]分享微信大数据挑战赛经验](https://mp.weixin.qq.com/s/Jxydvm9Ri11i4RF4NbS0bA)
 #### [【2021-12-08】KDD Cup 2020 Debiasing比赛冠军技术方案及在美团的实践](https://tech.meituan.com/2020/08/20/kdd-cup-debiasing-practice.html)

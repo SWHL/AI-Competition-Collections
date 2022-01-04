@@ -2,6 +2,7 @@
 > 【从他人比赛经验中，总是可以学到很多东西】
 
 ---
+#### [【2022-01-04】赵学敏：京东商品图谱构建与实体对齐](https://mp.weixin.qq.com/s/9y4x4Ui4a5HiHRwi-gGRmA)
 #### [【2021-12-29】筛选风险词、用实体类型推断发现限售商品，阿里安全夺冠知识图谱大赛](https://mp.weixin.qq.com/s/1AXztwJCgkEauOKZwfs5Kw)
 #### [【2021-12-23】电商风控赛事亚军方案分享](https://mp.weixin.qq.com/s/jpJBvPihhHxREC6-FcXGyQ)
 #### [【2021-12-12】[冠军团队]分享微信大数据挑战赛经验](https://mp.weixin.qq.com/s/Jxydvm9Ri11i4RF4NbS0bA)

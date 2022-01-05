@@ -1,7 +1,8 @@
-# Other(推荐系统|数据挖掘|知识图谱等)
-> 【从他人比赛经验中，总是可以学到很多东西】
+# Other(推荐系统|数据挖掘|知识图谱|图网络等)
+> 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-01-05】公开催化剂挑战赛冠军模型、通用AI分子模拟库Graphormer开源！](https://mp.weixin.qq.com/s/oOrRYf8anJqwiMrVq-H_8g)
 #### [【2022-01-04】赵学敏：京东商品图谱构建与实体对齐](https://mp.weixin.qq.com/s/9y4x4Ui4a5HiHRwi-gGRmA)
 #### [【2021-12-29】筛选风险词、用实体类型推断发现限售商品，阿里安全夺冠知识图谱大赛](https://mp.weixin.qq.com/s/1AXztwJCgkEauOKZwfs5Kw)
 #### [【2021-12-23】电商风控赛事亚军方案分享](https://mp.weixin.qq.com/s/jpJBvPihhHxREC6-FcXGyQ)

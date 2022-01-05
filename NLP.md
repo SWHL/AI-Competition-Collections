@@ -1,6 +1,7 @@
 ### NLP
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+#### [【2022-01-05】CCF BDCI 2019 互联网新闻情感分析 复赛top1解决方案](https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION)
 #### [【2022-01-05】WMT 2021冠军来了！重建巴别塔之多语言翻译模型](https://mp.weixin.qq.com/s/i2_5DDKHv-iShnhjObRg9Q)
 #### [【2021-12-08】2020法研杯阅读理解赛道第一名方案](https://renxingkai.github.io/2021/05/14/cail-2020-mrc/)
 #### [【2021-12-07】竞赛大牛亲授 | 使用深度学习模型及NLP竞赛上分技巧](https://blog.51cto.com/u_15310860/3198328)

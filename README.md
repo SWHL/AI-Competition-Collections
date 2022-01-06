@@ -149,13 +149,17 @@
             <td style="border-bottom:1px solid"><a href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247486101&idx=1&sn=179c07af407a162c5a0a9b310db0c74d&chksm=ec1fe76cdb686e7ad24a4f6455b18a9eb08b92cc195ec942d5fbad5c71fd8d2db69e6236ee69&token=1880143976&lang=zh_CN&scene=21#wechat_redirect" target="_blank">全国Top3!！极市联合电子科技大学取得京东AI时尚挑战赛三等奖荣誉（附技术方案）</a></td>
             <td style="border-bottom:1px solid"></td>
         </tr>
-        <!------------------------------人脸识别部分---------------------->
+        <!------------------------------关键点检测识别部分---------------------->
         <tr>
-            <td rowspan="1" style="border-bottom:1px solid">人脸识别</td>
+            <td rowspan="2" style="border-bottom:1px solid">关键点检测识别</td>
             <td style="border-bottom:1px solid">
                 <a href="https://mp.weixin.qq.com/s/cmP-jJLbCTw-sIUQnZxmKw" target="_blank">ICCV 2021 口罩人物身份鉴别全球挑战赛冠军方案分享</a>
             </td>
             <td style="border-bottom:1px solid">2021-12-08</td>
+        </tr>
+        <tr>
+            <td><a href="https://zhuanlan.zhihu.com/p/439870162" target="_blank">CCF BDCI 2021 花样滑冰动作识别比赛基于 MMAction2 的方案分享</a></td>
+            <td style="border-bottom:1px solid">2022-01-06</td>
         </tr>
         <!-----------------------------AI算法部分---------------------->
         <tr>

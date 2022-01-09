@@ -13,6 +13,14 @@
         </tr>
     </thead>
     <tbody>
+        <!------------------------------对抗攻击部分---------------------->
+        <tr>
+            <td rowspan="1" style="border-bottom:1px solid">对抗攻击</td>
+            <td style="border-bottom:1px solid">
+                <a href="https://mp.weixin.qq.com/s/KfgFo2n1AUijjrMoSE1eTQ" target="_blank">对抗图像变换攻击，腾讯OVB-AI技术中心获NeurIPS2021图像相似度挑战赛季军</a>
+            </td>
+            <td style="border-bottom:1px solid">2021-12-08</td>
+        </tr>
         <!------------------------------图像分类部分---------------------->
         <tr>
             <td rowspan="13" style="border-bottom:1px solid">图像分类</td>

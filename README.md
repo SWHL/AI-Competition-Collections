@@ -179,11 +179,15 @@
         </tr>
         <!------------------------------OCR部分---------------------->
         <tr>
-            <td rowspan="5" style="border-bottom:1px solid">OCR</td>
+            <td rowspan="6" style="border-bottom:1px solid">OCR</td>
             <td>
                 <a href="https://github.com/zhang0jhon/AttentionOCR" target="_blank">ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text 冠军方案源码</a>
             </td>
             <td>2021-11-19</td>
+        </tr>
+        <tr>
+            <td><a href="https://mp.weixin.qq.com/s/8KW4Sdrbcypy5e6rt8qeYw" target="_blank">世界人工智能大赛 Top1 方案！手写体 OCR 识别</a></td>
+            <td>2022-01-23</td>
         </tr>
         <tr>
             <td><a href="https://bbs.cvmart.net/articles/884/vote_count" target="_blank">【冠军】ICDAR 2019 自由字型文本识别竞赛冠军方案</a> | <a href="https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy" target="_blank">Github源码</a></td>

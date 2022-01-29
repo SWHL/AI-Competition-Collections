@@ -108,10 +108,14 @@
         </tr>
         <!------------------------------目标检测部分---------------------->
         <tr>
-            <td rowspan="12" style="border-bottom:1px solid">目标检测</td>
+            <td rowspan="13" style="border-bottom:1px solid">目标检测</td>
             <td>
-                <a href="https://mp.weixin.qq.com/s?src=11&timestamp=1638858473&ver=3481&signature=jsd6*CIAyuPDJTA8hCs4XaIUhQdsChjaOmc3rWah8aNJa*JV5V6pl2-iXudFQa-35UBtliYmFfW37ULr-FWGrbDMeL43DjCTtrxLdCU3fkPWZuFt5OeckQ5RmwoMdjMv&new=1" target="_blank">当CV碰上无人机：ICCV 2019 VisDrone挑战赛冠军解决方案解读</a>
+                <a href="https://mp.weixin.qq.com/s/6nxVUe33Fb4O3UJ0Gb5P7g" target="_blank">基于大尺寸图像的小目标检测竞赛经验总结</a>
             </td>
+            <td>2022-01-29</td>
+        </tr>
+        <tr>
+            <td><a href="https://mp.weixin.qq.com/s?src=11&timestamp=1638858473&ver=3481&signature=jsd6*CIAyuPDJTA8hCs4XaIUhQdsChjaOmc3rWah8aNJa*JV5V6pl2-iXudFQa-35UBtliYmFfW37ULr-FWGrbDMeL43DjCTtrxLdCU3fkPWZuFt5OeckQ5RmwoMdjMv&new=1" target="_blank">当CV碰上无人机：ICCV 2019 VisDrone挑战赛冠军解决方案解读</a></td>
             <td>2021-12-07</td>
         </tr>
         <tr>

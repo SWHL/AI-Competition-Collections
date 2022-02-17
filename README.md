@@ -183,7 +183,13 @@
         </tr>
         <!------------------------------OCR部分---------------------->
         <tr>
-            <td rowspan="6" style="border-bottom:1px solid">OCR</td>
+            <td rowspan="7" style="border-bottom:1px solid">OCR</td>
+            <td>
+                <a href="https://mp.weixin.qq.com/s/HcmBuKx1xMSOOW6dyAb8pQ" target="_blank">竞赛冠军方法分享 | 基于多模态GCN和句子排序的POI生成方案</a>
+            </td>
+            <td>2022-02-17</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://github.com/zhang0jhon/AttentionOCR" target="_blank">ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text 冠军方案源码</a>
             </td>

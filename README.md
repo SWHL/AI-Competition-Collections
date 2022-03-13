@@ -4,7 +4,8 @@
 [NLP赛事分享贴](./NLP.md) | [语音赛事分享贴](./Speech.md) | [机器学习赛事分享贴](./ML.md) | [Other(推荐系统|数据挖掘|知识图谱|图网络等)](./other.md)
 
 ## 比赛信息汇总
-- [【2022-05.07截止】ICPR 2022 | 多模态字幕识别竞赛正式启动！](https://mp.weixin.qq.com/s/HxcrgXOQmaqDpPsGN1PFjw)
+- [【2022-05.07截止提交】ICPR 2022 | 多模态字幕识别竞赛正式启动！](https://mp.weixin.qq.com/s/HxcrgXOQmaqDpPsGN1PFjw)
+- [【2022-05-10截止提交】ICPR 2022 | 第一届卫星视频运动目标检测与跟踪挑战赛正式开赛](https://mp.weixin.qq.com/s/9d3rpilBh49_1-I3m_MSMA)
 
 ## 欢迎PR, 持续更新中... 
 ---

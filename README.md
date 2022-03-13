@@ -1,7 +1,10 @@
 # AI-Competition-Collections
 > 从他人比赛经验中，总是可以学到很多东西
 
-[NLP赛事分享贴](./NLP.md) | [语音赛事分享贴](./Speech.md) | [机器学习赛事分享贴](./ML.md) | [Other(推荐系统|数据挖掘|知识图谱|图网络等)](./other.md)
+- [NLP赛事分享贴](./NLP.md)
+- [语音赛事分享贴](./Speech.md)
+- [机器学习赛事分享贴](./ML.md)
+- [Other(推荐系统|数据挖掘|知识图谱|图网络等)](./other.md)
 
 ## 比赛信息汇总
 - [【2022-05-07截止提交】ICPR 2022 | 多模态字幕识别竞赛正式启动！](https://mp.weixin.qq.com/s/HxcrgXOQmaqDpPsGN1PFjw)

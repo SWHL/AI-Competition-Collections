@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-03-13】网易云音乐广告算法实践](https://mp.weixin.qq.com/s/wpgESXcT8UVwDjtPZdo_Bg)
 #### [【2022-01-05】公开催化剂挑战赛冠军模型、通用AI分子模拟库Graphormer开源！](https://mp.weixin.qq.com/s/oOrRYf8anJqwiMrVq-H_8g)
 #### [【2022-01-04】赵学敏：京东商品图谱构建与实体对齐](https://mp.weixin.qq.com/s/9y4x4Ui4a5HiHRwi-gGRmA)
 #### [【2021-12-29】筛选风险词、用实体类型推断发现限售商品，阿里安全夺冠知识图谱大赛](https://mp.weixin.qq.com/s/1AXztwJCgkEauOKZwfs5Kw)

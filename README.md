@@ -11,7 +11,6 @@
 - [【2022-05-10截止提交】ICPR 2022 | 第一届卫星视频运动目标检测与跟踪挑战赛正式开赛](https://mp.weixin.qq.com/s/9d3rpilBh49_1-I3m_MSMA)
 
 ## 欢迎PR, 持续更新中... 
----
 <table style="border-bottom:1px solid">
     <thead>
         <tr align="center" style="border-bottom:1px solid;border-top:1px solid;boder-">

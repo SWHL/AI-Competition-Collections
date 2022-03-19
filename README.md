@@ -21,6 +21,22 @@
         </tr>
     </thead>
     <tbody>
+        <!-----------------------------多模态---------------------->
+        <tr>
+            <td rowspan="1" style="border-bottom:1px solid">多模态</td>
+            <td style="border-bottom:1px solid">
+                <a href="https://mp.weixin.qq.com/s/VLSxq90-myP4Khc0jONVOw" target="_blank">ACM MM 2021 WAB 产品的识别冠军方案</a>
+            </td>
+            <td style="border-bottom:1px solid">2022-03-19</td>
+        </tr>
+        <!-----------------------------图像视频修复和增强---------------------->
+        <tr>
+            <td rowspan="1" style="border-bottom:1px solid">图像视频修复和增强</td>
+            <td style="border-bottom:1px solid">
+                <a href="https://mp.weixin.qq.com/s/VLSxq90-myP4Khc0jONVOw" target="_blank">CVPR 2021 NTIRE 2021 挑战赛多帧 HDR 成像冠军方案</a>
+            </td>
+            <td style="border-bottom:1px solid">2022-03-19</td>
+        </tr>
         <!------------------------------对抗攻击部分---------------------->
         <tr>
             <td rowspan="1" style="border-bottom:1px solid">对抗攻击</td>

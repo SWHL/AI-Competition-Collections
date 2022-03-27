@@ -207,7 +207,13 @@
         </tr>
         <!------------------------------OCR部分---------------------->
         <tr>
-            <td rowspan="8" style="border-bottom:1px solid">OCR</td>
+            <td rowspan="9" style="border-bottom:1px solid">OCR</td>
+            <td>
+                <a href="https://mp.weixin.qq.com/s/JyA10ANVtT25pKZVH2fdOA" target="_blank">2021好未来表格识别技术第一名方案</a>
+            </td>
+            <td>2022-03-27</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://mp.weixin.qq.com/s/wUSeWeQQ2G_mQznD5a3FRw" target="_blank">[竞赛冠军方法分享] | PRCV 2021表格识别技术挑战赛--分阶段表格识别方案</a>
             </td>

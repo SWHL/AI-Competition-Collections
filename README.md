@@ -31,12 +31,16 @@
         </tr>
         <!-----------------------------图像视频修复和增强---------------------->
         <tr>
-            <td rowspan="1" style="border-bottom:1px solid">图像视频修复和增强</td>
+            <td rowspan="2" style="border-bottom:1px solid">图像视频修复和增强</td>
             <td style="border-bottom:1px solid">
                 <a href="https://mp.weixin.qq.com/s/VLSxq90-myP4Khc0jONVOw" target="_blank">CVPR 2021 NTIRE 2021 挑战赛多帧 HDR 成像冠军方案</a>
             </td>
             <td style="border-bottom:1px solid">2022-03-19</td>
         </tr>
+        <tr>
+            <td><a href="https://blog.csdn.net/weixin_42130300/article/details/122932773" target="_blank">百度网盘文档图像摩尔纹消除比赛分享</a></td>
+            <td>2022-03-30</td>
+        <tr>
         <!------------------------------对抗攻击部分---------------------->
         <tr>
             <td rowspan="1" style="border-bottom:1px solid">对抗攻击</td>

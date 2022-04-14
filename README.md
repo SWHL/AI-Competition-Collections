@@ -211,7 +211,13 @@
         </tr>
         <!------------------------------OCR部分---------------------->
         <tr>
-            <td rowspan="9" style="border-bottom:1px solid">OCR</td>
+            <td rowspan="10" style="border-bottom:1px solid">OCR</td>
+            <td>
+                <a href="https://blog.csdn.net/demm868/article/details/106010223" target="_blank">AlexNet做文档布局分析 (版面分析)&数据集</a>
+            </td>
+            <td>2022-04-14</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://mp.weixin.qq.com/s/JyA10ANVtT25pKZVH2fdOA" target="_blank">2021好未来表格识别技术第一名方案</a>
             </td>

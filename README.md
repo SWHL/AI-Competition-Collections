@@ -39,10 +39,14 @@
         </tr>
         <!-----------------------------图像视频修复和增强---------------------->
         <tr>
-            <td rowspan="2" style="border-bottom:1px solid">图像视频修复和增强</td>
+            <td rowspan="3" style="border-bottom:1px solid">图像视频修复和增强</td>
             <td style="border-bottom:1px solid">
-                <a href="https://mp.weixin.qq.com/s/VLSxq90-myP4Khc0jONVOw" target="_blank">CVPR 2021 NTIRE 2021 挑战赛多帧 HDR 成像冠军方案</a>
+                <a href="https://mp.weixin.qq.com/s/rUAP_4EFcy6eXE3kJqFrtg" target="_blank">旷视研究院荣获 CVPR 2022 NTIRE 双目图像超分辨率比赛第一！</a>
             </td>
+            <td style="border-bottom:1px solid">2022-04-24</td>
+        </tr>
+        <tr>
+            <td><a href="https://mp.weixin.qq.com/s/VLSxq90-myP4Khc0jONVOw" target="_blank">CVPR 2021 NTIRE 2021 挑战赛多帧 HDR 成像冠军方案</a></td>
             <td style="border-bottom:1px solid">2022-03-19</td>
         </tr>
         <tr>

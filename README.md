@@ -278,7 +278,13 @@
         </tr>  
         <!------------------------------比赛技巧部分---------------------->
         <tr>
-            <td rowspan="9">比赛技巧</td>
+            <td rowspan="10">比赛技巧</td>
+            <td>
+                <a href="https://mp.weixin.qq.com/s/6ZJYaIU9wH8-L4tUHTP4_w" target="_blank">称霸Kaggle的十大深度学习技巧！</a>
+            </td>
+            <td>2022-04-26</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://mp.weixin.qq.com/s/Myvzu5oX1yB7H2nMBW-IpA" target="_blank">【极市打榜】算法竞赛/打榜通用技巧总结（附源码）</a>
             </td>

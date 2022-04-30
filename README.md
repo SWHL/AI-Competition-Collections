@@ -39,8 +39,14 @@
         </tr>
         <!-----------------------------图像视频修复和增强---------------------->
         <tr>
-            <td rowspan="3" style="border-bottom:1px solid">图像视频修复和增强</td>
+            <td rowspan="4" style="border-bottom:1px solid">图像视频修复和增强</td>
             <td style="border-bottom:1px solid">
+                <a href="https://mp.weixin.qq.com/s/8NHhFtJrmm7kTUf-QjHk6Q" target="_blank">NTIRE 2022 视频增强冠军经验分享</a>
+            </td>
+            <td style="border-bottom:1px solid">2022-04-30</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://mp.weixin.qq.com/s/rUAP_4EFcy6eXE3kJqFrtg" target="_blank">旷视研究院荣获 CVPR 2022 NTIRE 双目图像超分辨率比赛第一！</a>
             </td>
             <td style="border-bottom:1px solid">2022-04-24</td>

@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-05-13】Kaggle H&M个性化推荐金牌方案总结](https://mp.weixin.qq.com/s/JieqWl4wQXHP2t9Ew6fd6w)
 #### [【2022-05-08】获奖方案|2021 CCF BDCI「POI名称生成」赛题二等奖](https://mp.weixin.qq.com/s/q6JUySACQR748Vty5I30BA)
 #### [【2022-04-27】企业非法集资风险预测 | 面向数据治理的内容分类](https://mp.weixin.qq.com/s/Fem7Zxn4tD7sbRRYsNEkcQ)
 #### [【2022-03-13】网易云音乐广告算法实践](https://mp.weixin.qq.com/s/wpgESXcT8UVwDjtPZdo_Bg)

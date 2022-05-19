@@ -18,11 +18,15 @@
     <tbody>
         <!-----------------------------图像重建---------------------->
         <tr>
-            <td rowspan="1" style="border-bottom:1px solid">图像重建</td>
+            <td rowspan="2" style="border-bottom:1px solid">图像重建</td>
             <td style="border-bottom:1px solid">
                 <a href="https://zhuanlan.zhihu.com/p/501101943" target="_blank">[CVPR 2022 & NTIRE 2022 冠军] 多快好省的高光谱图像重建</a>
             </td>
             <td style="border-bottom:1px solid">2022-04-24</td>
+        </tr>
+        <tr>
+            <td><a href="https://mp.weixin.qq.com/s/59aq5ocE_EAjCaL6Xvo9hg" target="_blank">CVPR NTIRE比赛双冠，网易互娱AI Lab是这样做的</a></td>
+            <td>2022-05-19</td>
         </tr>
         <!-----------------------------多模态---------------------->
         <tr>
@@ -71,6 +75,7 @@
         <tr>
             <td><a href="https://baijiahao.baidu.com/s?id=1669179024802175438&wfr=spider&for=pc" target="_blank">支付宝夺冠CVPR细粒度视觉分类挑战赛：数据增强+知识蒸馏</a></td>
             <td></td>
+        </tr>
         <tr>
             <td><a href="https://mp.weixin.qq.com/s/mRyFVNN4gFVq_6lUJoDQEg" target="_blank">详解这场图片分类赛baseline，赢取官方人才认证+奖金</a></td>
             <td></td>

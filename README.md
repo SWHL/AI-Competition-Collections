@@ -154,7 +154,7 @@
         </tr>
         <!------------------------------目标检测部分---------------------->
         <tr>
-            <td rowspan="14" style="border-bottom:1px solid">目标检测</td>
+            <td rowspan="15" style="border-bottom:1px solid">目标检测</td>
             <td>
                 <a href="https://mp.weixin.qq.com/s/6nxVUe33Fb4O3UJ0Gb5P7g" target="_blank">基于大尺寸图像的小目标检测竞赛经验总结</a>
             </td>
@@ -197,6 +197,10 @@
         </tr>
         <tr>
             <td><a href="https://tianchi.aliyun.com/competition/entrance/231682/forum" target="_blank">天池-铝型材表面瑕疵检测</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://mp.weixin.qq.com/s/ga8XjcLJOPvZsWUUqrtuAA" target="_blank">竞赛经验｜Kaggle竞赛中使用YoloV5将物体检测的性能翻倍的心路历程</a></td>
             <td></td>
         </tr>
         <tr>

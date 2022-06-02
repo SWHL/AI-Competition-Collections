@@ -16,13 +16,13 @@
         </tr>
     </thead>
     <tbody>
-        <!-----------------------------图像重建---------------------->
+        <!-----------------------------图像视频修复|增强|重建---------------------->
         <tr>
-            <td rowspan="3" style="border-bottom:1px solid">图像重建</td>
+            <td rowspan="7" style="border-bottom:1px solid">图像视频修复|增强|重建</td>
             <td style="border-bottom:1px solid">
                 <a href="https://zhuanlan.zhihu.com/p/501101943" target="_blank">[CVPR 2022 & NTIRE 2022 冠军] 多快好省的高光谱图像重建</a>
             </td>
-            <td style="border-bottom:1px solid">2022-04-24</td>
+            <td>2022-04-24</td>
         </tr>
         <tr>
             <td><a href="https://mp.weixin.qq.com/s/e_kwXbgLEbD8Am7qRoJJZw" target="_blank">字节跳动团队夺得NTIRE 2022 ESR挑战赛主赛道冠军</a></td>
@@ -32,18 +32,8 @@
             <td><a href="https://mp.weixin.qq.com/s/59aq5ocE_EAjCaL6Xvo9hg" target="_blank">CVPR NTIRE比赛双冠，网易互娱AI Lab是这样做的</a></td>
             <td>2022-05-19</td>
         </tr>
-        <!-----------------------------多模态---------------------->
         <tr>
-            <td rowspan="1" style="border-bottom:1px solid">多模态</td>
-            <td style="border-bottom:1px solid">
-                <a href="https://mp.weixin.qq.com/s/VLSxq90-myP4Khc0jONVOw" target="_blank">ACM MM 2021 WAB 产品的识别冠军方案</a>
-            </td>
-            <td style="border-bottom:1px solid">2022-03-19</td>
-        </tr>
-        <!-----------------------------图像视频修复和增强---------------------->
-        <tr>
-            <td rowspan="4" style="border-bottom:1px solid">图像视频修复和增强</td>
-            <td style="border-bottom:1px solid">
+            <td>
                 <a href="https://mp.weixin.qq.com/s/8NHhFtJrmm7kTUf-QjHk6Q" target="_blank">NTIRE 2022 视频增强冠军经验分享</a>
             </td>
             <td style="border-bottom:1px solid">2022-04-30</td>
@@ -60,8 +50,16 @@
         </tr>
         <tr>
             <td><a href="https://blog.csdn.net/weixin_42130300/article/details/122932773" target="_blank">百度网盘文档图像摩尔纹消除比赛分享</a></td>
-            <td>2022-03-30</td>
+            <td style="border-bottom:1px solid">2022-03-30</td>
         <tr>
+        <!-----------------------------多模态---------------------->
+        <tr>
+            <td rowspan="1" style="border-bottom:1px solid">多模态</td>
+            <td style="border-bottom:1px solid">
+                <a href="https://mp.weixin.qq.com/s/VLSxq90-myP4Khc0jONVOw" target="_blank">ACM MM 2021 WAB 产品的识别冠军方案</a>
+            </td>
+            <td style="border-bottom:1px solid">2022-03-19</td>
+        </tr>
         <!------------------------------对抗攻击部分---------------------->
         <tr>
             <td rowspan="1" style="border-bottom:1px solid">对抗攻击</td>

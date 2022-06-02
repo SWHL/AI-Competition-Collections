@@ -25,6 +25,10 @@
             <td style="border-bottom:1px solid">2022-04-24</td>
         </tr>
         <tr>
+            <td><a href="https://mp.weixin.qq.com/s/e_kwXbgLEbD8Am7qRoJJZw" target="_blank">字节跳动团队夺得NTIRE 2022 ESR挑战赛主赛道冠军</a></td>
+            <td>2022-06-02</td>
+        </tr>
+        <tr>
             <td><a href="https://mp.weixin.qq.com/s/59aq5ocE_EAjCaL6Xvo9hg" target="_blank">CVPR NTIRE比赛双冠，网易互娱AI Lab是这样做的</a></td>
             <td>2022-05-19</td>
         </tr>

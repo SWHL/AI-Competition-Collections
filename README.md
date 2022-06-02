@@ -18,7 +18,7 @@
     <tbody>
         <!-----------------------------图像重建---------------------->
         <tr>
-            <td rowspan="2" style="border-bottom:1px solid">图像重建</td>
+            <td rowspan="3" style="border-bottom:1px solid">图像重建</td>
             <td style="border-bottom:1px solid">
                 <a href="https://zhuanlan.zhihu.com/p/501101943" target="_blank">[CVPR 2022 & NTIRE 2022 冠军] 多快好省的高光谱图像重建</a>
             </td>

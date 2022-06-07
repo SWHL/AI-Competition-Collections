@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-06-07】二等奖方案|2021 CCF BDCI 「产品评论观点提取」赛题](https://mp.weixin.qq.com/s/-LrrbFxOtVOiyvjxewLxcw)
 #### [【2022-05-13】获奖方案|2021 CCF BDCI 「产品评论观点提取」赛题一等奖](https://mp.weixin.qq.com/s/MFa9bqEcPah2pdt1PfbeeA)
 #### [【2022-05-13】Kaggle H&M个性化推荐金牌方案总结](https://mp.weixin.qq.com/s/JieqWl4wQXHP2t9Ew6fd6w)
 #### [【2022-05-08】获奖方案|2021 CCF BDCI「POI名称生成」赛题二等奖](https://mp.weixin.qq.com/s/q6JUySACQR748Vty5I30BA)

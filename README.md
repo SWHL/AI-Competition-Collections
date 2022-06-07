@@ -355,7 +355,7 @@
                 一碗数据汤
             </td>
             <td>
-                DF平台(www.datafountain.cn)官方公众号，有趣有料的大数据社群，从今天起，爱上这碗数据汤
+                DF平台 (www.datafountain.cn) 官方公众号，有趣有料的大数据社群，从今天起，爱上这碗数据汤
             </td>
         </tr>
         <tr>
@@ -376,13 +376,6 @@
         </tr>
     </tbody>
 </table>
-
-
-
-
-
-
-
 
 ## 竞赛平台
 <table style="border-bottom:1px solid">

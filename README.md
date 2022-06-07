@@ -341,6 +341,48 @@
     </tbody>
 </table>
 
+## 竞赛文章公众号
+<table style="border-bottom:1px solid">
+    <thead>
+        <tr align="center" style="border-bottom:1px solid;border-top:1px solid;boder-">
+            <td><b>公众号名称</b></td>
+            <td style="border-left:1px solid"><b>简单介绍</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                一碗数据汤
+            </td>
+            <td>
+                DF平台(www.datafountain.cn)官方公众号，有趣有料的大数据社群，从今天起，爱上这碗数据汤
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Datawhale
+            </td>
+            <td>
+                一个专注于AI领域的开源组织，汇聚了众多优秀学习者，愿景-for the learnner,和学习者一起成长。
+            </td>
+        </tr>
+        <tr>
+            <td>
+                世界AI创新大赛
+            </td>
+            <td>
+                世界人工智能创新大赛（AIWIN），是世界人工智能大会的组成部分之一。
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+
 
 ## 竞赛平台
 <table style="border-bottom:1px solid">

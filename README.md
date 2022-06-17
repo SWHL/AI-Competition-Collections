@@ -16,6 +16,14 @@
         </tr>
     </thead>
     <tbody>
+        <!-----------------------------图像篡改检测---------------------->
+        <tr>
+            <td rowspan="1" style="border-bottom:1px solid">图像篡改检测</td>
+            <td style="border-bottom:1px solid">
+                <a href="https://mp.weixin.qq.com/s/3Sow9bng3krLPcW7x8ebzA" target="_blank">CVPR 2022视觉算法 赛道二：图像篡改检测竞赛Top团队方案</a>
+            </td>
+            <td style="border-bottom:1px solid">2022-06-17</td>
+        </tr>
         <!-----------------------------图像视频修复|增强|重建---------------------->
         <tr>
             <td rowspan="7" style="border-bottom:1px solid">图像视频修复|增强|重建</td>
@@ -70,7 +78,11 @@
         </tr>
         <!------------------------------图像分类部分---------------------->
         <tr>
-            <td rowspan="13" style="border-bottom:1px solid">图像分类</td>
+            <td rowspan="14" style="border-bottom:1px solid">图像分类</td>
+            <td><a href="https://mp.weixin.qq.com/s/3Sow9bng3krLPcW7x8ebzA" target="_blank">CVPR 2022视觉算法 赛道一：宠物生物特征识别竞赛Top团队方案</a></td>
+            <td>2022-06-17</td>
+        </tr>
+        <tr>
             <td><a href="https://mp.weixin.qq.com/s/pIrqtxseLpUj1TZV4VohNw" target="_blank">2021科大讯飞-X光安检图像识别赛Top1方案！</a></td>
             <td>2021-11-08</td>
         </tr>

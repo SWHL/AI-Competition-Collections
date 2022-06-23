@@ -26,8 +26,14 @@
         </tr>
         <!-----------------------------图像视频修复|增强|重建---------------------->
         <tr>
-            <td rowspan="7" style="border-bottom:1px solid">图像视频修复|增强|重建</td>
+            <td rowspan="8" style="border-bottom:1px solid">图像视频修复|增强|重建|超分</td>
             <td style="border-bottom:1px solid">
+                <a href="https://mp.weixin.qq.com/s/Uab8s3PzEtxNblEVMtvO3w" target="_blank">旷视研究院荣获 CVPR 2022 NTIRE RAW 图像多帧超分-真实世界数据赛道比赛第一！</a>
+            </td>
+            <td>2022-06-24</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://zhuanlan.zhihu.com/p/501101943" target="_blank">[CVPR 2022 & NTIRE 2022 冠军] 多快好省的高光谱图像重建</a>
             </td>
             <td>2022-04-24</td>
@@ -251,7 +257,13 @@
         </tr>
         <!------------------------------OCR部分---------------------->
         <tr>
-            <td rowspan="10" style="border-bottom:1px solid">OCR</td>
+            <td rowspan="11" style="border-bottom:1px solid">OCR</td>
+            <td>
+                <a href="https://mp.weixin.qq.com/s/JofpqmaaHwx-s9PLTE3YzA" target="_blank">360数科夺得OCR国际技术竞赛冠军，商超小票文本行识别如何做到最佳？</a>
+            </td>
+            <td>2022-06-24</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://blog.csdn.net/demm868/article/details/106010223" target="_blank">AlexNet做文档布局分析 (版面分析)&数据集</a>
             </td>

@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西。
 
 ---
+#### [【2022-06-30】优胜奖方案|首届6G AI大赛@cdeb队 解题思路分享](https://mp.weixin.qq.com/s/1xYZpk0kD4y51CpjRXPgMQ)
 #### [【2022-06-15】三等奖方案|2021 CCF BDCI个贷违约预测赛题@酸菜鱼 队解题思路](https://mp.weixin.qq.com/s/Gpk58GOZ-pUQI63Srx_gYA)
 #### [【2022-06-07】二等奖方案|2021 CCF BDCI 「产品评论观点提取」赛题](https://mp.weixin.qq.com/s/-LrrbFxOtVOiyvjxewLxcw)
 #### [【2022-05-13】获奖方案|2021 CCF BDCI 「产品评论观点提取」赛题一等奖](https://mp.weixin.qq.com/s/MFa9bqEcPah2pdt1PfbeeA)

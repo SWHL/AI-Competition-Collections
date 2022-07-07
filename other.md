@@ -2,6 +2,8 @@
 > 从他人比赛经验中，总是可以学到很多东西。
 
 ---
+#### [【2022-07-07】优胜奖方案|首届6G AI大赛@鹏城包子队 解题思路分享](https://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247506633&idx=1&sn=767fb3837274cc28456a3967c5f9f160&chksm=eca4a871dbd321679cde61e31d42c597b0fe5f135131c143ec7b4a74e913d64f8610ee9a81e4&scene=178&cur_album_id=1822046196287258625#rd)
+#### [【2022-07-07】优胜奖方案|首届6G AI大赛@GOKU队 解题思路分享](https://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247506745&idx=1&sn=e8d552e21c2da32f79bb435841dd3992&chksm=eca4a981dbd32097c6ff1ec42f203bde8c2dfda52cd20d89f1561e6c9adef67dea405bf8debf&scene=178&cur_album_id=1822046196287258625#rd)
 #### [【2022-06-30】优胜奖方案|首届6G AI大赛@cdeb队 解题思路分享](https://mp.weixin.qq.com/s/1xYZpk0kD4y51CpjRXPgMQ)
 #### [【2022-06-15】三等奖方案|2021 CCF BDCI个贷违约预测赛题@酸菜鱼 队解题思路](https://mp.weixin.qq.com/s/Gpk58GOZ-pUQI63Srx_gYA)
 #### [【2022-06-07】二等奖方案|2021 CCF BDCI 「产品评论观点提取」赛题](https://mp.weixin.qq.com/s/-LrrbFxOtVOiyvjxewLxcw)

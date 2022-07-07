@@ -16,6 +16,28 @@
         </tr>
     </thead>
     <tbody>
+        <!-----------------------------视频理解---------------------->
+        <tr>
+            <td rowspan="2" style="border-bottom:1px solid">视频理解</td>
+            <td>
+                <a href="https://arxiv.org/abs/2206.12634" target="_blank">字节视觉智能团队CVPR2022 GEBD赛道（通用事件边界检测）冠军方案</a>
+            </td>
+            <td>2022-07-07</td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1px solid">
+                <a href="https://github.com/GX77/Dual-Stream-Transformer-for-Generic-Event-Boundary-Captioning" target="_blank">字节视觉智能团队CVPR2022 GEBC赛道（通用事件边界描述赛道）冠军方案源码</a>
+            </td>
+            <td style="border-bottom:1px solid">2022-07-07</td>
+        </tr>
+        <!-----------------------------图像压缩---------------------->
+        <tr>
+            <td rowspan="1" style="border-bottom:1px solid">图像压缩</td>
+            <td style="border-bottom:1px solid">
+                <a href="https://openaccess.thecvf.com/content/CVPR2022W/CLIC/html/Li_A_Neural-Network_Enhanced_Video_Coding_Framework_Beyond_VVC_CVPRW_2022_paper.html" target="_blank">火山引擎多媒体实验室在基于深度学习的图像压缩大赛 ：高、低码率双赛道夺冠方案</a>
+            </td>
+            <td style="border-bottom:1px solid">2022-07-07</td>
+        </tr>
         <!-----------------------------图像篡改检测---------------------->
         <tr>
             <td rowspan="1" style="border-bottom:1px solid">图像篡改检测</td>
@@ -26,11 +48,17 @@
         </tr>
         <!-----------------------------图像视频修复|增强|重建---------------------->
         <tr>
-            <td rowspan="8" style="border-bottom:1px solid">图像视频修复|增强|重建|超分</td>
-            <td style="border-bottom:1px solid">
+            <td rowspan="9" style="border-bottom:1px solid">图像视频修复|增强|重建|超分</td>
+            <td>
                 <a href="https://mp.weixin.qq.com/s/Uab8s3PzEtxNblEVMtvO3w" target="_blank">旷视研究院荣获 CVPR 2022 NTIRE RAW 图像多帧超分-真实世界数据赛道比赛第一！</a>
             </td>
             <td>2022-06-24</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="http://arxiv.org/abs/2205.07514" target="_blank">字节智能创作音视频团队NTIRE ESR(Efficient Super-Resolution)冠军方案</a>
+            </td>
+            <td>2022-07-07</td>
         </tr>
         <tr>
             <td>
@@ -50,30 +78,38 @@
             <td>
                 <a href="https://mp.weixin.qq.com/s/8NHhFtJrmm7kTUf-QjHk6Q" target="_blank">NTIRE 2022 视频增强冠军经验分享</a>
             </td>
-            <td style="border-bottom:1px solid">2022-04-30</td>
+            <td>2022-04-30</td>
         </tr>
         <tr>
             <td>
                 <a href="https://mp.weixin.qq.com/s/rUAP_4EFcy6eXE3kJqFrtg" target="_blank">旷视研究院荣获 CVPR 2022 NTIRE 双目图像超分辨率比赛第一！</a>
             </td>
-            <td style="border-bottom:1px solid">2022-04-24</td>
+            <td>2022-04-24</td>
         </tr>
         <tr>
             <td><a href="https://mp.weixin.qq.com/s/VLSxq90-myP4Khc0jONVOw" target="_blank">CVPR 2021 NTIRE 2021 挑战赛多帧 HDR 成像冠军方案</a></td>
-            <td style="border-bottom:1px solid">2022-03-19</td>
+            <td>2022-03-19</td>
         </tr>
         <tr>
-            <td><a href="https://blog.csdn.net/weixin_42130300/article/details/122932773" target="_blank">百度网盘文档图像摩尔纹消除比赛分享</a></td>
+            <td style="border-bottom:1px solid">
+                <a href="https://blog.csdn.net/weixin_42130300/article/details/122932773" target="_blank">百度网盘文档图像摩尔纹消除比赛分享</a>
+            </td>
             <td style="border-bottom:1px solid">2022-03-30</td>
         <tr>
         <!-----------------------------多模态---------------------->
         <tr>
-            <td rowspan="1" style="border-bottom:1px solid">多模态</td>
+            <td rowspan="2" style="border-bottom:1px solid">多模态</td>
+            <td>
+                <a href="https://drive.google.com/file/d/11VesB9LcBjjS67iTFSxHmUzQsfWWyuJ6/view" target="_blank">字节跳动极光-多模态技术团队VizWiz 2022 Answer Grounding竞赛冠军方案</a>
+            </td>
+            <td>2022-07-07</td>
+        </tr>
+        <tr>
             <td style="border-bottom:1px solid">
                 <a href="https://mp.weixin.qq.com/s/VLSxq90-myP4Khc0jONVOw" target="_blank">ACM MM 2021 WAB 产品的识别冠军方案</a>
             </td>
             <td style="border-bottom:1px solid">2022-03-19</td>
-        </tr>
+        <tr>
         <!------------------------------对抗攻击部分---------------------->
         <tr>
             <td rowspan="1" style="border-bottom:1px solid">对抗攻击</td>
@@ -144,9 +180,13 @@
         </tr>
         <!------------------------------图像分割部分---------------------->
         <tr>
-            <td rowspan="6" style="border-bottom:1px solid">图像分割</td>
+            <td rowspan="7" style="border-bottom:1px solid">图像分割</td>
             <td><a href="https://mp.weixin.qq.com/s/k_v8FG26VGKlZypIdyw5lQ" target="_blank">魔改nnU-Net夺冠！2021 BraTS 脑肿瘤分割竞赛第一名解决方案</a></td>
             <td>2021-12-14</td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/abs/2206.10845" target="_blank">字节智能创作AI平台Byte-IC-AutoML AVA比赛冠军方案</a></td>
+            <td>2022-07-07</td>
         </tr>
         <tr>
             <td><a href="https://developer.huaweicloud.com/hero/thread-99413-1-1.html" target="_blank">[参赛经验分享]2020西安人工智能大赛冠军模型分享-西南交通大学VGE团队</a></td>
@@ -238,13 +278,15 @@
         <!------------------------------关键点检测识别部分---------------------->
         <tr>
             <td rowspan="2" style="border-bottom:1px solid">关键点检测识别</td>
-            <td style="border-bottom:1px solid">
+            <td>
                 <a href="https://mp.weixin.qq.com/s/cmP-jJLbCTw-sIUQnZxmKw" target="_blank">ICCV 2021 口罩人物身份鉴别全球挑战赛冠军方案分享</a>
             </td>
-            <td style="border-bottom:1px solid">2021-12-08</td>
+            <td>2021-12-08</td>
         </tr>
         <tr>
-            <td><a href="https://zhuanlan.zhihu.com/p/439870162" target="_blank">CCF BDCI 2021 花样滑冰动作识别比赛基于 MMAction2 的方案分享</a></td>
+            <td style="border-bottom:1px solid">
+                <a href="https://zhuanlan.zhihu.com/p/439870162" target="_blank">CCF BDCI 2021 花样滑冰动作识别比赛基于 MMAction2 的方案分享</a>
+            </td>
             <td style="border-bottom:1px solid">2022-01-06</td>
         </tr>
         <!-----------------------------AI算法部分---------------------->

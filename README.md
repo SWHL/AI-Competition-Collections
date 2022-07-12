@@ -6,7 +6,7 @@
 - [机器学习赛事分享贴](./ML.md)
 - [Other(推荐系统|数据挖掘|知识图谱|图网络等)](./other.md)
 
-## 欢迎PR, 持续更新中... 
+## CV
 <table style="border-bottom:1px solid">
     <thead>
         <tr align="center" style="border-bottom:1px solid;border-top:1px solid;boder-">

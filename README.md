@@ -6,6 +6,17 @@
 - [机器学习赛事分享贴](./ML.md)
 - [Other(推荐系统|数据挖掘|知识图谱|图网络等)](./other.md)
 
+
+<details open>
+<summary>目录</summary>
+
+- [AI-Competition-Collections](#ai-competition-collections)
+  - [CV](#cv)
+  - [竞赛文章公众号](#竞赛文章公众号)
+  - [竞赛平台](#竞赛平台)
+
+</details>
+
 ## CV
 <table style="border-bottom:1px solid">
     <thead>
@@ -357,7 +368,7 @@
                 <a href="https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement" target="_blank">源码</a>
             </td>
             <td style="border-bottom:1px solid"></td>
-        </tr>  
+        </tr>
         <!------------------------------比赛技巧部分---------------------->
         <tr>
             <td rowspan="10">比赛技巧</td>

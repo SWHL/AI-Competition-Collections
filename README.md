@@ -225,7 +225,13 @@
         </tr>
         <!------------------------------目标检测部分---------------------->
         <tr>
-            <td rowspan="15" style="border-bottom:1px solid">目标检测</td>
+            <td rowspan="16" style="border-bottom:1px solid">目标检测</td>
+            <td>
+                <a href="https://zhuanlan.zhihu.com/p/422764914" target="_blank">DOTAv2遥感图像旋转目标检测竞赛经验分享（Swin Transformer + Anchor free/based方案）</a>
+            </td>
+            <td>2022-07-19</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://mp.weixin.qq.com/s/6nxVUe33Fb4O3UJ0Gb5P7g" target="_blank">基于大尺寸图像的小目标检测竞赛经验总结</a>
             </td>

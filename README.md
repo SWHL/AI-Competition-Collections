@@ -12,10 +12,13 @@
 
 - [AI-Competition-Collections](#ai-competition-collections)
   - [CV](#cv)
+  - [Kaggle比赛汇总](#kaggle比赛汇总)
   - [竞赛文章公众号](#竞赛文章公众号)
   - [竞赛平台](#竞赛平台)
 
 </details>
+
+## [Kaggle比赛汇总](https://farid.one/kaggle-solutions/)
 
 ## CV
 <table style="border-bottom:1px solid">

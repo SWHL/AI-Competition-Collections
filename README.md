@@ -5,14 +5,14 @@
 - [语音赛事分享贴](./Speech.md)
 - [机器学习赛事分享贴](./ML.md)
 - [Other(推荐系统|数据挖掘|知识图谱|图网络等)](./other.md)
-
+- [比赛团队访谈](./interview.md)
 
 <details open>
 <summary>目录</summary>
 
 - [AI-Competition-Collections](#ai-competition-collections)
-  - [CV](#cv)
   - [Kaggle比赛汇总](#kaggle比赛汇总)
+  - [CV](#cv)
   - [竞赛文章公众号](#竞赛文章公众号)
   - [竞赛平台](#竞赛平台)
 
@@ -20,7 +20,7 @@
 
 ## [Kaggle比赛汇总](https://farid.one/kaggle-solutions/)
 
-## CV
+## CV赛事分享
 <table style="border-bottom:1px solid">
     <thead>
         <tr align="center" style="border-bottom:1px solid;border-top:1px solid;boder-">
@@ -30,6 +30,14 @@
         </tr>
     </thead>
     <tbody>
+        <!-----------------------------行为识别---------------------->
+        <tr>
+            <td rowspan="1" style="border-bottom:1px solid">行为识别</td>
+            <td style="border-bottom:1px solid">
+                <a href="https://mp.weixin.qq.com/s/9_5RvQE7z5Rhrg4_Ux7sMQ" target="_blank">CVPR 2022 ActivityNet竞赛冠军：中科院深圳先进院提出高低分双模态行为识别框架</a>
+            </td>
+            <td style="border-bottom:1px solid">2022-08-10</td>
+        </tr>
         <!-----------------------------视频理解---------------------->
         <tr>
             <td rowspan="2" style="border-bottom:1px solid">视频理解</td>

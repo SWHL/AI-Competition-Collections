@@ -1,4 +1,4 @@
-### NLP
+### NLP赛事分享贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 #### [【2022-01-10】新冠疫情相似句对判定大赛 线上第一名方案](https://github.com/zzy99/epidemic-sentence-pair)

@@ -26,7 +26,7 @@
         <tr align="center" style="border-bottom:1px solid;border-top:1px solid;boder-">
             <td><b>任务类型</b></td>
             <td style="border-left:1px solid;"><b>相关链接</b></td>
-            <td style="border-left:1px solid;"><b>更新时间</b></td>
+            <td style="border-left:1px solid;"><b>添加时间</b></td>
         </tr>
     </thead>
     <tbody>
@@ -327,7 +327,13 @@
         </tr>
         <!------------------------------OCR部分---------------------->
         <tr>
-            <td rowspan="11" style="border-bottom:1px solid">OCR</td>
+            <td rowspan="12" style="border-bottom:1px solid">OCR</td>
+            <td>
+                <a href="https://cloud.tencent.com/developer/article/1798403" target="_blank">三年磨一剑——微信OCR图片文字提取</a>
+            </td>
+            <td>2022-08-10</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://mp.weixin.qq.com/s/JofpqmaaHwx-s9PLTE3YzA" target="_blank">360数科夺得OCR国际技术竞赛冠军，商超小票文本行识别如何做到最佳？</a>
             </td>

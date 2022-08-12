@@ -12,7 +12,7 @@
 
 - [AI-Competition-Collections](#ai-competition-collections)
   - [Kaggle比赛汇总](#kaggle比赛汇总)
-  - [CV](#cv赛事分享贴)
+  - [CV赛事分享贴](#cv赛事分享贴)
   - [竞赛文章公众号](#竞赛文章公众号)
   - [竞赛平台](#竞赛平台)
 

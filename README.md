@@ -596,6 +596,12 @@
     <tbody>
         <tr>
             <td>
+                <a href="https://challenge.xfyun.cn/" target="_blank">科大讯飞 A.I.开发者大赛</a>
+            </td>
+            <td>全平台比赛信息汇总平台，涵盖CV/NLP/Speech/数据挖掘等比赛，短平快</td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://coggle.club/" target="_blank">Coggle数据科学</a>
             </td>
             <td>全平台比赛信息汇总平台</td>

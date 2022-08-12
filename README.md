@@ -12,7 +12,7 @@
 
 - [AI-Competition-Collections](#ai-competition-collections)
   - [Kaggle比赛汇总](#kaggle比赛汇总)
-  - [CV](#cv)
+  - [CV](#cv赛事分享贴)
   - [竞赛文章公众号](#竞赛文章公众号)
   - [竞赛平台](#竞赛平台)
 
@@ -20,7 +20,7 @@
 
 ## [Kaggle比赛汇总](https://farid.one/kaggle-solutions/)
 
-## CV赛事分享
+## CV赛事分享贴
 <table style="border-bottom:1px solid">
     <thead>
         <tr align="center" style="border-bottom:1px solid;border-top:1px solid;boder-">

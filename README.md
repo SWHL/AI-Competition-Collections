@@ -1,11 +1,11 @@
 # AI-Competition-Collections
-🔥🔥🔥欢迎PR🔥🔥🔥
+🔥🔥🔥 欢迎PR 🔥🔥🔥
 > 从他人比赛经验中，总是可以学到很多东西
 
 - [NLP赛事经验贴](./NLP.md)
 - [语音赛事经验贴](./Speech.md)
 - [机器学习赛事经验贴](./ML.md)
-- [Other(推荐系统|数据挖掘|知识图谱|图网络等)](./other.md)
+- [Other(推荐系统|数据挖掘|知识图谱|图网络|多智能体决策等)](./other.md)
 - [比赛团队访谈](./interview.md)
 
 <details open>
@@ -285,7 +285,13 @@
         </tr>
         <!------------------------------目标检测部分---------------------->
         <tr>
-            <td rowspan="16" style="border-bottom:1px solid">目标检测</td>
+            <td rowspan="17" style="border-bottom:1px solid">目标检测</td>
+            <td>
+                <a href="https://mp.weixin.qq.com/s/SmdDxqMB5TAfI7-zD5AaUw" target="_blank">ECV2022｜沿街晾晒识别冠军方案</a>
+            </td>
+            <td>2022-08-12</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://zhuanlan.zhihu.com/p/422764914" target="_blank">DOTAv2遥感图像旋转目标检测竞赛经验分享（Swin Transformer + Anchor free/based方案）</a>
             </td>

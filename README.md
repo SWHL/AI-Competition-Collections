@@ -1,9 +1,10 @@
 # AI-Competition-Collections
+🔥🔥🔥欢迎PR🔥🔥🔥
 > 从他人比赛经验中，总是可以学到很多东西
 
-- [NLP赛事分享贴](./NLP.md)
-- [语音赛事分享贴](./Speech.md)
-- [机器学习赛事分享贴](./ML.md)
+- [NLP赛事经验贴](./NLP.md)
+- [语音赛事经验贴](./Speech.md)
+- [机器学习赛事经验贴](./ML.md)
 - [Other(推荐系统|数据挖掘|知识图谱|图网络等)](./other.md)
 - [比赛团队访谈](./interview.md)
 
@@ -12,7 +13,7 @@
 
 - [AI-Competition-Collections](#ai-competition-collections)
   - [Kaggle比赛汇总](#kaggle比赛汇总)
-  - [CV赛事分享贴](#cv赛事分享贴)
+  - [CV赛事经验贴](#cv赛事经验贴)
   - [竞赛文章公众号](#竞赛文章公众号)
   - [竞赛平台](#竞赛平台)
 
@@ -20,7 +21,7 @@
 
 ## [Kaggle比赛汇总](https://farid.one/kaggle-solutions/)
 
-## CV赛事分享贴
+## CV赛事经验贴
 <table style="border-bottom:1px solid">
     <thead>
         <tr align="center" style="border-bottom:1px solid;border-top:1px solid;boder-">

@@ -1,6 +1,7 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+#### [【2022-08-16】“中文保险小样本多任务竞赛”megemini团队方案（第三名）——2022AIWIN（春季）世界人工智能创新大赛优秀方案分享系列](https://mp.weixin.qq.com/s/77nbuiftdYrhWck0or6Sdw)
 #### [【2022-01-10】新冠疫情相似句对判定大赛 线上第一名方案](https://github.com/zzy99/epidemic-sentence-pair)
 #### [【2022-01-05】CCF BDCI 2019 互联网新闻情感分析 复赛top1解决方案](https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION)
 #### [【2022-01-05】WMT 2021冠军来了！重建巴别塔之多语言翻译模型](https://mp.weixin.qq.com/s/i2_5DDKHv-iShnhjObRg9Q)

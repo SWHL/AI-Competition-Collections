@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-08-19】获奖方案|2021 CCF BDCI 「系统认证风险趋势预测」赛题二等奖](https://mp.weixin.qq.com/s/6hIfiB9l9K_pXAqt9Lew4A)
 #### [【2022-08-12】一等奖方案|GoBigger决策智能挑战赛@logic队 解题思路分享](https://mp.weixin.qq.com/s/c3iwaWN5jVx7DM1dsGx3mw)
 #### [【2022-08-17】二等奖方案|2021 CCF BDCI个贷违约预测赛题@Faulty 队解题思路](https://mp.weixin.qq.com/s/BdOSAKIL4tzhCRxHz9AKKg)
 #### [【2022-07-12】中原银行「个贷违约预测」赛题一等奖获奖方案](https://mp.weixin.qq.com/s/hnNueD98r5DzHvJXiibPDQ)

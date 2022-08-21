@@ -285,7 +285,13 @@
         </tr>
         <!------------------------------目标检测部分---------------------->
         <tr>
-            <td rowspan="17" style="border-bottom:1px solid">目标检测</td>
+            <td rowspan="18" style="border-bottom:1px solid">目标检测</td>
+            <td>
+                <a href="https://mp.weixin.qq.com/s/Z1WRA4YffjAagnCV8ctB2g" target="_blank">街道垃圾识别冠军方案解读｜ECV2022</a>
+            </td>
+            <td>2022-08-21</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://mp.weixin.qq.com/s/SmdDxqMB5TAfI7-zD5AaUw" target="_blank">ECV2022｜沿街晾晒识别冠军方案</a>
             </td>

@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-08-23】获奖方案|2021 CCF BDCI 「泛在感知数据关联融合计算」赛题三等奖](https://mp.weixin.qq.com/s/OWuj5TkrxxwwdfziW1S5Mg)
 #### [【2022-08-23】(小小笑笑)系统认证风险趋势预测竞赛二等奖方案](https://mp.weixin.qq.com/s/gMclrGHPP7mzXJV9Nn_8-A)
 #### [【2022-08-19】(竹云科技) 获奖方案|2021 CCF BDCI 「系统认证风险趋势预测」赛题二等奖](https://mp.weixin.qq.com/s/6hIfiB9l9K_pXAqt9Lew4A)
 #### [【2022-08-12】一等奖方案|GoBigger决策智能挑战赛@logic队 解题思路分享](https://mp.weixin.qq.com/s/c3iwaWN5jVx7DM1dsGx3mw)

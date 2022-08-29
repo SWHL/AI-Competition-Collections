@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-08-29】Kaggle AMEX 金融风控比赛Top方案总结](https://mp.weixin.qq.com/s/z4DZm3JdbardzSis91lrAA)
 #### [【2022-08-25】万字整理KDD Cup 2022 风电预测比赛(含19个高分方案)](https://mp.weixin.qq.com/s/-zMvykSXd3X4HYnu7938Uw)
 #### [【2022-08-23】获奖方案|2021 CCF BDCI 「泛在感知数据关联融合计算」赛题三等奖](https://mp.weixin.qq.com/s/OWuj5TkrxxwwdfziW1S5Mg)
 #### [【2022-08-23】(小小笑笑)系统认证风险趋势预测竞赛二等奖方案](https://mp.weixin.qq.com/s/gMclrGHPP7mzXJV9Nn_8-A)

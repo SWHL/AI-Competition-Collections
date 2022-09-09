@@ -1,7 +1,8 @@
-# Other(推荐系统|数据挖掘|知识图谱|图网络|多智能体决策等)
+# Other(推荐系统|数据挖掘|知识图谱|图网络|多智能体决策|蛋白质结构预测等)
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-09-09】夺CAMEO竞赛全球第一！清华提出AIRFold蛋白质结构预测方案](https://mp.weixin.qq.com/s/52MFjmG3ZzyKTMUTcJRm1w)
 #### [【2022-09-09】第三届马栏山杯用户下一个观看视频预测赛道 Top7 赛后总结](https://mp.weixin.qq.com/s/IhWHkzx-y8U6ZbC6kGiuCg)
 #### [【2022-08-29】Kaggle AMEX 金融风控比赛Top方案总结](https://mp.weixin.qq.com/s/z4DZm3JdbardzSis91lrAA)
 #### [【2022-08-25】万字整理KDD Cup 2022 风电预测比赛(含19个高分方案)](https://mp.weixin.qq.com/s/-zMvykSXd3X4HYnu7938Uw)

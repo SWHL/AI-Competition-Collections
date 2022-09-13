@@ -285,7 +285,13 @@
         </tr>
         <!------------------------------目标检测部分---------------------->
         <tr>
-            <td rowspan="20" style="border-bottom:1px solid">目标检测</td>
+            <td rowspan="21" style="border-bottom:1px solid">目标检测</td>
+            <td>
+                <a href="https://mp.weixin.qq.com/s/Xsd8R4aeIu6e72EdJ6G9rA" target="_blank">客流统计识别冠军方案｜ECV 2022</a>
+            </td>
+            <td>2022-09-04</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://mp.weixin.qq.com/s/DclhQBgx2HoiGK8DhWfkLA" target="_blank">Waymo检测榜一！MPPNet：基于Proxy Point的多帧时序3D点云目标检测框架</a>
             </td>

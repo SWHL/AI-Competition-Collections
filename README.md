@@ -289,7 +289,7 @@
             <td>
                 <a href="https://mp.weixin.qq.com/s/Xsd8R4aeIu6e72EdJ6G9rA" target="_blank">客流统计识别冠军方案｜ECV 2022</a>
             </td>
-            <td>2022-09-04</td>
+            <td>2022-09-13</td>
         </tr>
         <tr>
             <td>

@@ -1,7 +1,9 @@
-# Other(推荐系统|数据挖掘|知识图谱|图网络|多智能体决策|蛋白质结构预测等)
+# Others
+**(推荐系统 | 数据挖掘 | 知识图谱 | 图网络 | 多智能体决策 | 蛋白质结构预测等)**
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-09-14】2022 CCF国际AIOps挑战赛竞赛总结](https://mp.weixin.qq.com/s/CbVmY2RVR_ZRB3MaJ4lqmQ)
 #### [【2022-09-09】获奖方案|2021 CCF BDCI 「基于UEBA的用户上网异常行为分析」赛题三等奖](https://mp.weixin.qq.com/s/Ouko7-nFZkJfyKcCf4AoAw)
 #### [【2022-09-09】夺CAMEO竞赛全球第一！清华提出AIRFold蛋白质结构预测方案](https://mp.weixin.qq.com/s/52MFjmG3ZzyKTMUTcJRm1w)
 #### [【2022-09-09】第三届马栏山杯用户下一个观看视频预测赛道 Top7 赛后总结](https://mp.weixin.qq.com/s/IhWHkzx-y8U6ZbC6kGiuCg)

@@ -5,8 +5,8 @@
 - [NLP赛事经验贴](./NLP.md)
 - [语音赛事经验贴](./Speech.md)
 - [机器学习赛事经验贴](./ML.md)
-- [Other(推荐系统|数据挖掘|知识图谱|图网络|多智能体决策|蛋白质结构预测等)](./other.md)
-- [比赛团队访谈](./interview.md)
+- [Others(推荐系统|数据挖掘|知识图谱|图网络|多智能体决策|蛋白质结构预测等)](./Others.md)
+- [比赛团队访谈](./Interview.md)
 
 <details open>
 <summary>目录</summary>
@@ -582,6 +582,14 @@
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>
+                kaggle竞赛宝典
+            </td>
+            <td>
+                数据竞赛Top方案，竞赛黑科技，竞赛到入职的一些感想。
+            </td>
+        </tr>
         <tr>
             <td>
                 一碗数据汤

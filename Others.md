@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-09-23】2022微信大数据挑战赛优胜方案总结](https://mp.weixin.qq.com/s/AkZvomdKaCbsTSSH4jBDKg)
 #### [【2022-09-16】获奖方案|2021 CCF BDCI 「基于UEBA的用户上网异常行为分析」赛题二等奖](https://mp.weixin.qq.com/s/2auKhJCDcsSiyy7ekwv4Yg)
 #### [【2022-09-14】2022 CCF国际AIOps挑战赛竞赛总结](https://mp.weixin.qq.com/s/CbVmY2RVR_ZRB3MaJ4lqmQ)
 #### [【2022-09-09】获奖方案|2021 CCF BDCI 「基于UEBA的用户上网异常行为分析」赛题三等奖](https://mp.weixin.qq.com/s/Ouko7-nFZkJfyKcCf4AoAw)

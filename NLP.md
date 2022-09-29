@@ -1,6 +1,7 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+#### [【2022-09-29】2022文本智能校对冠军方案！已落地！](https://mp.weixin.qq.com/s/E8A-H3RctJcZLXGv0oWXiQ)
 #### [【2022-08-30】获奖方案|2021 CCF BDCI 「千言-问题匹配鲁棒性评测」赛题三等奖](https://mp.weixin.qq.com/s/sdvM6Q8x1g8gFYnyRm-bXQ)
 #### [【2022-08-23】“中文保险小样本多任务竞赛”冠军方案 (已开源源码和模型)](https://mp.weixin.qq.com/s/MeqlMgtvQqnE7x3sJlKHKw)
 #### [【2022-08-16】“中文保险小样本多任务竞赛”megemini团队方案（第三名）](https://mp.weixin.qq.com/s/77nbuiftdYrhWck0or6Sdw)

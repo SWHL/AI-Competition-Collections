@@ -155,7 +155,7 @@
         </tr>
         <!------------------------------图像分类部分---------------------->
         <tr>
-            <td rowspan="17" style="border-bottom:1px solid">图像分类</td>
+            <td rowspan="18" style="border-bottom:1px solid">图像分类</td>
             <td>
                 <a href="https://mp.weixin.qq.com/s/yqGsKfI5UFmieoY-sII3RA" target="_blank">【二等奖方案①】CCF BDCI「基于MindSpore AI框架实现零售商品识别」赛题 中科大+长三角创研院</a>
             </td>
@@ -178,6 +178,12 @@
                 <a href="https://mp.weixin.qq.com/s/SBxSdqDMBLaqBj5IOJuMIw" target="_blank">【三等奖方案②】CCF BDCI「基于MindSpore AI框架实现零售商品识别」赛题 王炸</a>
             </td>
             <td>2022-10-06</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://mp.weixin.qq.com/s/3Sow9bng3krLPcW7x8ebzA" target="_blank">CVPR 2022视觉算法 赛道一：宠物生物特征识别竞赛Top团队方案</a>
+            </td>
+            <td>2022-06-17</td>
         </tr>
         <tr>
             <td>

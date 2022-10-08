@@ -600,8 +600,8 @@
 ## 竞赛文章公众号
 <table style="border-bottom:1px solid">
     <thead>
-        <tr align="center" style="border-bottom:1px solid;border-top:1px solid;">
-            <td><b>公众号名称</b></td>
+        <tr style="border-bottom:1px solid;border-top:1px solid;">
+            <td align="center"><b>公众号名称</b></td>
             <td style="border-left:1px solid"><b>简单介绍</b></td>
         </tr>
     </thead>

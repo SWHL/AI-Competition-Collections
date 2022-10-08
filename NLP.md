@@ -1,6 +1,11 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+#### [【2022-10-08】【一等奖方案】CCF BDCI「客服通话文本摘要提取」赛题 LICHEE-Summary](https://mp.weixin.qq.com/s/WVEMyYcTB_lHkFz4QR-CSA)
+#### [【2022-10-08】【二等奖方案①】CCF BDCI「客服通话文本摘要提取」赛题 还是起个名字吧](https://mp.weixin.qq.com/s/4eBuqHTxfLVq2EkePag9aw)
+#### [【2022-10-08】【二等奖方案②】CCF BDCI「客服通话文本摘要提取」赛题二等奖 每天打点鸡血队](https://mp.weixin.qq.com/s/ogpOtbKek4XB3miNn_1GyQ)
+#### [【2022-10-08】【三等奖方案①】CCF BDCI「客服通话文本摘要提取」赛题 东大知行](https://mp.weixin.qq.com/s/UVgJy9yvYOPPIZgMBg5B_w)
+#### [【2022-10-08】【三等奖方案②】CCF BDCI「客服通话文本摘要提取」赛题 CEIEC](https://mp.weixin.qq.com/s/CNkHo8K2q9mOIpH5GkZsJg)
 #### [【2022-09-29】2022文本智能校对冠军方案！已落地！](https://mp.weixin.qq.com/s/E8A-H3RctJcZLXGv0oWXiQ)
 #### [【2022-08-30】获奖方案|2021 CCF BDCI 「千言-问题匹配鲁棒性评测」赛题三等奖](https://mp.weixin.qq.com/s/sdvM6Q8x1g8gFYnyRm-bXQ)
 #### [【2022-08-23】“中文保险小样本多任务竞赛”冠军方案 (已开源源码和模型)](https://mp.weixin.qq.com/s/MeqlMgtvQqnE7x3sJlKHKw)

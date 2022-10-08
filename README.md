@@ -600,41 +600,41 @@
 ## 竞赛文章公众号
 <table style="border-bottom:1px solid">
     <thead>
-        <tr align="center" style="border-bottom:1px solid;border-top:1px solid;boder-">
+        <tr align="center" style="border-bottom:1px solid;border-top:1px solid;">
             <td><b>公众号名称</b></td>
             <td style="border-left:1px solid"><b>简单介绍</b></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>
+            <td align="center">
                 kaggle竞赛宝典
             </td>
-            <td>
+            <td style="border-left:1px solid">
                 数据竞赛Top方案，竞赛黑科技，竞赛到入职的一些感想。
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 一碗数据汤
             </td>
-            <td>
+            <td style="border-left:1px solid">
                 DF平台 (www.datafountain.cn) 官方公众号，有趣有料的大数据社群，从今天起，爱上这碗数据汤
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 Datawhale
             </td>
-            <td>
+            <td style="border-left:1px solid">
                 一个专注于AI领域的开源组织，汇聚了众多优秀学习者，愿景-for the learnner,和学习者一起成长。
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 世界AI创新大赛
             </td>
-            <td>
+            <td style="border-left:1px solid">
                 世界人工智能创新大赛（AIWIN），是世界人工智能大会的组成部分之一。
             </td>
         </tr>
@@ -644,71 +644,70 @@
 ## 竞赛平台
 <table style="border-bottom:1px solid">
     <thead>
-        <tr align="center" style="border-bottom:1px solid;border-top:1px solid;boder-">
-            <td><b>平台名称</b></td>
+        <tr style="border-bottom:1px solid;border-top:1px solid;">
+            <td  align="center"><b>平台名称</b></td>
             <td style="border-left:1px solid"><b>简单介绍</b></td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>
+            <td  align="center">
                 <a href="https://challenge.xfyun.cn/" target="_blank">科大讯飞 A.I.开发者大赛</a>
             </td>
-            <td>全平台比赛信息汇总平台，涵盖CV/NLP/Speech/数据挖掘等比赛，短平快</td>
+            <td style="border-left:1px solid">全平台比赛信息汇总平台，涵盖CV/NLP/Speech/数据挖掘等比赛，短平快</td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <a href="https://coggle.club/" target="_blank">Coggle数据科学</a>
             </td>
-            <td>全平台比赛信息汇总平台</td>
+            <td style="border-left:1px solid">全平台比赛信息汇总平台</td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <a href="https://www.datafountain.cn/competitions" target="_blank">DataFountain</a>
             </td>
-            <td>涉及CV、NLP、数据挖掘等全面的比赛平台</td>
+            <td style="border-left:1px solid">涉及CV、NLP、数据挖掘等全面的比赛平台</td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <a href="https://www.heywhale.com/home/competitions" target="_blank">和鲸社区</a>
             </td>
-            <td>综合性比赛平台，侧重数据科学、机器人一些</td>
+            <td style="border-left:1px solid">综合性比赛平台，侧重数据科学、机器人一些</td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <a href="https://www.flyai.com/" target="_blank">FlyAI</a>
             </td>
-            <td>涉及视觉计算、自然语言处理、语音、结构化数据等</td>
+            <td style="border-left:1px solid">涉及视觉计算、自然语言处理、语音、结构化数据等</td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <a href="https://competitions.codalab.org/competitions/" target="_blank">CodaLab</a>
             </td>
-            <td>多数为学术型的竞赛平台，包括一些学术会议的附赛</td>
+            <td style="border-left:1px solid">多数为学术型的竞赛平台，包括一些学术会议的附赛</td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <a href="https://tianchi.aliyun.com/competition/gameList/activeList" target="_blank">天池</a>
             </td>
-            <td>比较有名，不作过多说明</td>
+            <td style="border-left:1px solid">比较有名，不作过多说明</td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <a href="http://contest.aicubes.cn/#/" target="_blank">同花顺算法平台</a>
             </td>
-            <td>来源于真实场景业务问题，CV\NLp\语音都有涉及</td>
+            <td style="border-left:1px solid">来源于真实场景业务问题，CV\NLp\语音都有涉及</td>
         </tr>
-        <tr>
-            <td>
+            <td align="center">
                 <a href="https://www.kaggle.com/competitions" target="_blank">Kaggle</a>
             </td>
-            <td>比较有名，不作过多说明</td>
+            <td style="border-left:1px solid">比较有名，不作过多说明</td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <a href="http://ailab.aiwin.org.cn/competitions/" target="_blank">AIWIN</a>
             </td>
-            <td>一个比较小众的平台，涉及CV较多一些，每年有两次(春季赛|秋季赛)</td>
+            <td style="border-left:1px solid">一个比较小众的平台，涉及CV较多一些，每年有两次(春季赛|秋季赛)</td>
         </tr>
     </tbody>
 </table>

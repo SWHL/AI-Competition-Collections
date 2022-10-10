@@ -3,6 +3,11 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-10-10】【一等奖方案】CCF BDCI「浙江省未来五年教育基础设施数量规划容量预测分析」赛题 ZYBK_DS_Union4](https://mp.weixin.qq.com/s/D4X-iBZxBT0xmgSnxgJ2nQ)
+#### [【2022-10-10】【二等奖方案①】CCF BDCI「浙江省未来五年教育基础设施数量规划容量预测分析」赛题 四方坪 YYDS](https://mp.weixin.qq.com/s/_CGLPMTiSeXkrFb61LwnWw)
+#### [【2022-10-10】【二等奖方案②】CCF BDCI「浙江省未来五年教育基础设施数量规划容量预测分析」赛题 CSU-时空数据挖掘机](https://mp.weixin.qq.com/s/d0F958bw5Qg-paVL5wLA0w)
+#### [【2022-10-10】【三等奖方案①】CCF BDCI「浙江省未来五年教育基础设施数量规划容量预测分析」赛题 Omagh](https://mp.weixin.qq.com/s/IIvP81X32W8bGiBz1Q4IkA)
+#### [【2022-10-10】【三等奖方案②】CCF BDCI「浙江省未来五年教育基础设施数量规划容量预测分析」赛题 摸鱼炸鱼小分队](https://mp.weixin.qq.com/s/wNMRYAtREwQwrcXEq7jumA)
 #### [【2022-09-23】2022微信大数据挑战赛优胜方案总结](https://mp.weixin.qq.com/s/AkZvomdKaCbsTSSH4jBDKg)
 #### [【2022-09-16】获奖方案|2021 CCF BDCI 「基于UEBA的用户上网异常行为分析」赛题二等奖](https://mp.weixin.qq.com/s/2auKhJCDcsSiyy7ekwv4Yg)
 #### [【2022-09-14】2022 CCF国际AIOps挑战赛竞赛总结](https://mp.weixin.qq.com/s/CbVmY2RVR_ZRB3MaJ4lqmQ)

@@ -1,6 +1,7 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+#### [【2022-10-13】2021搜狐文本匹配算法大赛方案总结](https://mp.weixin.qq.com/s/RauZ8WI3nkYitVzbcVxP9A)
 #### [【2022-10-08】【一等奖方案】CCF BDCI「客服通话文本摘要提取」赛题 LICHEE-Summary](https://mp.weixin.qq.com/s/WVEMyYcTB_lHkFz4QR-CSA)
 #### [【2022-10-08】【二等奖方案①】CCF BDCI「客服通话文本摘要提取」赛题 还是起个名字吧](https://mp.weixin.qq.com/s/4eBuqHTxfLVq2EkePag9aw)
 #### [【2022-10-08】【二等奖方案②】CCF BDCI「客服通话文本摘要提取」赛题二等奖 每天打点鸡血队](https://mp.weixin.qq.com/s/ogpOtbKek4XB3miNn_1GyQ)

@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-10-31】vLoong新能源电池异常检测赛 第5名方案分享 (含其他前排方案)](https://mp.weixin.qq.com/s/bY948S7NWzsG5uedtjAm0Q)
 #### [【2022-10-17】日本炒股大赛最稳定的金牌方案](https://mp.weixin.qq.com/s/seHvAv6uMk-QnXv3E-ts1w)
 #### [【2022-10-14】Kaggle日本炒股大赛冠军方案(含代码）](https://mp.weixin.qq.com/s/5M-eNMbF4EBlIMVXfgjnwg)
 #### [【2022-10-10】【一等奖方案】CCF BDCI「浙江省未来五年教育基础设施数量规划容量预测分析」赛题 ZYBK_DS_Union4](https://mp.weixin.qq.com/s/D4X-iBZxBT0xmgSnxgJ2nQ)

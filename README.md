@@ -309,7 +309,13 @@
         </tr>
         <!------------------------------目标检测部分---------------------->
         <tr>
-            <td rowspan="21" style="border-bottom:1px solid">目标检测</td>
+            <td rowspan="22" style="border-bottom:1px solid">目标检测</td>
+            <td>
+                <a href="https://mp.weixin.qq.com/s/HJay_AyencGNYredMMqpfQ" target="_blank">大湾区算法大赛“路侧3D感知赛题” 冠军技术方案分享</a>
+            </td>
+            <td>2022-11-05</td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://mp.weixin.qq.com/s/Xsd8R4aeIu6e72EdJ6G9rA" target="_blank">客流统计识别冠军方案｜ECV 2022</a>
             </td>

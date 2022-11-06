@@ -658,6 +658,12 @@
     <tbody>
         <tr>
             <td  align="center">
+                <a href="https://comphub.notion.site/comphub/CompHub-c353e310c8f84846ace87a13221637e8" target="_blank">CompHub</a>
+            </td>
+            <td style="border-left:1px solid">实时聚合国内外技术比赛，一个页面，全知道。</td>
+        </tr>
+        <tr>
+            <td  align="center">
                 <a href="https://challenge.xfyun.cn/" target="_blank">科大讯飞 A.I.开发者大赛</a>
             </td>
             <td style="border-left:1px solid">全平台比赛信息汇总平台，涵盖CV/NLP/Speech/数据挖掘等比赛，短平快</td>

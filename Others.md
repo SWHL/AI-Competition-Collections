@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-11-15】赛题总结：NAS机场配置变化预测](https://mp.weixin.qq.com/s/wjJ4vXF4Dxw8vfofVNbnZg)
 #### [【2022-10-31】vLoong新能源电池异常检测赛 第5名方案分享 (含其他前排方案)](https://mp.weixin.qq.com/s/bY948S7NWzsG5uedtjAm0Q)
 #### [【2022-10-17】日本炒股大赛最稳定的金牌方案](https://mp.weixin.qq.com/s/seHvAv6uMk-QnXv3E-ts1w)
 #### [【2022-10-14】Kaggle日本炒股大赛冠军方案(含代码）](https://mp.weixin.qq.com/s/5M-eNMbF4EBlIMVXfgjnwg)

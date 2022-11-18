@@ -3,6 +3,10 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-11-18】三等奖方案|「泛在感知数据关联融合计算」赛题 baseline 团队](https://mp.weixin.qq.com/s/_bAsK3d9evpXHXmnA4ow0w)
+#### [【2022-11-18】二等奖方案②|2021 CCF BDCI 「泛在感知数据关联融合计算」赛题 小牛摁门铃](https://mp.weixin.qq.com/s/tIh8MmglnddJnJUGmAqSww)
+#### [【2022-11-18】二等奖方案①|「泛在感知数据关联融合计算」赛题 xcpc狗都不打团队](https://mp.weixin.qq.com/s/r7Ch3GVFOarBzCvKWN0g8A)
+#### [【2022-11-18】一等奖方案|「泛在感知数据关联融合计算」赛题 冲鸭小分队团队](https://mp.weixin.qq.com/s/Z30-hwDkAXzbgwUTIKdLHA)
 #### [【2022-11-15】赛题总结：NAS机场配置变化预测](https://mp.weixin.qq.com/s/wjJ4vXF4Dxw8vfofVNbnZg)
 #### [【2022-10-31】vLoong新能源电池异常检测赛 第5名方案分享 (含其他前排方案)](https://mp.weixin.qq.com/s/bY948S7NWzsG5uedtjAm0Q)
 #### [【2022-10-17】日本炒股大赛最稳定的金牌方案](https://mp.weixin.qq.com/s/seHvAv6uMk-QnXv3E-ts1w)

@@ -1,6 +1,7 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+#### [【2022-11-20】文本分类实战微调技巧](https://mp.weixin.qq.com/s/DKmKJs9ttRW2In3nh9JYRA)
 #### [【2022-11-18】科大讯飞中文语义病句识别挑战赛Top1方案总结](https://mp.weixin.qq.com/s/RRlySNLoaDFBbYAK_eJi2Q)
 #### [【2022-10-31】一等奖方案：2021 CCF BDCI 「千言-问题匹配鲁棒性评测」赛题](https://mp.weixin.qq.com/s/M-S-_LtTrJe_NbVLCazjuA)
 #### [【2022-10-13】2021搜狐文本匹配算法大赛方案总结](https://mp.weixin.qq.com/s/RauZ8WI3nkYitVzbcVxP9A)

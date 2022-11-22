@@ -1,8 +1,9 @@
 # Others
-**(推荐系统 | 数据挖掘 | 知识图谱 | 图网络 | 多智能体决策 | 蛋白质结构预测等)**
+**(推荐系统 | 数据挖掘 | 知识图谱 | 图网络 | 多智能体决策 | 蛋白质结构预测 | 智能机器人)**
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-11-22】Habitat Challenge 2022冠军方案：字节AI Lab提出融合传统和模仿学习的主动导航](https://mp.weixin.qq.com/s/DGYv97OMYDtA6HVY04h-Dg)
 #### [【2022-11-18】三等奖方案|「泛在感知数据关联融合计算」赛题 baseline 团队](https://mp.weixin.qq.com/s/_bAsK3d9evpXHXmnA4ow0w)
 #### [【2022-11-18】二等奖方案②|2021 CCF BDCI 「泛在感知数据关联融合计算」赛题 小牛摁门铃](https://mp.weixin.qq.com/s/tIh8MmglnddJnJUGmAqSww)
 #### [【2022-11-18】二等奖方案①|「泛在感知数据关联融合计算」赛题 xcpc狗都不打团队](https://mp.weixin.qq.com/s/r7Ch3GVFOarBzCvKWN0g8A)

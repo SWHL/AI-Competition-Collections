@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-11-26】AIOps 电信故障根因定位竞赛Top方案总结](https://mp.weixin.qq.com/s/lN1HHHn9QVpaZVr-iGqH9A)
 #### [【2022-11-23】一等奖方案|「基于UEBA的用户上网异常行为分析」赛题](https://mp.weixin.qq.com/s/zI0uKhiZZDyNMAwKjdoBHg)
 #### [【2022-11-23】二等奖方案|「基于UEBA的用户上网异常行为分析」赛题](https://mp.weixin.qq.com/s/2HKSUnPIqzZ_vi4w1ejNBg)
 #### [【2022-11-23】三等奖方案|「基于UEBA的用户上网异常行为分析」赛题](https://mp.weixin.qq.com/s/cNbuUJcf4bYRbySq9fYgBg)

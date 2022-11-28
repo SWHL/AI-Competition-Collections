@@ -66,6 +66,7 @@ class SpiderArticleWeChat(object):
                 link = item['link']
                 if cur_date == article_date and self.have_article(title):
                     self.final_result.append(f'#### [【{cur_date}】{title}]({link})')
+        print(self.final_result)
         self.write_to_md(md_path)
 
     def have_article(self, cur_title: str) -> bool:

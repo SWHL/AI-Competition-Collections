@@ -6,6 +6,7 @@ import argparse
 import random
 import time
 from datetime import datetime
+from typing import List, Union
 
 import requests
 from fake_useragent import UserAgent
@@ -23,6 +24,20 @@ def write_txt(save_path: str, content: list, mode='w'):
     with open(save_path, mode, encoding='utf-8') as f:
         for value in content:
             f.write(f'{value}\n')
+
+
+def is_contain_str(src_text: Union[str, List],
+                   given_str_list: Union[str, List],) -> bool:
+    """src_text中是否包含given_str_list中任意一个字符
+
+    Args:
+        src_text (str or list):
+        given_str_list (str or list):
+
+    Returns:
+        bool:
+    """
+    return any(i in src_text for i in given_str_list)
 
 
 class SpiderArticleWeChat(object):
@@ -50,6 +65,8 @@ class SpiderArticleWeChat(object):
         cur_date = datetime.strftime(datetime.now(), '%Y-%m-%d')
         time.sleep(random.randint(1, 10))
 
+        first, second = self.get_already_data(md_path)
+
         resp = requests.get(self.URL,
                             headers=self.headers,
                             params=self.params,
@@ -64,10 +81,11 @@ class SpiderArticleWeChat(object):
 
                 title = item['title']
                 link = item['link']
-                if cur_date == article_date and self.have_article(title):
+                if cur_date == article_date \
+                        and self.have_article(title) \
+                        and not is_contain_str(second, title):
                     self.final_result.append(f'#### [【{cur_date}】{title}]({link})')
-        print(self.final_result)
-        self.write_to_md(md_path)
+        self.write_to_md(md_path, first, second)
 
     def have_article(self, cur_title: str) -> bool:
         for one_key in self.key_word_list:
@@ -75,10 +93,13 @@ class SpiderArticleWeChat(object):
                 return True
         return False
 
-    def write_to_md(self, md_path: str):
+    def get_already_data(self, md_path):
         already_data = read_txt(md_path)
         idx = already_data.index('---')
         first, second = already_data[:idx+1], already_data[idx+1:]
+        return first, second
+
+    def write_to_md(self, md_path, first, second):
         if self.final_result:
             for v in self.final_result:
                 first.append(v)

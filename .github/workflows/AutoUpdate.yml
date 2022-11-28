@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 15 * * *'  # 23点运行 15 + 8
 
 jobs:
 

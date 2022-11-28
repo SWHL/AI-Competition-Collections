@@ -5,6 +5,7 @@
 ---
 #### [【2022-11-28】赛题总结：全球人工智能技术创新大赛](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500363&idx=1&sn=700a81a9ee660cfae2d90c87a6a71da0&chksm=96c7ef8ea1b066982bc693885e5f9e88452d32c90dadf7284bbff8fdb7e48e5555a1a5fd661b#rd)
 #### [【2022-11-28】赛题总结：全球人工智能技术创新大赛](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500363&idx=1&sn=700a81a9ee660cfae2d90c87a6a71da0&chksm=96c7ef8ea1b066982bc693885e5f9e88452d32c90dadf7284bbff8fdb7e48e5555a1a5fd661b#rd)
+#### [【2022-11-28】赛题总结：全球人工智能技术创新大赛](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500363&idx=1&sn=700a81a9ee660cfae2d90c87a6a71da0&chksm=96c7ef8ea1b066982bc693885e5f9e88452d32c90dadf7284bbff8fdb7e48e5555a1a5fd661b#rd)
 #### [【2022-11-26】AIOps 电信故障根因定位竞赛Top方案总结](https://mp.weixin.qq.com/s/lN1HHHn9QVpaZVr-iGqH9A)
 #### [【2022-11-23】一等奖方案|「基于UEBA的用户上网异常行为分析」赛题](https://mp.weixin.qq.com/s/zI0uKhiZZDyNMAwKjdoBHg)
 #### [【2022-11-23】二等奖方案|「基于UEBA的用户上网异常行为分析」赛题](https://mp.weixin.qq.com/s/2HKSUnPIqzZ_vi4w1ejNBg)

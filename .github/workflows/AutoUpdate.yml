@@ -21,6 +21,7 @@ jobs:
 
     - name: Spider WeChat Account and Update repo.
       run: |
+        pip install fake_useragent requests
         git clone https://github.com/SWHL/AI-Competition-Collections.git
         cd AI-Competition-Collections/scripts
         python spider_wechat_account.py --fake_id "MzIwNDA5NDYzNA==" --cookie ${WECHAT_COOKIE} --token ${WECHAT_TOKEN}

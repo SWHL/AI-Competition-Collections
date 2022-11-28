@@ -20,6 +20,9 @@ jobs:
         chmod 700 ~/.ssh && chmod 600 ~/.ssh/*
 
     - name: Spider WeChat Account and Update repo.
+      env:
+        WECHAT_COOKIE: ${{ secrets.WECHAT_COOKIE }}
+        WECHAT_TOKEN: ${{ secrets.WECHAT_TOKEN }}
       run: |
         pip install fake_useragent requests
         git clone https://github.com/SWHL/AI-Competition-Collections.git

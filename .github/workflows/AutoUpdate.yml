@@ -20,16 +20,16 @@ jobs:
         chmod 700 ~/.ssh && chmod 600 ~/.ssh/*
 
     - name: Spider WeChat Account and Update repo.
-        run: |
-          git clone git@github.com:SWHL/AI-Competition-Collections.git
-          cd AI-Competition-Collections/scripts
-          python spider_wechat_account.py --fake_id "MzIwNDA5NDYzNA==" --cookie ${WECHAT_COOKIE} --token ${WECHAT_TOKEN}
-          
-          git config --global user.name "SWHL"
-          git config --global user.email "liekkaskono@163.com"
-          git remote remove origin
-          git remote add origin git@github.com:SWHL/OnlyPaddleOCR.git
-          
-          git add .
-          git commit -m 'actions auto update'
-          git push -f origin main
+      run: |
+        git clone git@github.com:SWHL/AI-Competition-Collections.git
+        cd AI-Competition-Collections/scripts
+        python spider_wechat_account.py --fake_id "MzIwNDA5NDYzNA==" --cookie ${WECHAT_COOKIE} --token ${WECHAT_TOKEN}
+        
+        git config --global user.name "SWHL"
+        git config --global user.email "liekkaskono@163.com"
+        git remote remove origin
+        git remote add origin git@github.com:SWHL/OnlyPaddleOCR.git
+        
+        git add .
+        git commit -m 'actions auto update'
+        git push -f origin main

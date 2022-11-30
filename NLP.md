@@ -1,6 +1,10 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+#### [【2022-11-30】三等奖方案|「剧本角色情感识别」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511551&idx=4&sn=35e3484815b5f038bdef53ba322770b1&chksm=eca4df47dbd35651f1ba90edf161f7c132d2a76fa1698512da833e313e4699c16ae2d6457233#rd)
+#### [【2022-11-30】二等奖方案②|「剧本角色情感识别」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511551&idx=3&sn=73de5cffb9496c4268a3785e54377b4c&chksm=eca4df47dbd3565123dbf96b4e8dfc136ebaff53a1f33d46062ba6ff17b71bcff52af2bf726b#rd)
+#### [【2022-11-30】二等奖方案①|「剧本角色情感识别」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511551&idx=2&sn=3f57b60b5a99e864c02d9f5a664568ad&chksm=eca4df47dbd356510cefa4f88a4a049216bbd574b66d0dc6d40ea2639b78dd1691439119a69f#rd)
+#### [【2022-11-30】一等奖方案|「剧本角色情感识别」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511551&idx=1&sn=44aa533ffa97ee4a01cf6cb9aeef1916&chksm=eca4df47dbd35651ffb89d88694ae918c962d6540e03f93a5eb64f53ee5f61aeb4395be5e5ca#rd)
 #### [【2022-11-20】文本分类实战微调技巧](https://mp.weixin.qq.com/s/DKmKJs9ttRW2In3nh9JYRA)
 #### [【2022-11-18】科大讯飞中文语义病句识别挑战赛Top1方案总结](https://mp.weixin.qq.com/s/RRlySNLoaDFBbYAK_eJi2Q)
 #### [【2022-10-31】一等奖方案：2021 CCF BDCI 「千言-问题匹配鲁棒性评测」赛题](https://mp.weixin.qq.com/s/M-S-_LtTrJe_NbVLCazjuA)

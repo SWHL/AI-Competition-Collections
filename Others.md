@@ -3,6 +3,9 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-11-30】三等奖方案②|「系统认证风险趋势预测」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511631&idx=3&sn=0e1e7eb95c4c7b647a7a4bc98e9f9459&chksm=eca4dcf7dbd355e1b5f61b5892e01773df732a7070b25772abd9ea794170537b3e83f36a057e#rd)
+#### [【2022-11-30】三等奖方案①|「系统认证风险趋势预测」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511631&idx=2&sn=aedf255f3fb902f3aa3b91f26c848c2e&chksm=eca4dcf7dbd355e12894209933c5fb9e2007f055e07a99605763ac554693dec8745cd23e27cc#rd)
+#### [【2022-11-30】二等奖方案|「系统认证风险趋势预测」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511631&idx=1&sn=449228647107050027e6a5cd9a35c500&chksm=eca4dcf7dbd355e13ceb06043321e4584049840adf78979cecce37e1890c66219b17defed4f6#rd)
 #### [【2022-11-28】赛题总结：全球人工智能技术创新大赛](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500363&idx=1&sn=700a81a9ee660cfae2d90c87a6a71da0&chksm=96c7ef8ea1b066982bc693885e5f9e88452d32c90dadf7284bbff8fdb7e48e5555a1a5fd661b#rd)
 #### [【2022-11-26】竞赛总结：AIOps 电信故障根因定位](https://mp.weixin.qq.com/s/lN1HHHn9QVpaZVr-iGqH9A)
 #### [【2022-11-23】一等奖方案|「基于UEBA的用户上网异常行为分析」赛题](https://mp.weixin.qq.com/s/zI0uKhiZZDyNMAwKjdoBHg)

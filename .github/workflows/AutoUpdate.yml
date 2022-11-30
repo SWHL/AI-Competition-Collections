@@ -6,36 +6,46 @@ on:
   schedule:
     - cron: '0 15 * * *'  # 23点运行 15 + 8
 
-jobs:
+env:
+  REPO_SSH: git@github.com:SWHL/AI-Competition-Collections.git
+  USER_NAME: SWHL
+  USER_EMAIL: liekkaskono@163.com
 
+jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Set SSH Environment
-      env:
-        DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
-      run: |
-        mkdir -p ~/.ssh/
-        echo "$DEPLOY_KEY" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-        chmod 700 ~/.ssh && chmod 600 ~/.ssh/*
+      - name: Set SSH Environment
+        env:
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$DEPLOY_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          chmod 700 ~/.ssh && chmod 600 ~/.ssh/*
 
-    - name: Spider WeChat Account and Update repo.
-      env:
-        WECHAT_COOKIE: ${{ secrets.WECHAT_COOKIE }}
-        WECHAT_TOKEN: ${{ secrets.WECHAT_TOKEN }}
-      run: |
-        pip install fake_useragent requests
-        git clone https://github.com/SWHL/AI-Competition-Collections.git
-        cd AI-Competition-Collections/scripts
-        python spider_wechat_account.py --fake_id "MzIwNDA5NDYzNA==" --cookie "${WECHAT_COOKIE}" --token ${WECHAT_TOKEN}
-        
-        git config --global user.name "SWHL"
-        git config --global user.email "liekkaskono@163.com"
-        git remote remove origin
-        git remote add origin git@github.com:SWHL/AI-Competition-Collections.git
-        
-        git add -u
-        git commit -m 'actions auto update'
-        git push -f origin main
+      - name: Spider WeChat Account
+        env:
+          WECHAT_COOKIE: ${{ secrets.WECHAT_COOKIE }}
+          WECHAT_TOKEN: ${{ secrets.WECHAT_TOKEN }}
+        id: spider
+        run: |
+          pip install fake_useragent requests
+          git clone $REPO_SSH
+          cd test/scripts
+          output=$(python spider_wechat_account.py --cookie "${WECHAT_COOKIE}" --token ${WECHAT_TOKEN})
+          echo "is_content=${output}" >> ${GITHUB_OUTPUT}
+
+      - name: Update Repo.
+        if: steps.spider.outputs.is_content == 1  # 说明有更新
+        run: |
+          cd test
+          git config --global user.name $USER_NAME
+          git config --global user.email $USER_EMAIL
+          git remote remove origin
+          git remote add origin $REPO_SSH
+
+          git add -u
+          git commit -m 'Actions auto update'
+          git push -f origin main

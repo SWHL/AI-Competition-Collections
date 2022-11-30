@@ -10,6 +10,7 @@ env:
   REPO_SSH: git@github.com:SWHL/AI-Competition-Collections.git
   USER_NAME: SWHL
   USER_EMAIL: liekkaskono@163.com
+  CLONE_DIR: AI-Competition-Collections
 
 jobs:
   build:
@@ -32,15 +33,15 @@ jobs:
         id: spider
         run: |
           pip install fake_useragent requests
-          git clone $REPO_SSH
-          cd test/scripts
+          git clone $REPO_SSH ${CLONE_DIR}
+          cd ${CLONE_DIR}/scripts
           output=$(python spider_wechat_account.py --cookie "${WECHAT_COOKIE}" --token ${WECHAT_TOKEN})
           echo "is_content=${output}" >> ${GITHUB_OUTPUT}
 
       - name: Update Repo.
         if: steps.spider.outputs.is_content == 1  # 说明有更新
         run: |
-          cd test
+          cd ${CLONE_DIR}
           git config --global user.name $USER_NAME
           git config --global user.email $USER_EMAIL
           git remote remove origin

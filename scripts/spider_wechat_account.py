@@ -132,19 +132,14 @@ class SpiderArticleWeChat(object):
                 f.write(f'{value}\n')
 
     @staticmethod
-    def is_contain_str(src_text: Union[str, List],
-                       given_str_list: Union[str, List],) -> bool:
-        for one_value in given_str_list:
-            if src_text.__contains__(one_value):
-                return True
-        return False
+    def is_contain_str(sentence: str, key_words: Union[str, List],) -> bool:
+        """sentences中是否包含key_words中任意一个"""
+        return any(i in sentence for i in key_words)
 
     @staticmethod
-    def is_appear(title, left):
-        for one in left:
-            if title in one:
-                return True
-        return False
+    def is_appear(key_word: str, sentence_list: List) -> bool:
+        """key_word是否在sentence_list中出现过"""
+        return any(key_word in sentence for sentence in sentence_list)
 
 
 def main(args):

@@ -707,7 +707,7 @@
             <td align="center">
                 <a href="http://contest.aicubes.cn/#/" target="_blank">同花顺算法平台</a>
             </td>
-            <td style="border-left:1px solid">来源于真实场景业务问题，CV\NLp\语音都有涉及</td>
+            <td style="border-left:1px solid">来源于真实场景业务问题，CV\NLP\语音都有涉及</td>
         </tr>
             <td align="center">
                 <a href="https://www.kaggle.com/competitions" target="_blank">Kaggle</a>

@@ -1,10 +1,7 @@
-name: Auto Update
+name: Auto Update Wechat official account
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '0 15 * * *'  # 23点运行 15 + 8
+    - cron: '0 14 * * *'  # 22点运行 14 + 8
 
 env:
   REPO_SSH: git@github.com:SWHL/AI-Competition-Collections.git

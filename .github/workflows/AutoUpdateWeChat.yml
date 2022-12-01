@@ -1,5 +1,8 @@
 name: Auto Update Wechat official account
 on:
+  push:
+    branches: [ main ]
+
   schedule:
     - cron: '0 14 * * *'  # 22点运行 14 + 8
 

@@ -16,17 +16,23 @@ class SpiderArticleWeChat(object):
     def __init__(self, cookie, token) -> None:
         self.URL = "https://mp.weixin.qq.com/cgi-bin/appmsg"
         self.others_key_words = ['赛题总结', '竞赛总结', '比赛总结', '图数据',
-                                 '风险趋势预测', '异常行为分析', '关联融合计算', '容量预测']
-        self.nlp_key_words = ['NLP', '情感识别', 'BERT', '问题匹配']
+                                 '风险趋势预测', '异常行为分析', '关联融合计算', '容量预测',
+                                 '搜索算法赛', '意图识别', '赛后总结', '建模大赛', '方案分享', '价格预测',
+                                 '风险预测', '预估']
+        self.nlp_key_words = ['NLP', '情感识别', 'BERT', '问题匹配', 'LSTM', '文本分类', '']
+        self.interview_key_words = ['AI竞赛经验']
 
         self.md_dict = {
             0: '../NLP.md',
             1: '../Others.md',
+            2: '../Interview.md'
         }
 
         self.account_fakeid = {
             'Coggle数据科学': 'MzIwNDA5NDYzNA==',
-            '一碗数据汤': 'MzI5ODQxMTk5MQ=='
+            '一碗数据汤': 'MzI5ODQxMTk5MQ==',
+            'BTBU科协': 'MzU5NjcwODkyMg==',
+            'ChallengeHub': 'MzAxOTU5NTU4MQ=='
         }
 
         self.headers = {
@@ -104,10 +110,12 @@ class SpiderArticleWeChat(object):
         return article_date
 
     def _which_data(self, title: str) -> int:
-        if self.is_contain_str(title, self.others_key_words):
-            return 1
-        elif self.is_contain_str(title, self.nlp_key_words):
+        if self.is_contain_str(title, self.nlp_key_words):
             return 0
+        elif self.is_contain_str(title, self.others_key_words):
+            return 1
+        elif self.is_contain_str(title, self.interview_key_words):
+            return 2
         else:
             return None
 

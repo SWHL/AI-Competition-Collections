@@ -19,7 +19,7 @@ class SpiderArticleWeChat(object):
                                  '风险趋势预测', '异常行为分析', '关联融合计算', '容量预测',
                                  '搜索算法赛', '意图识别', '赛后总结', '建模大赛', '方案分享', '价格预测',
                                  '风险预测', '预估']
-        self.nlp_key_words = ['NLP', '情感识别', 'BERT', '问题匹配', 'LSTM', '文本分类', '']
+        self.nlp_key_words = ['NLP', '情感识别', 'BERT', '问题匹配', 'LSTM', '文本分类']
         self.interview_key_words = ['AI竞赛经验']
 
         self.md_dict = {

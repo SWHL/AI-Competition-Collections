@@ -3,8 +3,8 @@ on:
   push:
     branches: [ main ]
 
-  schedule:
-    - cron: '0 14 * * *'  # 22点运行 14 + 8
+  # schedule:
+  #   - cron: '0 14 * * *'  # 22点运行 14 + 8
 
 env:
   REPO_SSH: git@github.com:SWHL/AI-Competition-Collections.git

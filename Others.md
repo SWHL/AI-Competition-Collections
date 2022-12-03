@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-12-03】Kaggle Feedback Prize冠军方案分享](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505798&idx=1&sn=7d6d9ee97404541b826ed3c61cea5e3a&chksm=c32ace09f45d471f86163e9bba572cffab661438370807a7f3b3c311164f7e73d3f0ac656baa#rd)
 #### [【2022-11-30】三等奖方案②|「系统认证风险趋势预测」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511631&idx=3&sn=0e1e7eb95c4c7b647a7a4bc98e9f9459&chksm=eca4dcf7dbd355e1b5f61b5892e01773df732a7070b25772abd9ea794170537b3e83f36a057e#rd)
 #### [【2022-11-30】三等奖方案①|「系统认证风险趋势预测」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511631&idx=2&sn=aedf255f3fb902f3aa3b91f26c848c2e&chksm=eca4dcf7dbd355e12894209933c5fb9e2007f055e07a99605763ac554693dec8745cd23e27cc#rd)
 #### [【2022-11-30】二等奖方案|「系统认证风险趋势预测」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511631&idx=1&sn=449228647107050027e6a5cd9a35c500&chksm=eca4dcf7dbd355e13ceb06043321e4584049840adf78979cecce37e1890c66219b17defed4f6#rd)

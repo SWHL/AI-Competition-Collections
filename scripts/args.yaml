@@ -1,0 +1,69 @@
+
+URL: https://mp.weixin.qq.com/cgi-bin/appmsg
+
+FakeID:
+  Coggle数据科学: MzIwNDA5NDYzNA==
+  一碗数据汤: MzI5ODQxMTk5MQ==
+  BTBU科协: MzU5NjcwODkyMg==
+  ChallengeHub: MzAxOTU5NTU4MQ==
+  kaggle竞赛宝典: Mzk0NDE5Nzg1Ng==
+
+Type:
+  Others:
+    md_path: ../Others.md
+    keywords:
+      - 赛题总结
+      - 竞赛总结
+      - 比赛总结
+      - 图数据
+      - 风险趋势预测
+      - 异常行为分析
+      - 关联融合计算
+      - 容量预测
+      - 搜索算法赛
+      - 意图识别
+      - 赛后总结
+      - 建模大赛
+      - 方案分享
+      - 价格预测
+      - 风险预测
+      - 异常检测
+      - 金牌方案
+      - 冠军方案
+      - 序列预测
+      - 优胜方案总结
+      - Top方案总结
+      - 提分经验
+      - 方案解读
+      - 答辩思路分享
+    invalid_keywords:
+      - 赛题解析
+      - 综述
+      - 百万奖金
+  NLP:
+    md_path: ../NLP.md
+    keywords:
+      - NLP
+      - 情感识别
+      - BERT
+      - 问题匹配
+      - LSTM
+      - 文本分类
+      - 文本匹配
+      - 文本智能校对
+    invalid_keywords:
+      - NLP基础
+      - 学NLP
+      - 技巧实战
+      - 知识点
+      - 微调技巧
+
+  Interview:
+    md_path: ../Interview.md
+    keywords:
+      - AI竞赛经验
+
+  CV:
+    md_path: ../README.md
+    keywords:
+      - 图像识别

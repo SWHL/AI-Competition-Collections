@@ -10,31 +10,28 @@ from typing import List, Union
 
 import requests
 from fake_useragent import UserAgent
+import yaml
 
 
 class SpiderArticleWeChat(object):
     def __init__(self, cookie, token) -> None:
-        self.URL = "https://mp.weixin.qq.com/cgi-bin/appmsg"
-        self.others_key_words = ['赛题总结', '竞赛总结', '比赛总结', '图数据',
-                                 '风险趋势预测', '异常行为分析', '关联融合计算', '容量预测',
-                                 '搜索算法赛', '意图识别', '赛后总结', '建模大赛', '方案分享', '价格预测',
-                                 '风险预测', '预估']
-        self.nlp_key_words = ['NLP', '情感识别', 'BERT', '问题匹配', 'LSTM', '文本分类']
-        self.interview_key_words = ['AI竞赛经验']
+        self.args = self.read_yaml('args.yaml')
+
+        self.URL = self.args['URL']
+        self.nlp_keywords = self.args['Type']['NLP']['keywords']
+        self.nlp_invaild_keywords = self.args['Type']['NLP']['invalid_keywords']
+
+        self.others_keywords = self.args['Type']['Others']['keywords']
+        self.others_invalid_keywords = self.args['Type']['Others']['invalid_keywords']
+        self.interview_keywords = self.args['Type']['Interview']['keywords']
 
         self.md_dict = {
-            0: '../NLP.md',
-            1: '../Others.md',
-            2: '../Interview.md'
+            0: self.args['Type']['NLP']['md_path'],
+            1: self.args['Type']['Others']['md_path'],
+            2: self.args['Type']['Interview']['md_path']
         }
 
-        self.account_fakeid = {
-            'Coggle数据科学': 'MzIwNDA5NDYzNA==',
-            '一碗数据汤': 'MzI5ODQxMTk5MQ==',
-            'BTBU科协': 'MzU5NjcwODkyMg==',
-            'ChallengeHub': 'MzAxOTU5NTU4MQ==',
-            'kaggle竞赛宝典': 'Mzk0NDE5Nzg1Ng=='
-        }
+        self.account_fakeid = self.args['FakeID']
 
         self.headers = {
             "Cookie": cookie,
@@ -44,55 +41,61 @@ class SpiderArticleWeChat(object):
             "action": "list_ex",
             "begin": "0",
             "count": "5",
-            "fakeid": self.account_fakeid['Coggle数据科学'],
+            "fakeid": 'MzIwNDA5NDYzNA==',
             "type": "9",
             "token": token,
             "lang": "zh_CN",
             "f": "json",
             "ajax": "1"
         }
+        self.cur_date = datetime.strftime(datetime.now(), '%Y-%m-%d')
+        self.have_valid_nums = 0
 
-    def __call__(self, begin: str = '0',):
-        self.params["begin"] = str(begin)
-        cur_date = datetime.strftime(datetime.now(), '%Y-%m-%d')
+    def __call__(self, spider_pages=3):
+        begin_list = [str(i) for i in range(0, spider_pages * 5, 5)]
 
-        is_valid_article = False
         for one_account, fake_id in self.account_fakeid.items():
-            self._random_sleep()
-
             self.params['fakeid'] = fake_id
-            msg = self._get_url_response()
 
-            if "app_msg_list" in msg:
-                for item in msg["app_msg_list"]:
-                    article_date = self._get_time(item['create_time'])
-                    title, link = item.get('title'), item.get('link')
+            spider_content_list = []
+            for begin in begin_list:
+                self._random_sleep()
 
-                    # 根据title来决定写入哪个md
-                    idx = self._which_data(title)
-                    if idx is None:
-                        continue
+                self.params['begin'] = begin
+                msg_list = self._get_url_response()
+                if msg_list:
+                    spider_content_list.extend(msg_list)
+            self.process_content(spider_content_list)
 
-                    # 读取指定md文件的已有数据
-                    md_path = self.md_dict[idx]
-                    already_data = self.read_txt(md_path)
-
-                    # 按 --- 来切分为两部分
-                    splid_idx = already_data.index('---')
-                    head = already_data[:splid_idx+1]
-                    left = already_data[splid_idx+1:]
-
-                    # 当前抓取到的文章没有出现在已有列表中
-                    if not self.is_appear(title, left):
-                        competition_info = f'#### [【{cur_date}】{title}]({link})'
-
-                        head.append(competition_info)
-                        self.write_txt(md_path, head + left)
-                        is_valid_article = True
-
-        if is_valid_article:
+        if self.have_valid_nums > 0:
             return True
         return False
+
+    def process_content(self, content_list):
+        for one_line in content_list:
+            create_time, title, link = one_line
+
+            # 根据title来决定写入哪个md
+            idx = self._which_data(title)
+            if idx is None:
+                continue
+
+            # 读取指定md文件的已有数据
+            md_path = self.md_dict[idx]
+            already_data = self.read_txt(md_path)
+
+            # 按 --- 来切分为两部分
+            splid_idx = already_data.index('---')
+            head = already_data[:splid_idx+1]
+            left = already_data[splid_idx+1:]
+
+            # 当前抓取到的文章没有出现在已有列表中
+            if not self.is_appear(title, left):
+                competition_info = f'#### [【{self.cur_date}】{title}]({link})'
+
+                head.append(competition_info)
+                self.write_txt(md_path, head + left)
+                self.have_valid_nums += 1
 
     def _get_url_response(self,):
         resp = requests.get(self.URL,
@@ -100,7 +103,14 @@ class SpiderArticleWeChat(object):
                             params=self.params,
                             verify=False)
         msg = resp.json()
-        return msg
+        if 'app_msg_list' in msg:
+            res = []
+            for item in msg['app_msg_list']:
+                create_time = self._get_time(item['create_time'])
+                title, link = item.get('title'), item.get('link')
+                res.append([create_time, title, link])
+            return res
+        return None
 
     def _random_sleep(self, sleep_second: int = 10):
         time.sleep(random.randint(1, sleep_second))
@@ -111,11 +121,13 @@ class SpiderArticleWeChat(object):
         return article_date
 
     def _which_data(self, title: str) -> int:
-        if self.is_contain_str(title, self.nlp_key_words):
+        if not self.is_contain_str(title, self.nlp_invaild_keywords) \
+                and self.is_contain_str(title, self.nlp_keywords):
             return 0
-        elif self.is_contain_str(title, self.others_key_words):
+        elif not self.is_contain_str(title, self.others_invalid_keywords) \
+                and self.is_contain_str(title, self.others_keywords):
             return 1
-        elif self.is_contain_str(title, self.interview_key_words):
+        elif self.is_contain_str(title, self.interview_keywords):
             return 2
         else:
             return None
@@ -123,7 +135,7 @@ class SpiderArticleWeChat(object):
     def read_md_data_split(self, md_path):
         already_data = self.read_txt(md_path)
         idx = already_data.index('---')
-        first, second = already_data[:idx+1], already_data[idx+1:]
+        first, second = already_data[:idx + 1], already_data[idx + 1:]
         return first, second
 
     @staticmethod
@@ -149,6 +161,12 @@ class SpiderArticleWeChat(object):
     def is_appear(key_word: str, sentence_list: List) -> bool:
         """key_word是否在sentence_list中出现过"""
         return any(key_word in sentence for sentence in sentence_list)
+
+    @staticmethod
+    def read_yaml(yaml_path):
+        with open(yaml_path, 'rb') as f:
+            data = yaml.load(f, Loader=yaml.Loader)
+        return data
 
 
 def main(args):

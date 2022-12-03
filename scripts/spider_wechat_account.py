@@ -32,7 +32,8 @@ class SpiderArticleWeChat(object):
             'Coggle数据科学': 'MzIwNDA5NDYzNA==',
             '一碗数据汤': 'MzI5ODQxMTk5MQ==',
             'BTBU科协': 'MzU5NjcwODkyMg==',
-            'ChallengeHub': 'MzAxOTU5NTU4MQ=='
+            'ChallengeHub': 'MzAxOTU5NTU4MQ==',
+            'kaggle竞赛宝典': 'Mzk0NDE5Nzg1Ng=='
         }
 
         self.headers = {

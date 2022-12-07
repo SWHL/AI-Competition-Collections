@@ -36,6 +36,12 @@ Type:
       - 提分经验
       - 方案解读
       - 答辩思路分享
+      - Top2
+      - Top1
+      - Top3
+      - top2
+      - top3
+      - top1
     invalid_keywords:
       - 赛题解析
       - 综述

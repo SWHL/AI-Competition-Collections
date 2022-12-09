@@ -3,6 +3,12 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-12-09】NAS机场配置变化预测赛题总结。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505708&idx=1&sn=48a8d11c77e520c07bffecd81ab9c599&chksm=c32acea3f45d47b529cec54724afdf4196615a9177b9abf504283f3f1fd711203e31ca3a8ab2#rd)
+#### [【2022-12-09】AIOps 电信故障根因定位竞赛Top方案总结](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505754&idx=1&sn=d45a33fca19ddd0d33192d621c620473&chksm=c32aced5f45d47c31b98cb9675e2503de50bd24ec2f31bb0ace70f5612621aea43607aa0aa69#rd)
+#### [【2022-12-09】2022 讯飞非标准化疾病诉求的简单分诊挑战赛2.0 Top1分享](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505848&idx=2&sn=87c6319660b10040de7bc0c4717d419f&chksm=c32ace37f45d47215d4064cc7c283af40f34a7f1c5097ea4011458f854dd1a066e626ec7897a#rd)
+#### [【2022-12-09】Kaggle NFL Helmet Assignment冠军方案！](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505861&idx=1&sn=825d484da746cf191eb34be90d521389&chksm=c32ace4af45d475cafa77912273e2a825a8e8c79fcb521f4775299ef1bfc3c3c927f4a99d2cf#rd)
+#### [【2022-12-09】讯飞房屋租赁比赛Top2开源](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505869&idx=2&sn=86a2ea68f36870e1648d965a05017dae&chksm=c32ace42f45d4754d3e642929484645b199002e7be9de020e0171bc7d4ed6f214948d0110d48#rd)
+#### [【2022-12-09】Adversarial Weight Perturbation，一文了解kaggle金牌方案都在用的AWP🥇🥇](http://mp.weixin.qq.com/s?__biz=MzAxOTU5NTU4MQ==&mid=2247490374&idx=1&sn=033ed7bab413e7ecd4001588f1208d61&chksm=9bc5f314acb27a02d5cb45ae26c045b42a18fc995e389e6df6d580c102af9bfd1b5294607776#rd)
 #### [【2022-12-03】Kaggle Feedback Prize冠军方案分享](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505798&idx=1&sn=7d6d9ee97404541b826ed3c61cea5e3a&chksm=c32ace09f45d471f86163e9bba572cffab661438370807a7f3b3c311164f7e73d3f0ac656baa#rd)
 #### [【2022-11-30】三等奖方案②|「系统认证风险趋势预测」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511631&idx=3&sn=0e1e7eb95c4c7b647a7a4bc98e9f9459&chksm=eca4dcf7dbd355e1b5f61b5892e01773df732a7070b25772abd9ea794170537b3e83f36a057e#rd)
 #### [【2022-11-30】三等奖方案①|「系统认证风险趋势预测」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511631&idx=2&sn=aedf255f3fb902f3aa3b91f26c848c2e&chksm=eca4dcf7dbd355e12894209933c5fb9e2007f055e07a99605763ac554693dec8745cd23e27cc#rd)

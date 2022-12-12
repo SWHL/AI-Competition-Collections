@@ -155,7 +155,7 @@ class SpiderArticleWeChat(object):
     @staticmethod
     def is_contain_str(sentence: str, key_words: Union[str, List],) -> bool:
         """sentences中是否包含key_words中任意一个"""
-        return any(i in sentence for i in key_words)
+        return any(i.lower() in sentence for i in key_words)
 
     @staticmethod
     def is_appear(key_word: str, sentence_list: List) -> bool:

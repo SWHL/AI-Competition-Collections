@@ -154,7 +154,7 @@
         </tr>
         <!------------------------------图像分类部分---------------------->
         <tr>
-            <td rowspan="18" style="border-bottom:1px solid">图像分类</td>
+            <td rowspan="19" style="border-bottom:1px solid">图像分类</td>
             <td>
                 <a href="https://mp.weixin.qq.com/s/TsyLh17ed0u-ci1ctrbPCA" target="_blank">CVPR2022-FGVC9细粒度视觉图像高粱品种分类Top4解决方案</a>
             </td>

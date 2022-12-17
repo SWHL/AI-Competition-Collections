@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-12-17】从数据分析的角度浅谈2022梧桐杯——城市赛道Top1分享](https://mp.weixin.qq.com/s/bbt0lyPotRw6ospOjJjotQ)
 #### [【2022-12-09】NAS机场配置变化预测赛题总结。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505708&idx=1&sn=48a8d11c77e520c07bffecd81ab9c599&chksm=c32acea3f45d47b529cec54724afdf4196615a9177b9abf504283f3f1fd711203e31ca3a8ab2#rd)
 #### [【2022-12-09】AIOps 电信故障根因定位竞赛Top方案总结](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505754&idx=1&sn=d45a33fca19ddd0d33192d621c620473&chksm=c32aced5f45d47c31b98cb9675e2503de50bd24ec2f31bb0ace70f5612621aea43607aa0aa69#rd)
 #### [【2022-12-09】2022 讯飞非标准化疾病诉求的简单分诊挑战赛2.0 Top1分享](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505848&idx=2&sn=87c6319660b10040de7bc0c4717d419f&chksm=c32ace37f45d47215d4064cc7c283af40f34a7f1c5097ea4011458f854dd1a066e626ec7897a#rd)

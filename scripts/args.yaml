@@ -45,6 +45,7 @@ Type:
       - 赛题解析
       - 综述
       - 百万奖金
+      - baseline
   NLP:
     md_path: ../NLP.md
     keywords:

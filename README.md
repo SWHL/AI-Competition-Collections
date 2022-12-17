@@ -156,6 +156,12 @@
         <tr>
             <td rowspan="18" style="border-bottom:1px solid">图像分类</td>
             <td>
+                <a href="https://mp.weixin.qq.com/s/TsyLh17ed0u-ci1ctrbPCA" target="_blank">CVPR2022-FGVC9细粒度视觉图像高粱品种分类Top4解决方案</a>
+            </td>
+            <td>2022-12-17</td>
+        </tr>
+         <tr>
+            <td>
                 <a href="https://mp.weixin.qq.com/s/yqGsKfI5UFmieoY-sII3RA" target="_blank">【二等奖方案①】CCF BDCI「基于MindSpore AI框架实现零售商品识别」赛题 中科大+长三角创研院</a>
             </td>
             <td>2022-10-06</td>

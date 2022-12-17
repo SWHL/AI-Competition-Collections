@@ -64,6 +64,7 @@ class SpiderArticleWeChat(object):
                 self.params['begin'] = begin
                 msg_list = self._get_url_response()
                 if msg_list:
+                    print(msg_list)
                     spider_content_list.extend(msg_list)
             self.process_content(spider_content_list)
 

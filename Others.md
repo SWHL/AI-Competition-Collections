@@ -3,6 +3,9 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+#### [【2022-12-23】讯飞房屋租赁价格预测挑战赛Top1!!!](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505875&idx=1&sn=4413426db5e2c51af92b550e94abec7b&chksm=c32ace5cf45d474ae505825adb852aa85dac9c90c5ce9db4f907c760e97aaf7c7fafcf1ab0e5#rd)
+#### [【2022-12-23】提升小场景时间序列预测效果的方法。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505912&idx=1&sn=c3f222e1edf00af20c6fc734c56b3172&chksm=c32ace77f45d476189b1936df1a5f7be24219b87b4ceedaadf2691ed0d5c4e0b6ce4518e2ff9#rd)
+#### [【2022-12-23】Kaggle知识点：Sklearn异常检测方法](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500462&idx=1&sn=8201a70c9786f109798cac1196ad1149&chksm=96c7ef6ba1b0667d8f646d201459cb9cc3f26cb4fee4dafe2d0fb3033ad5a42f2664a29f70bb#rd)
 #### [【2022-12-17】从数据分析的角度浅谈2022梧桐杯——城市赛道Top1分享](https://mp.weixin.qq.com/s/bbt0lyPotRw6ospOjJjotQ)
 #### [【2022-12-09】NAS机场配置变化预测赛题总结。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505708&idx=1&sn=48a8d11c77e520c07bffecd81ab9c599&chksm=c32acea3f45d47b529cec54724afdf4196615a9177b9abf504283f3f1fd711203e31ca3a8ab2#rd)
 #### [【2022-12-09】AIOps 电信故障根因定位竞赛Top方案总结](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505754&idx=1&sn=d45a33fca19ddd0d33192d621c620473&chksm=c32aced5f45d47c31b98cb9675e2503de50bd24ec2f31bb0ace70f5612621aea43607aa0aa69#rd)

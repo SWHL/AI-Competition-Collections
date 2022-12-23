@@ -124,13 +124,14 @@ class SpiderArticleWeChat(object):
         if not self.is_contain_str(title, self.nlp_invaild_keywords) \
                 and self.is_contain_str(title, self.nlp_keywords):
             return 0
-        elif not self.is_contain_str(title, self.others_invalid_keywords) \
+
+        if not self.is_contain_str(title, self.others_invalid_keywords) \
                 and self.is_contain_str(title, self.others_keywords):
             return 1
-        elif self.is_contain_str(title, self.interview_keywords):
+
+        if self.is_contain_str(title, self.interview_keywords):
             return 2
-        else:
-            return None
+        return None
 
     def read_md_data_split(self, md_path):
         already_data = self.read_txt(md_path)
@@ -155,12 +156,14 @@ class SpiderArticleWeChat(object):
     @staticmethod
     def is_contain_str(sentence: str, key_words: Union[str, List],) -> bool:
         """sentences中是否包含key_words中任意一个"""
+        sentence = sentence.lower()
         return any(i.lower() in sentence for i in key_words)
 
     @staticmethod
     def is_appear(key_word: str, sentence_list: List) -> bool:
         """key_word是否在sentence_list中出现过"""
-        return any(key_word in sentence for sentence in sentence_list)
+        key_word = key_word.lower()
+        return any(key_word in sentence.lower() for sentence in sentence_list)
 
     @staticmethod
     def read_yaml(yaml_path):

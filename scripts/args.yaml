@@ -46,6 +46,8 @@ Type:
       - 综述
       - 百万奖金
       - baseline
+      - 报名
+      - Kaggle知识点
   NLP:
     md_path: ../NLP.md
     keywords:

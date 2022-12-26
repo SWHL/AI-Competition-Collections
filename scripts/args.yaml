@@ -48,6 +48,7 @@ Type:
       - baseline
       - 报名
       - kaggle知识点
+      - 80+
   NLP:
     md_path: ../NLP.md
     keywords:

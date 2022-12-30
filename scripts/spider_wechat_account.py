@@ -91,7 +91,7 @@ class SpiderArticleWeChat(object):
 
             # 当前抓取到的文章没有出现在已有列表中
             if not self.is_appear(title, left):
-                competition_info = f'#### [【{self.cur_date}】{title}]({link})'
+                competition_info = f'- [【{self.cur_date}】{title}]({link})'
 
                 head.append(competition_info)
                 self.write_txt(md_path, head + left)

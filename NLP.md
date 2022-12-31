@@ -31,5 +31,6 @@
 - [【2021-12-07】【比赛】CCL“中国法研杯”相似案例匹配评测竞赛 - TOP队伍攻略分享](https://mp.weixin.qq.com/s?src=11&timestamp=1638859300&ver=3481&signature=0Gbq9zrr-SROJmhft9yfIvD8kp3CGFX*zPCoQeUJ7CLS0lT113McuLOuIRlnQZufZXC0BBN7G-pGWLx1iGhs-QSUdDChoif7auA0t7LC-HAsPfN0Cdf7B6geq*mUI*Vz&new=1)
 - [【2021-12-07】搜狐文本匹配算法比赛top2解读](https://blog.csdn.net/qq_16949707/article/details/118695359)
 
----
-- 相关比赛情况参见→[NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
+
+### 友情链接
+- [NLP人军火库](https://github.com/TingFree/NLPer-Arsenal)

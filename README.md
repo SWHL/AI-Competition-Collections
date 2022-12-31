@@ -1,4 +1,4 @@
-# AI-Competition-Collections
+## AI比赛经验帖子集锦
 🔥🔥🔥 欢迎PR 🔥🔥🔥
 
 > 从他人比赛经验中，总是可以学到很多东西

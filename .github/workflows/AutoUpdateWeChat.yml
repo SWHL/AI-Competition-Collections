@@ -51,5 +51,4 @@ jobs:
           git remote add origin $REPO_SSH
 
           git add -u
-          git commit -m 'Actions auto update'
-          git push -f origin main
+          git commit -m 'Actions auto update' && git push -f origin ${SUBMMIT_BRANCH} || echo "No changes to commit"

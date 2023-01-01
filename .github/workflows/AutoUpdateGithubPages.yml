@@ -35,7 +35,7 @@ jobs:
       - name: Convert all md files to hugo format.
         run: |
           pip install PyYAML
-          git clone -b develop $REPO_SSH ${CLONE_DIR}
+          git clone $REPO_SSH ${CLONE_DIR}
           cd ${CLONE_DIR}/scripts
           python convert.py
 

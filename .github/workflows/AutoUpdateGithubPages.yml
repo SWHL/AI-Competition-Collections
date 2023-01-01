@@ -53,3 +53,5 @@ jobs:
 
       - name: The job has failed
         if: ${{ failure() }}
+        run: |
+          echo "Nothing to commit"

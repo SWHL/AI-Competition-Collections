@@ -2,10 +2,10 @@ name: Auto Update Wechat official account
 on:
   push:
     branches: [ main ]
-  paths:
-    - '!.github/workflows/AutoUpdateGithubPages.yml'
-    - '!scripts/convert.py'
-    - '!scripts/convert.yaml'
+    paths:
+      - '!.github/workflows/AutoUpdateGithubPages.yml'
+      - '!scripts/convert.py'
+      - '!scripts/convert.yaml'
   schedule:
     - cron: '0 14 * * 5'  # 22点运行 14 + 8
 

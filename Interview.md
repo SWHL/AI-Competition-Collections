@@ -1,6 +1,7 @@
 ### 比赛团队访谈
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+- [【2023-01-01】一场冠军两场Top10% 我的CCF比赛总结！](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247498489&idx=1&sn=3f0bbf0e1b7f4bfef3ad9765e363a725&chksm=96c7d73ca1b05e2a59d8ad5bde394ae8598aff1c7ae8bbc6bf118252b44e39aa51e6861a938f&scene=21#wechat_redirect)
 - [【2022-12-09】AI竞赛经验 | 互联网＋大赛经验分享by刘玉洁](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247484857&idx=1&sn=18abb546f36b103f050026065d74ed32&chksm=fe5fdeecc92857fa4c30e55d7a03d80b29ddca62c78c8f2a6a555e3b33f6220090caadda75e0#rd)
 - [【2022-12-09】AI竞赛经验 | “青创北京”2022年 “挑战杯”首都大学生创业计划竞赛分享by刘寿宇](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247485396&idx=1&sn=451a26593820dd1732b8366ff33b1b5b&chksm=fe5fdc81c92855972bf2bc1aa05ab5e4d4c52a76d9284990bb75ab410310a7f5a4cc64c68872#rd)
 - [【2022-12-09】AI竞赛经验 | 第二十二届中国机器人及人工智能大赛分享by符传世](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247485423&idx=1&sn=e2b8676725da1f3208074f7db70ca6f4&chksm=fe5fdcbac92855ace3dbf0b83a4908e36ad8dd4b19635e44a5720d64da5bcda521a16b1a9552#rd)

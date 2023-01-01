@@ -3,6 +3,11 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-01-01】WSDM-爱奇艺：用户留存预测经验与代码分享-TOP1](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247497981&idx=1&sn=0af265485b99beff1df0fa3e7438b739&chksm=96c7d538a1b05c2efa739385b8d740a126cdad5620dd4522878747b9d696e2d2848fc00e371a&scene=21#wechat_redirect)
+- [【2023-01-01】Kaggle比赛总结：AMEX 金融风控比赛](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247499467&idx=1&sn=df16c9f88a2de5b32a1a56a355ecb74f&chksm=96c7d30ea1b05a184d2c9e22de788d62d42f7c6f4c597b54bc46a6577269f6154b85eeff5e46&scene=21#wechat_redirect)
+- [【2023-01-01】天池 | 心电异常事件预测冠军解决方案](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247499788&idx=1&sn=1f73fdc25cf74ab8b5c92873105845ba&chksm=96c7edc9a1b064df342dea3d8435555b7f42921fea1617ed16740db267153f2144902016d558&scene=21#wechat_redirect)
+- [【2023-01-01】KDD Cup2022 风力发电预测比赛总结](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247499502&idx=1&sn=5a47d80b2f2441ca2c3abe7dc4c89b92&chksm=96c7d32ba1b05a3d37848edb379c62bdd6208f238fb67ff38095d389c4d79cb1cf2392f024d2&scene=21#wechat_redirect)
+- [【2023-01-01】竞赛总结：CCF乘用车细分市场销量预测](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247497787&idx=1&sn=03e8e432030d67147dfefeff6f82f8d7&chksm=96c7d5fea1b05ce87438f8e2386cbaa86964c6b1fc5409f05756ef2b184d0b327b458ade56d2&scene=21#wechat_redirect)
 - [【2023-01-01】2022 CCF BDCI返乡发展人群预测Top4分享](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506032&idx=2&sn=458e796991dd1c0c9f58f8666af89c9a&chksm=c32ac1fff45d48e94aaedb53c637c2cabd80f8edf0e9f07a9465d040b615ce14024e6f536298#rd)
 - [【2022-12-23】CVPR2022-FGVC9细粒度视觉图像高粱品种分类Top4解决方案](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505907&idx=2&sn=0ba2bbd71c367ace67d8daf37a924dd8&chksm=c32ace7cf45d476a19c24d7cf5bc57122c39c2d76e735db83a9781a5932952a31caccf7c1447#rd)
 - [【2022-12-23】讯飞人岗匹配Top3方案总结](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247505938&idx=2&sn=5d4f0fecf7ab9ae99fb2970bab2e7d84&chksm=c32ac19df45d488bf574e7bbb50180462f411949a7743c974e7ebf63cf269fe5e8d5f422d570#rd)
@@ -22,7 +27,6 @@
 - [【2022-11-30】三等奖方案①|「系统认证风险趋势预测」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511631&idx=2&sn=aedf255f3fb902f3aa3b91f26c848c2e&chksm=eca4dcf7dbd355e12894209933c5fb9e2007f055e07a99605763ac554693dec8745cd23e27cc#rd)
 - [【2022-11-30】二等奖方案|「系统认证风险趋势预测」赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247511631&idx=1&sn=449228647107050027e6a5cd9a35c500&chksm=eca4dcf7dbd355e13ceb06043321e4584049840adf78979cecce37e1890c66219b17defed4f6#rd)
 - [【2022-11-28】赛题总结：全球人工智能技术创新大赛](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500363&idx=1&sn=700a81a9ee660cfae2d90c87a6a71da0&chksm=96c7ef8ea1b066982bc693885e5f9e88452d32c90dadf7284bbff8fdb7e48e5555a1a5fd661b#rd)
-- [【2022-11-26】竞赛总结：AIOps 电信故障根因定位](https://mp.weixin.qq.com/s/lN1HHHn9QVpaZVr-iGqH9A)
 - [【2022-11-23】一等奖方案|「基于UEBA的用户上网异常行为分析」赛题](https://mp.weixin.qq.com/s/zI0uKhiZZDyNMAwKjdoBHg)
 - [【2022-11-23】二等奖方案|「基于UEBA的用户上网异常行为分析」赛题](https://mp.weixin.qq.com/s/2HKSUnPIqzZ_vi4w1ejNBg)
 - [【2022-11-23】三等奖方案|「基于UEBA的用户上网异常行为分析」赛题](https://mp.weixin.qq.com/s/cNbuUJcf4bYRbySq9fYgBg)

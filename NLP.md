@@ -1,6 +1,9 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+- [【2023-01-01】Kaggle Jigsaw有毒识别总结（Top 2%）](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247498200&idx=1&sn=7d1b9aeb1780a47f2939b55a7a736995&chksm=96c7d41da1b05d0bfcc1c7819cc58552d2e0a703578f7a903f14f14e52b15c6b267ef9692cde&scene=21#wechat_redirect)
+- [【2023-01-01】竞赛总结：天池中文NLP地址要素解析](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247498876&idx=1&sn=c939ae3fe073799e48664a2157583810&chksm=96c7d1b9a1b058af470675a5462118d34cd309a32334a3d300184549a627dfedfca88b9a15d8&scene=21#wechat_redirect)
+- [【2023-01-01】竞赛总结：CHIP2020医学命名实体识别](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247498894&idx=1&sn=484bdad916242c06c10f20877a21791b&chksm=96c7d14ba1b0585d47b04a626f2b4722546f1f64b6d8bfb4d579aa1b814f351db3fde55f11ea&scene=21#wechat_redirect)
 - [【2023-01-01】EMNLP 2022 最佳论文！这脑洞绝了….](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506032&idx=1&sn=b3e55f0ff4570302d87ee6af44dc96f9&chksm=c32ac1fff45d48e9f5c49a0e87aeb5426b010c035c621d6fba19a1616f4d9d9fc44b51687309#rd)
 - [【2022-12-03】Kaggle Feedback Prize冠军方案分享](https://mp.weixin.qq.com/s/boWx1P9HxKsxdgZLNp7DBw)
 - [【2022-12-01】文本分类微调技巧实战2.0](http://mp.weixin.qq.com/s?__biz=MzAxOTU5NTU4MQ==&mid=2247490397&idx=1&sn=c4594d3d6926b21ca94f1aae4c30cc5d&chksm=9bc5f30facb27a19041dda0a86d75ea0a0a0130835310208ffc9d9b1b081259127fd42452edc#rd)
@@ -11,7 +14,7 @@
 - [【2022-11-20】文本分类实战微调技巧](https://mp.weixin.qq.com/s/DKmKJs9ttRW2In3nh9JYRA)
 - [【2022-11-18】科大讯飞中文语义病句识别挑战赛Top1方案总结](https://mp.weixin.qq.com/s/RRlySNLoaDFBbYAK_eJi2Q)
 - [【2022-10-31】一等奖方案：2021 CCF BDCI 「千言-问题匹配鲁棒性评测」赛题](https://mp.weixin.qq.com/s/M-S-_LtTrJe_NbVLCazjuA)
-- [【2022-10-13】2021搜狐文本匹配算法大赛方案总结](https://mp.weixin.qq.com/s/RauZ8WI3nkYitVzbcVxP9A)
+- [【2022-10-13】竞赛总结：搜狐文本匹配算法大赛](https://mp.weixin.qq.com/s/RauZ8WI3nkYitVzbcVxP9A)
 - [【2022-10-08】【一等奖方案】CCF BDCI「客服通话文本摘要提取」赛题 LICHEE-Summary](https://mp.weixin.qq.com/s/WVEMyYcTB_lHkFz4QR-CSA)
 - [【2022-10-08】【二等奖方案①】CCF BDCI「客服通话文本摘要提取」赛题 还是起个名字吧](https://mp.weixin.qq.com/s/4eBuqHTxfLVq2EkePag9aw)
 - [【2022-10-08】【二等奖方案②】CCF BDCI「客服通话文本摘要提取」赛题二等奖 每天打点鸡血队](https://mp.weixin.qq.com/s/ogpOtbKek4XB3miNn_1GyQ)

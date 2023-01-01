@@ -71,7 +71,7 @@ Type:
     keywords:
       - AI竞赛经验
 
-  CV:
-    md_path: ../README.md
-    keywords:
-      - 图像识别
+  # CV:
+  #   md_path: ../README.md
+  #   keywords:
+  #     - 图像识别

@@ -92,13 +92,16 @@ class ConvertMDToHugo():
             md_name = cv_path.stem
             md_content = self.read_txt(cv_path)
 
+            # 如果没有在预定义字典里，则取已有权重最大值+1
+            weight = cv_weight_dict.get(md_name, max(cv_weight_dict.values()) + 1)
+
             # 定义前缀
             prefix_list = [
                 '---',
                 f'title: "{md_name}"',
                 f'date: {self.cur_date}',
                 'draft: false',
-                f'weight: {cv_weight_dict[md_name]}',
+                f'weight: {weight}',
                 f'LastModifierDisplayName: "{self.author}"',
                 f'LastModifierEmail: "{self.author_email}"',
                 '---',

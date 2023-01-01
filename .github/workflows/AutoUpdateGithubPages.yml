@@ -1,12 +1,13 @@
 name: Auto Update to Github Pages.
+
 on:
   push:
     branches: [ main ]
-  paths:
-    - '*.md'
-    - 'scripts/convert.py'
-    - 'scripts/convert.yaml'
-    - '.github/workflows/AutoUpdateGithubPages.yml'
+    paths:
+      - '*.md'
+      - 'scripts/convert.py'
+      - 'scripts/convert.yaml'
+      - '.github/workflows/AutoUpdateGithubPages.yml'
 
 env:
   REPO_SSH: git@github.com:SWHL/AI-Competition-Collections.git

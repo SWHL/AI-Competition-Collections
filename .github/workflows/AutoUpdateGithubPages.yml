@@ -46,7 +46,10 @@ jobs:
           rm -r content
           cp -r ../${CLONE_DIR}/content .
 
-          git add -u
+          git add .
           git status
           git commit -m 'Actions auto update'
           git push -f origin ${SUBMMIT_BRANCH}
+
+      - name: The job has failed
+        if: ${{ failure() }}

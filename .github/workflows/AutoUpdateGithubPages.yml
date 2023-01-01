@@ -48,10 +48,9 @@ jobs:
 
           git add .
           git status
-          git commit -m 'Actions auto update'
-          git push -f origin ${SUBMMIT_BRANCH}
+          git commit -m 'Actions auto update' && git push -f origin ${SUBMMIT_BRANCH} || echo "No changes to commit"
 
-      - name: The job has failed
-        if: ${{ failure() }}
-        run: |
-          echo "Nothing to commit"
+      # - name: The job has failed
+      #   if: ${{ failure() }}
+      #   run: |
+      #     echo "Nothing to commit"

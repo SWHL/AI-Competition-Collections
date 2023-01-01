@@ -1,0 +1,62 @@
+Global:
+  Author: SWHL
+  AuthorEmail: liekkaskono@163.com
+  Children: '{{% children sort="weight" %}}'
+
+Home:
+  archetype: home
+  title: AI比赛经验帖子集锦
+  start_key: '### 竞赛文章公众号'
+  end_key: 'AIWIN'
+
+CV:
+  title: 计算机视觉比赛经验贴
+  weight: 1
+  cv_weight_dict:
+    图像分类: 1
+    目标检测: 2
+    OCR: 3
+    多模态: 4
+    图像分割: 5
+    对抗攻击: 6
+    比赛技巧: 7
+    关键点检测识别: 8
+    视频理解: 9
+    图像篡改检测: 10
+    AI算法: 11
+    图像压缩: 12
+    图像视频修复_增强_重建_超分: 13
+    行为识别: 14
+
+NLP:
+  title: NLP赛事经验贴
+  menuTitle: NLP
+  weight: 2
+  badge_list:
+    - 情感识别
+    - 文本分类
+    - 文本提取
+    - 机器翻译
+
+Others:
+  title: 其他
+  menuTitle: Others
+  weight: 4
+  badge_list:
+    - 推荐系统
+    - 数据挖掘
+    - 知识图谱
+    - 图网络
+    - 多智能体决策
+    - 蛋白质结构预测
+    - 智能机器人
+
+Speech:
+  title: 语音赛事经验贴
+  menuTitle: Speech
+  weight: 3
+
+Interview:
+  title: 比赛团队访谈
+  menuTitle: Interview
+  weight: 5

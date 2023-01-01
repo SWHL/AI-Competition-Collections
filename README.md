@@ -1,5 +1,5 @@
 ## AI比赛经验帖子集锦
-<a href="https://swhl.github.io/AI-Competition-Collections/index.html"><img src="https://img.shields.io/badge/WebSite-Github%20Pages-blue"></a>
+<a href="https://swhl.github.io/AI-Competition-Collections/index.html" target="_blank"><img src="https://img.shields.io/badge/WebSite-Github%20Pages-blue"></a>
 
 🔥🔥🔥 欢迎PR 🔥🔥🔥
 

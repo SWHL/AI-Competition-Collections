@@ -46,7 +46,7 @@ jobs:
           rm -r content
           cp -r ../${CLONE_DIR}/content .
 
-          git add .
+          git add -u
           git status
           git commit -m 'Actions auto update'
           git push -f origin ${SUBMMIT_BRANCH}

@@ -1,8 +1,9 @@
 ## AI比赛经验帖子集锦
+<a href="https://swhl.github.io/AI-Competition-Collections/index.html"><img src="https://img.shields.io/badge/WebSite-Github%20Pages-blue"></a>
+
 🔥🔥🔥 欢迎PR 🔥🔥🔥
 
 > 从他人比赛经验中，总是可以学到很多东西
-
 
 ### 赛事经验贴
 - CV赛事经验贴
@@ -26,8 +27,6 @@
 - [比赛经验分享](./Interview.md)
 
 
-### [Kaggle比赛经验和方案汇总](https://farid.one/kaggle-solutions/)
-
 ### 竞赛文章公众号
 | **公众号名称** | **简单介绍** |
 |:---:|:---|
@@ -36,6 +35,10 @@
 | Datawhale | 一个专注于AI领域的开源组织，汇聚了众多优秀学习者，愿景：for the learnner,和学习者一起成长。|
 | 世界AI创新大赛 | 世界人工智能创新大赛（AIWIN），是世界人工智能大会的组成部分之一。|
 
+### 其他信息汇总平台
+| **平台名称** | **简单介绍** |
+|:---:|:---|
+|[Kaggle Solutions](https://farid.one/kaggle-solutions/)|列出了过去Kaggle比赛中顶尖选手分享的几乎所有可用解决方案和想法。|
 
 ### 竞赛平台
 | **平台名称** | **简单介绍** |

@@ -1,3 +1,4 @@
+- [【2023-01-04】CV赛题总结：人民币面值与编码识别](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247484819&amp;idx=1&amp;sn=30a464f8cb7d6f403fc28b134be18210&amp;chksm=96c42856a1b3a140d3ebc1fee1b08cfdc84fff1ca3ce54729f38a7f2d0e93cf5d38716a2f566&amp;scene=21#wechat_redirect)
 - [【2022-08-10】三年磨一剑——微信OCR图片文字提取](https://cloud.tencent.com/developer/article/1798403)
 - [【2022-06-24】360数科夺得OCR国际技术竞赛冠军，商超小票文本行识别如何做到最佳？](https://mp.weixin.qq.com/s/JofpqmaaHwx-s9PLTE3YzA)
 - [【2022-04-14】AlexNet做文档布局分析 (版面分析)&数据集](https://blog.csdn.net/demm868/article/details/106010223)

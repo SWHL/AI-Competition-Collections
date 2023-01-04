@@ -1,6 +1,13 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+- [【2023-01-04】SMP2020微博情绪分类比赛总结](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247487021&amp;idx=1&amp;sn=8af5eb742cd1ada309c6582154d38a3b&amp;chksm=96c423e8a1b3aafec150f51ca099fd74690293bd590ed25a8da5911a427b8cd136b4a466aabb&amp;scene=21#wechat_redirect)
+- [【2023-01-04】iFLYTEK 多语种文本挖掘挑战赛冠军分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247489625&amp;idx=1&amp;sn=63885f771fd0b3c3779138d80d5bbffa&amp;chksm=96c4359ca1b3bc8a65328fab16653f7ef95f743a4ad9acc1488be690f3a156c5696673d23787&amp;scene=21#wechat_redirect)
+- [【2023-01-04】科大讯飞大赛 事件抽取挑战赛冠军分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247489380&amp;idx=1&amp;sn=ee975a87c149b0dd88ffc3f00df9a1f8&amp;chksm=96c43aa1a1b3b3b7abdfc58bd9727847c95c27b19bafd9fbd74af2d57a4813d7ebe4b989a53e&amp;scene=21#wechat_redirect)
+- [【2023-01-04】比赛总结：第三届魔镜杯Top思路汇总](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247489868&amp;idx=1&amp;sn=8d1cdd65c89f0a57821524f28373ac96&amp;chksm=96c43489a1b3bd9f837ce1d4895f4bc7e24f96f66d2b427de64ec19137b984472f5c1e8c49ad&amp;scene=21#wechat_redirect)
+- [【2023-01-04】竞赛总结：中医文献问题生成挑战](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247490569&amp;idx=1&amp;sn=9fcc6378bd883cdf16ce9642f344b75f&amp;chksm=96c431cca1b3b8da636c0da8bccf34d9a150fe9ead4052872b2545eb71a4f9cb462025230c1b&amp;scene=21#wechat_redirect)
+- [【2023-01-04】竞赛总结：天池中医药实体识别](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247490427&amp;idx=1&amp;sn=1c445c2641409eb0c37d96a90f735028&amp;chksm=96c436bea1b3bfa853752d8ce0385ad9f5ec8aaadadd5e51a82088e7419ed299df91968c4fed&amp;scene=21#wechat_redirect)
+- [【2023-01-04】竞赛总结：小布助手对话短文本语义匹配](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247492497&amp;idx=1&amp;sn=ced162a923a5abca5a208f086a86abb8&amp;chksm=96c7ce54a1b04742edcd2d33d066783722b8e04ce11ba78d03e0441975a60371b9b6d5f6f6e7&amp;scene=21#wechat_redirect)
 - [【2023-01-01】Kaggle Jigsaw有毒识别总结（Top 2%）](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247498200&idx=1&sn=7d1b9aeb1780a47f2939b55a7a736995&chksm=96c7d41da1b05d0bfcc1c7819cc58552d2e0a703578f7a903f14f14e52b15c6b267ef9692cde&scene=21#wechat_redirect)
 - [【2023-01-01】竞赛总结：天池中文NLP地址要素解析](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247498876&idx=1&sn=c939ae3fe073799e48664a2157583810&chksm=96c7d1b9a1b058af470675a5462118d34cd309a32334a3d300184549a627dfedfca88b9a15d8&scene=21#wechat_redirect)
 - [【2023-01-01】竞赛总结：CHIP2020医学命名实体识别](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247498894&idx=1&sn=484bdad916242c06c10f20877a21791b&chksm=96c7d14ba1b0585d47b04a626f2b4722546f1f64b6d8bfb4d579aa1b814f351db3fde55f11ea&scene=21#wechat_redirect)

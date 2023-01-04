@@ -40,6 +40,8 @@ NLP:
     - 文本提取
     - 机器翻译
     - 命名体识别
+    - 文本匹配
+    - 文本挖掘
 
 Others:
   title: 其他
@@ -53,11 +55,16 @@ Others:
     - 多智能体决策
     - 蛋白质结构预测
     - 智能机器人
+    - 序列预测
 
 Speech:
   title: 语音赛事经验贴
   menuTitle: Speech
   weight: 3
+  badge_list:
+    - 语音识别
+    - 音频分类
+    - 语音合成
 
 Interview:
   title: 比赛团队访谈

@@ -3,9 +3,9 @@ on:
   push:
     branches: [ main ]
     paths:
-      - '!.github/workflows/AutoUpdateGithubPages.yml'
-      - '!scripts/convert.py'
-      - '!scripts/convert.yaml'
+      - '.github/workflows/AutoUpdateWeChat.yml'
+      - 'scripts/spider_wechat_account.py'
+      - 'scripts/args.yaml'
   schedule:
     - cron: '0 14 * * 5'  # 22点运行 14 + 8
 

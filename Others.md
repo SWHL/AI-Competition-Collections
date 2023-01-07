@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-01-07】WSDM Cup：跨境电商推荐算法大赛方案代码分享-Top2](https://mp.weixin.qq.com/s/_cUlOfCAqQ79SwvgSXMtwg)
 - [【2023-01-04】DF | 工件负荷率预测冠军分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247483902&amp;idx=1&amp;sn=02fcc524253272d80167476f1b4c95a6&amp;chksm=96c42c3ba1b3a52dc8d5a88f5effc757fd6b40ef5a7832990acea165b13de6532aa6ab6e857d&amp;scene=21#wechat_redirect)
 - [【2023-01-04】DF | 技术需求与技术成果关联度冠军分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247483845&amp;idx=1&amp;sn=80be110b8358771c20168a41d8575c9b&amp;chksm=96c42c00a1b3a516550b310da87cc371fe2046faab6de70450dd87958d0ac519e6f34e2863c7&amp;scene=21#wechat_redirect)
 - [【2023-01-04】盘点Kaggle平台的金融量化比赛](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247497902&amp;idx=1&amp;sn=054b584347c93134eea1c736f749dadd&amp;chksm=96c7d56ba1b05c7de5048128258e859343df46fe30716060471ca53d428de61b312fcc01fa3c&amp;scene=21#wechat_redirect)

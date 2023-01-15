@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - '*.md'
+      - '**.md'
       - 'scripts/convert.py'
       - 'scripts/convert.yaml'
       - '.github/workflows/AutoUpdateGithubPages.yml'

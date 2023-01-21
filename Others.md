@@ -3,6 +3,12 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-01-21】跨境电商推荐算法大赛方案Top2分享（含代码）](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506080&idx=2&sn=e358b2cc6160ac1769122227eaaf8f4c&chksm=c32ac12ff45d483989fadd259d3e9631284944e245346771cb1bab51ab2baca4d67bd4375b6b#rd)
+- [【2023-01-21】Kaggle  H&M 时尚商品推荐金牌方案汇总](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506096&idx=1&sn=7f1ece3bf3c45b6f759e7cda35a89165&chksm=c32ac13ff45d4829ac10233d2b109b2644e7d4973e1ab3f00fadb7fd65b978f8bbae1477b346#rd)
+- [【2023-01-21】Imagine Computing内容分发网络客户体验预测Top1分享](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506122&idx=1&sn=0552337c9463e6c261adc8e31f85fe9f&chksm=c32ac145f45d4853aaedd5aa1185afb8109df2d26a3f768b4736c4c53b838538868076485325#rd)
+- [【2023-01-21】竞赛总结：Kaggle  H&M 时尚商品推荐](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500686&idx=1&sn=ed4c4de2382f2edbe84d799e920287cb&chksm=96c7ee4ba1b0675d3e5065bd94e77d5ed909d050c89419ce853ab09bc3d8313bd45e9a63dd02#rd)
+- [【2023-01-21】ICDM 2022 : 大规模电商图上的风险商品检测方案代码分享-Top3](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500764&idx=1&sn=9cfa95594f8ee6609960afab27defd0f&chksm=96c7ee19a1b0670fda38dbfc7c32f33ac66d0d0828661b2ab020bf40d2ee4918411dc0ecd9ae#rd)
+- [【2023-01-21】阿里云天池｜2022江苏气象AI算法挑战赛亚军方案分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500806&idx=1&sn=9025904c2d74e4bacab494961022ab8f&chksm=96c7e9c3a1b060d553ac3ebe1d9977d27567420ae65d188245a053b08c497b9e505701291394#rd)
 - [【2023-01-07】WSDM Cup：跨境电商推荐算法大赛方案代码分享-Top2](https://mp.weixin.qq.com/s/_cUlOfCAqQ79SwvgSXMtwg)
 - [【2023-01-04】DF | 工件负荷率预测冠军分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247483902&amp;idx=1&amp;sn=02fcc524253272d80167476f1b4c95a6&amp;chksm=96c42c3ba1b3a52dc8d5a88f5effc757fd6b40ef5a7832990acea165b13de6532aa6ab6e857d&amp;scene=21#wechat_redirect)
 - [【2023-01-04】DF | 技术需求与技术成果关联度冠军分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247483845&amp;idx=1&amp;sn=80be110b8358771c20168a41d8575c9b&amp;chksm=96c42c00a1b3a516550b310da87cc371fe2046faab6de70450dd87958d0ac519e6f34e2863c7&amp;scene=21#wechat_redirect)

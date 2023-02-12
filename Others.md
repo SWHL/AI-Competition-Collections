@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-02-12】Kaggle OTTO 多目标推荐 19th 赛后总结](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506182&idx=1&sn=ce5ce66918b8ab3922087b9aade22d34&chksm=c32ac089f45d499f11b9b21af276eb0b74071bf79caae5f137ed92baa0e17e31ee000d378e99#rd)
+- [【2023-02-12】竞赛总结：On Cloud 遥感云层检测](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500906&idx=2&sn=1aaaa338a9462e19088ead5e42f78d03&chksm=96c7e9afa1b060b944a7405bb653215d116acfcbb650e28c38fd3fa5504228030c73e59d4a7d#rd)
 - [【2023-02-03】天池大赛-江苏气象AI算法挑战赛亚军方案分享](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506164&idx=1&sn=763be738deeea01cf658fc86811681a3&chksm=c32ac17bf45d486df9ee566a51a741db7cbd41c5b033c73a3a58fa91871073e28cd3c2ae1624#rd)
 - [【2023-02-03】Kaggle OTTO 多目标电商商品推荐金牌方案总结。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506179&idx=1&sn=d7ba32db2a70d1da5d3dacb385875c4b&chksm=c32ac08cf45d499a08bc64559712b5930d72631f125673a944218bbbca3f3b50c93b87cb39a6#rd)
 - [【2023-02-03】竞赛春节作业：KDD Top10 落地论文](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500787&idx=1&sn=1dc22d9da0b5a8f785aa2f36a4b2e2ec&chksm=96c7ee36a1b06720c7f00efacb9319acb9eeae9c0f905fbee918875d3b417978beee540ae983#rd)

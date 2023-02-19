@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-02-19】竞赛总结：科大讯飞2022 AI开发者大赛算法赛（附56场比赛答辩视频）](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501010&idx=1&sn=3c8fbb98c3f452d26a83155cfb2fd032&chksm=96c7e917a1b060014abda35b960acbfb3ac31c23d710ab127fbf00d6c5e71c55560ddfea2929#rd)
 - [【2023-02-12】Kaggle OTTO 多目标推荐 19th 赛后总结](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506182&idx=1&sn=ce5ce66918b8ab3922087b9aade22d34&chksm=c32ac089f45d499f11b9b21af276eb0b74071bf79caae5f137ed92baa0e17e31ee000d378e99#rd)
 - [【2023-02-12】竞赛总结：On Cloud 遥感云层检测](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500906&idx=2&sn=1aaaa338a9462e19088ead5e42f78d03&chksm=96c7e9afa1b060b944a7405bb653215d116acfcbb650e28c38fd3fa5504228030c73e59d4a7d#rd)
 - [【2023-02-03】天池大赛-江苏气象AI算法挑战赛亚军方案分享](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506164&idx=1&sn=763be738deeea01cf658fc86811681a3&chksm=c32ac17bf45d486df9ee566a51a741db7cbd41c5b033c73a3a58fa91871073e28cd3c2ae1624#rd)

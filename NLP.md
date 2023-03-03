@@ -1,6 +1,8 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+- [【2023-03-03】NLP比赛实操：人民网算法赛微博评论生成](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501103&idx=1&sn=0763d3ac52e248efaf301148409cc445&chksm=96c7e8eaa1b061fcbd009ea6430059e3dcc9b1a41299b08cd24c2fd2673a98ca10f2e6d11005#rd)
+- [【2023-03-03】NLP比赛实操：人民网算法赛微博话题识别](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501158&idx=1&sn=11557d4eafc8894dcdf57e7924fe3459&chksm=96c7e8a3a1b061b51dfe8315e2c660f1c974314cf60e50c1d0fe37f9bba9585073dcc5fe7696#rd)
 - [【2023-01-04】SMP2020微博情绪分类比赛总结](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247487021&amp;idx=1&amp;sn=8af5eb742cd1ada309c6582154d38a3b&amp;chksm=96c423e8a1b3aafec150f51ca099fd74690293bd590ed25a8da5911a427b8cd136b4a466aabb&amp;scene=21#wechat_redirect)
 - [【2023-01-04】iFLYTEK 多语种文本挖掘挑战赛冠军分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247489625&amp;idx=1&amp;sn=63885f771fd0b3c3779138d80d5bbffa&amp;chksm=96c4359ca1b3bc8a65328fab16653f7ef95f743a4ad9acc1488be690f3a156c5696673d23787&amp;scene=21#wechat_redirect)
 - [【2023-01-04】科大讯飞大赛 事件抽取挑战赛冠军分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247489380&amp;idx=1&amp;sn=ee975a87c149b0dd88ffc3f00df9a1f8&amp;chksm=96c43aa1a1b3b3b7abdfc58bd9727847c95c27b19bafd9fbd74af2d57a4813d7ebe4b989a53e&amp;scene=21#wechat_redirect)

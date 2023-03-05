@@ -3,9 +3,9 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 欢迎您贡献看到的AI比赛经验帖子，可以通过点击[🌈贡献AI比赛经验帖子](https://www.wjx.cn/vm/PRivSRh.aspx#)，或扫码填写。
-    <div align="center">
+    <p align="center">
         <img src="https://user-images.githubusercontent.com/28639377/222939092-5e118d92-0010-4ee1-870a-5891d6b07e66.png" width="25%" height="25%" align="center">
-    </div>
+    </p>
 
 ### 赛事经验贴
 - CV赛事经验贴

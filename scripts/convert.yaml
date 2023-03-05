@@ -6,7 +6,7 @@ Global:
 Home:
   archetype: home
   title: AI比赛经验帖子集锦
-  start_key: '### 竞赛文章公众号'
+  start_key: '欢迎您贡献看到的AI比赛'
   end_key: 'AIWIN'
 
 CV:

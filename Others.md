@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-03-10】RSNA比赛总结—kaggle 高效摸牌套路](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506795&idx=1&sn=e18fe338dc821ae44637ab1215390d4e&chksm=c32ac2e4f45d4bf2d014216ad7fd302a01feca2656dacd8cf2922ab8668628478bc800474159#rd)
+- [【2023-03-10】竞赛总结：爱奇艺视频版权检测](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501162&idx=1&sn=c93499c60e3f97d82b90b43157994c94&chksm=96c7e8afa1b061b9092870d9d8ae38b3defb052bb05625fb49bbf9c28091128b9d202d58300f#rd)
 - [【2023-02-19】竞赛总结：科大讯飞2022 AI开发者大赛算法赛（附56场比赛答辩视频）](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501010&idx=1&sn=3c8fbb98c3f452d26a83155cfb2fd032&chksm=96c7e917a1b060014abda35b960acbfb3ac31c23d710ab127fbf00d6c5e71c55560ddfea2929#rd)
 - [【2023-02-12】Kaggle OTTO 多目标推荐 19th 赛后总结](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506182&idx=1&sn=ce5ce66918b8ab3922087b9aade22d34&chksm=c32ac089f45d499f11b9b21af276eb0b74071bf79caae5f137ed92baa0e17e31ee000d378e99#rd)
 - [【2023-02-12】竞赛总结：On Cloud 遥感云层检测](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247500906&idx=2&sn=1aaaa338a9462e19088ead5e42f78d03&chksm=96c7e9afa1b060b944a7405bb653215d116acfcbb650e28c38fd3fa5504228030c73e59d4a7d#rd)

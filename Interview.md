@@ -1,6 +1,7 @@
 ### 比赛团队访谈
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+- [【2023-03-10】AI竞赛经验 | 全国大学生物理实验竞赛（创新）分享by李子芊](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247485681&idx=1&sn=84722f0febb3842590f1da5e880c0081&chksm=fe5fd3a4c9285ab23abf64defa9072f03fdf2528c721f4e242ac7fc5db606c6f8c1447d90be4#rd)
 - [【2023-01-04】从0开始到天池比赛Top 1‰ ，万字长文总结我的竞赛学习之路！](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247489671&amp;idx=1&amp;sn=dfbb6d11a27b4834e293b18406635465&amp;chksm=96c43542a1b3bc543674145033b05be413a9aee2c95f8053103b632a506c9b8d4c6bef8c3dd3&amp;scene=21#wechat_redirect)
 - [【2023-01-01】一场冠军两场Top10% 我的CCF比赛总结！](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247498489&idx=1&sn=3f0bbf0e1b7f4bfef3ad9765e363a725&chksm=96c7d73ca1b05e2a59d8ad5bde394ae8598aff1c7ae8bbc6bf118252b44e39aa51e6861a938f&scene=21#wechat_redirect)
 - [【2022-12-09】AI竞赛经验 | 互联网＋大赛经验分享by刘玉洁](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247484857&idx=1&sn=18abb546f36b103f050026065d74ed32&chksm=fe5fdeecc92857fa4c30e55d7a03d80b29ddca62c78c8f2a6a555e3b33f6220090caadda75e0#rd)

@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-03-17】拿了Kaggle Top3。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506888&idx=1&sn=b51e04325340b317b5f259ada8cfae68&chksm=c32ac247f45d4b5149e84a85f3a3d4922bf8a69cd8b5023eaae5a7034becd936020b7e722687#rd)
+- [【2023-03-17】全国人工智能大赛 行人重识别(Person ReID)赛项 季军团队方案分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501265&idx=1&sn=2c75ef0faa737d90340f3e91826504b0&chksm=96c7e814a1b06102fcdc12a8b74197df87e45e4a60633a6270f49d48d44e4f2d401a987d7730#rd)
 - [【2023-03-10】RSNA比赛总结—kaggle 高效摸牌套路](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506795&idx=1&sn=e18fe338dc821ae44637ab1215390d4e&chksm=c32ac2e4f45d4bf2d014216ad7fd302a01feca2656dacd8cf2922ab8668628478bc800474159#rd)
 - [【2023-03-10】竞赛总结：爱奇艺视频版权检测](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501162&idx=1&sn=c93499c60e3f97d82b90b43157994c94&chksm=96c7e8afa1b061b9092870d9d8ae38b3defb052bb05625fb49bbf9c28091128b9d202d58300f#rd)
 - [【2023-02-19】竞赛总结：科大讯飞2022 AI开发者大赛算法赛（附56场比赛答辩视频）](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501010&idx=1&sn=3c8fbb98c3f452d26a83155cfb2fd032&chksm=96c7e917a1b060014abda35b960acbfb3ac31c23d710ab127fbf00d6c5e71c55560ddfea2929#rd)

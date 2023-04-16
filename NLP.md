@@ -1,6 +1,7 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+- [【2023-04-16】NLPCC 2023 CMIVQA 比赛：探索中文医疗教学视频问答的奥秘（含Baseline）](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507001&idx=2&sn=13bb2b2b55af821c474981ab3523911e&chksm=c32ac5b6f45d4ca0b0a0b3fbd4d1a2136c818e11690b4f07bf7e90ac09dce1043ea146ab2fcb#rd)
 - [【2023-03-03】NLP比赛实操：人民网算法赛微博评论生成](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501103&idx=1&sn=0763d3ac52e248efaf301148409cc445&chksm=96c7e8eaa1b061fcbd009ea6430059e3dcc9b1a41299b08cd24c2fd2673a98ca10f2e6d11005#rd)
 - [【2023-03-03】NLP比赛实操：人民网算法赛微博话题识别](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501158&idx=1&sn=11557d4eafc8894dcdf57e7924fe3459&chksm=96c7e8a3a1b061b51dfe8315e2c660f1c974314cf60e50c1d0fe37f9bba9585073dcc5fe7696#rd)
 - [【2023-01-04】SMP2020微博情绪分类比赛总结](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247487021&amp;idx=1&amp;sn=8af5eb742cd1ada309c6582154d38a3b&amp;chksm=96c423e8a1b3aafec150f51ca099fd74690293bd590ed25a8da5911a427b8cd136b4a466aabb&amp;scene=21#wechat_redirect)

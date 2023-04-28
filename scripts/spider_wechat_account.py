@@ -183,7 +183,7 @@ def main(args):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--cookie', type=str, default=None)
-    parser.add_argument('--token', type=int, default=None)
+    parser.add_argument('--cookie', type=str, default='''RK=49MwDvMBSK; ptcz=a23d9b1a2561d2e360381c6184a138f490764fa976bc0544743b1edd3d2ce9e0; ua_id=kzAc4J4XjeTMP6UDAAAAAPsMj9BTC19udOss8TlZJCQ=; wxuin=59623090480645; mm_lang=zh_CN; pgv_pvid=1789084112; pac_uid=0_d10cb03428788; ts_uid=6233800786; __root_domain_v=.weixin.qq.com; _qddaz=QD.750560569830378; o_cookie=1226778264; fqm_pvqid=0b780fa5-8d7f-498d-9d51-2dfc09511b15; tvfe_boss_uuid=e5ba87a04633837f; uuid=5c8321e8d3d730221225d2a6dccf576f; rand_info=CAESILihhmOMo3vmVe2nSGQ9Sz4Fr3NCMrRdgZeUwwHfabW0; slave_bizuin=3874891165; data_bizuin=3874891165; bizuin=3874891165; data_ticket=K+pusiOsCPjSVaJdslo36HnvNdWMV5fMBoBduXtESCLAOzaa3pRj46w0ibogNw0R; slave_sid=MTh2eXF2b3ZLV3JRSjZkN3BZd3BjTmdNVl9CQ2RFTGlVN0xpOFJ6UFRtREZlRGZsS0M1aFBLRzdJX19zVFhDQjd1eEtyN0xjbGk1bzloSTcybHdXX05OMjdqTkxwTUdFekJqX3hDRk9PUl9iREdONFFwMmh5YWVFdmVZYUh1bGdDcWlzWkhqUE1RRlVGUlhl; slave_user=gh_c4775c62f354; xid=adc2a1fd1b5122a2687b4fb505668c91; _clck=3874891165|1|fb5|0; _clsk=1kuotvf|1682689090912|2|1|mp.weixin.qq.com/weheat-agent/payload/record''')
+    parser.add_argument('--token', type=int, default=1956796515)
     args = parser.parse_args()
     main(args)

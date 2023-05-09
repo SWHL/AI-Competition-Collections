@@ -1,6 +1,7 @@
 ### 比赛团队访谈
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+- [【2023-05-09】算法竞赛知多少？盘点算法竞赛的全过程](https://mp.weixin.qq.com/s/xl1-LJNHrC0yLzM7ZePT7A)
 - [【2023-04-08】AI竞赛经验丨全国大学生光电设计竞赛经验分享by陈冰文](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247485844&idx=1&sn=e2652e70b9cd259f8d68ac62bb5dc7a7&chksm=fe5fd2c1c9285bd790a8d7dd69fee2dc7add69f1072c6a147cc26164b9c44904c1bb104ea637#rd)
 - [【2023-03-10】AI竞赛经验 | 全国大学生物理实验竞赛（创新）分享by李子芊](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247485681&idx=1&sn=84722f0febb3842590f1da5e880c0081&chksm=fe5fd3a4c9285ab23abf64defa9072f03fdf2528c721f4e242ac7fc5db606c6f8c1447d90be4#rd)
 - [【2023-01-04】从0开始到天池比赛Top 1‰ ，万字长文总结我的竞赛学习之路！](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247489671&amp;idx=1&amp;sn=dfbb6d11a27b4834e293b18406635465&amp;chksm=96c43542a1b3bc543674145033b05be413a9aee2c95f8053103b632a506c9b8d4c6bef8c3dd3&amp;scene=21#wechat_redirect)

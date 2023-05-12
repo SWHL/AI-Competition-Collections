@@ -1,6 +1,8 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+- [【2023-05-12】【三等奖方案】基于文心NLP大模型的阅读理解可解释评测「BraveHeart」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247514909&idx=1&sn=5c12ef4dfa62e9364b209fd3ad89384c&chksm=eca4c9a5dbd340b3997999eb826e24229e5e5d6edd6e23ffa38204da625cc46dc610d3bbf803#rd)
+- [【2023-05-12】【三等奖方案】基于文心NLP大模型的阅读理解可解释评测「linzw」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247515035&idx=1&sn=09435cc2d0487a87e1755a79bce981e7&chksm=eca4c923dbd340358ff67a2076cb79a9a462b9ffa6d4d7559c9ab6b7671d5f4daa06f6a2f1d4#rd)
 - [【2023-05-12】【二等奖方案】基于文心NLP大模型的阅读理解可解释评测「Prompt筝TrustAI」团队思路](https://mp.weixin.qq.com/s/Z0eI5fwhWvwP-tk5iIIopg)
 - [【2023-05-10】AIWIN中文网页自动导航 基础思路分享](https://mp.weixin.qq.com/s/8FNjYdZbzmdEz45g6w3ZyA)
 - [【2023-04-23】文本分类微调实战技巧。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507045&idx=1&sn=699cf963f0fc668a798eb6fd3ab21ed5&chksm=c32ac5eaf45d4cfc2756a459048c7f4bd133fc5fb439eba98d7d4fb9aeca4df5c5b41bc8e5f4#rd)

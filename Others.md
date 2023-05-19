@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-05-19】自上而下+自下而上双向信息融合,最新层次时间序列预测方法!](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507100&idx=1&sn=7f072ff25c79c271b9028a3502b205c6&chksm=c32ac513f45d4c05f4d91524ed2f30f03daa9f62d6e89ce478444f4163422b232d4fcfb1bf88#rd)
+- [【2023-05-19】Kaggle赛题总结：Stable Diffusion](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501668&idx=1&sn=87709ff562fa8ecd674c4ffaf57d93b6&chksm=96c7eaa1a1b063b7a14101e16737a539e263ddb55f62f34d2d0d2a5ac5ecb2ed6cd0fa131621#rd)
 - [【2023-05-12】Kaggle赛题总结：谷歌手语识别](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501591&idx=1&sn=b03f7c2095f3f3ea3f5e96041c47333d&chksm=96c7ead2a1b063c4617ee07d9bd449b2532cb5047e37aaae038aa6289e16c20f2206637b6913#rd)
 - [【2023-03-17】拿了Kaggle Top3。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247506888&idx=1&sn=b51e04325340b317b5f259ada8cfae68&chksm=c32ac247f45d4b5149e84a85f3a3d4922bf8a69cd8b5023eaae5a7034becd936020b7e722687#rd)
 - [【2023-03-17】全国人工智能大赛 行人重识别(Person ReID)赛项 季军团队方案分享](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501265&idx=1&sn=2c75ef0faa737d90340f3e91826504b0&chksm=96c7e814a1b06102fcdc12a8b74197df87e45e4a60633a6270f49d48d44e4f2d401a987d7730#rd)

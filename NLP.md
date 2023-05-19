@@ -1,6 +1,7 @@
 # NLP赛事经验贴
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+- [【2023-05-19】【二等奖方案】基于文心NLP大模型的阅读理解可解释评测「课程大作业」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247515059&idx=1&sn=ac019c49f55c6f2a272196f310ba8a98&chksm=eca4c90bdbd3401d700524273bf428548a1ab2718c3f6aa221747154cbf75d96726c8d0cc0c2#rd)
 - [【2023-05-12】【三等奖方案】基于文心NLP大模型的阅读理解可解释评测「BraveHeart」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247514909&idx=1&sn=5c12ef4dfa62e9364b209fd3ad89384c&chksm=eca4c9a5dbd340b3997999eb826e24229e5e5d6edd6e23ffa38204da625cc46dc610d3bbf803#rd)
 - [【2023-05-12】【三等奖方案】基于文心NLP大模型的阅读理解可解释评测「linzw」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247515035&idx=1&sn=09435cc2d0487a87e1755a79bce981e7&chksm=eca4c923dbd340358ff67a2076cb79a9a462b9ffa6d4d7559c9ab6b7671d5f4daa06f6a2f1d4#rd)
 - [【2023-05-12】【二等奖方案】基于文心NLP大模型的阅读理解可解释评测「Prompt筝TrustAI」团队思路](https://mp.weixin.qq.com/s/Z0eI5fwhWvwP-tk5iIIopg)

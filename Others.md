@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-05-27】2023招行FinTech Top3方案分享（含Code)](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507274&idx=1&sn=2cc016b6a2d015a7515763a08e06e2e6&chksm=c32ac4c5f45d4dd387e35d003f41eea16919bff72f4d02115e69f41c4eda0c6dee39423e891f#rd)
 - [【2023-05-23】系统访问风险识别三等奖方案分析](https://mp.weixin.qq.com/s/FKqWhYZdYKtLqKgqb_RIeQ)
 - [【2023-05-19】自上而下+自下而上双向信息融合,最新层次时间序列预测方法!](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507100&idx=1&sn=7f072ff25c79c271b9028a3502b205c6&chksm=c32ac513f45d4c05f4d91524ed2f30f03daa9f62d6e89ce478444f4163422b232d4fcfb1bf88#rd)
 - [【2023-05-19】Kaggle赛题总结：Stable Diffusion](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501668&idx=1&sn=87709ff562fa8ecd674c4ffaf57d93b6&chksm=96c7eaa1a1b063b7a14101e16737a539e263ddb55f62f34d2d0d2a5ac5ecb2ed6cd0fa131621#rd)

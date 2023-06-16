@@ -3,6 +3,12 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-06-16】【一等奖解题思路】基于雷达数据的航迹实时关联与轨迹融合任务赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247515796&idx=1&sn=1472be4ece893fdae068fcb813c7fd5f&chksm=eca4cc2cdbd3453a0ea3a24d9679ef6029d608bf904fe8cd328b31330afa32cc3b9a90cf493b#rd)
+- [【2023-06-16】【一等奖解题思路】新闻文本数据的语义检索与智能问答赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247515797&idx=1&sn=9d08b5ce9ab175d015ec6d75b1ecc0f1&chksm=eca4cc2ddbd3453b408c6a8388733f0337596debd3ff0b60a4845d7e1be66965126a57adc7aa#rd)
+- [【2023-06-16】【三等奖方案】系统访问风险识别「保住绿码」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247515815&idx=1&sn=9d85e66a9f08845f18fa1a214566d2d7&chksm=eca4cc1fdbd345099c4b6987f109b87ea6716874e016594745282b505125c4a69500b43521a7#rd)
+- [【2023-06-16】【二等奖方案】系统访问风险识别「QDU」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247515994&idx=1&sn=8e0f2c1281d8c5141e2ef1b938326036&chksm=eca4cde2dbd344f4b2b80fb68e89321b775b422d78775bd18e03631a43e10c9a0b537c16d1b0#rd)
+- [【2023-06-16】【二等奖方案】系统访问风险识别「LOL四缺一」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516124&idx=1&sn=79a76184597244c2aa457b7c4abff577&chksm=eca4cd64dbd34472b361207884d7355fdf5ff4ff77660ec08957f7cafdbd14db8afe99ef477a#rd)
+- [【2023-06-16】【一等奖方案】系统访问风险识别赛题「重铸3G荣光」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516140&idx=1&sn=a0c4ed4612805cde3dc536d5a005bb5e&chksm=eca4cd54dbd34442434e9e603d52bd797abff7c125692a8a52aa96d14c6ce1e7fda6187e0027#rd)
 - [【2023-05-27】2023招行FinTech Top3方案分享（含Code)](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507274&idx=1&sn=2cc016b6a2d015a7515763a08e06e2e6&chksm=c32ac4c5f45d4dd387e35d003f41eea16919bff72f4d02115e69f41c4eda0c6dee39423e891f#rd)
 - [【2023-05-23】系统访问风险识别三等奖方案分析](https://mp.weixin.qq.com/s/FKqWhYZdYKtLqKgqb_RIeQ)
 - [【2023-05-19】自上而下+自下而上双向信息融合,最新层次时间序列预测方法!](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507100&idx=1&sn=7f072ff25c79c271b9028a3502b205c6&chksm=c32ac513f45d4c05f4d91524ed2f30f03daa9f62d6e89ce478444f4163422b232d4fcfb1bf88#rd)

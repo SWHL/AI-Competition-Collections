@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-06-28】具身AI的实验：一个团队的Alexa Prize夺冠历程](https://mp.weixin.qq.com/s/1quvoqMuIqwGUD7xhoWILQ)
 - [【2023-06-23】2023年第六届工业互联网大赛液晶面板赛道冠军方案(带源代码)](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507770&idx=1&sn=ef1c86d46567227a5b3cc68865af5e5c&chksm=c32ac6b5f45d4fa342f37833bb733f5d6260b128a2f1099be86d4c63066a9bdbaf7fc3d153e6#rd)
 - [【2023-06-23】Kaggle比赛总结：BirdCLEF 2023](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501856&idx=1&sn=50450d96fcffea84ef2c474ae6be627d&chksm=96c7e5e5a1b06cf3fc7cd73758183ea2f09c4877329cb3dce94858c58c1b69ccde4897886c00#rd)
 - [【2023-06-16】【一等奖解题思路】基于雷达数据的航迹实时关联与轨迹融合任务赛题](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247515796&idx=1&sn=1472be4ece893fdae068fcb813c7fd5f&chksm=eca4cc2cdbd3453a0ea3a24d9679ef6029d608bf904fe8cd328b31330afa32cc3b9a90cf493b#rd)

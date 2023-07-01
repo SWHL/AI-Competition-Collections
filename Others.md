@@ -3,6 +3,16 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-07-01】【三等奖方案】工业知识图谱关系抽取-高端装备制造知识图谱自动化构建[炼丹师的自我修养]团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516165&idx=1&sn=5dd79d916f34b4d88ad94ef34cd73d57&chksm=eca4f2bddbd37babc3de9db664faa15365563a0d2b23264f8ffe4880e9e00fe2a943f2a2bed9#rd)
+- [【2023-07-01】【三等奖方案】工业知识图谱关系抽取-高端装备制造知识图谱自动化构建「roudancongji」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516200&idx=1&sn=cf7f97a753cb5144289cf2f10a9d715d&chksm=eca4f290dbd37b86f6e558378c31e5226796abcc5a64023bc487f110fa540c4a43c37e63b6f3#rd)
+- [【2023-07-01】【二等奖方案】工业知识图谱关系抽取-高端装备制造知识图谱自动化构建「翼智团」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516248&idx=1&sn=898244ef7c5002c42dea02f5752b792b&chksm=eca4f2e0dbd37bf6f13ca7dcaa0ece89c4a39284e9f5b6300a1b07ebf21d9bb1e9b9dc32c900#rd)
+- [【2023-07-01】【二等奖方案】工业知识图谱关系抽取-高端装备制造知识图谱自动化构建「反卷局来围观」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516249&idx=1&sn=a8a980979ab6c46df78615a8609cf2e4&chksm=eca4f2e1dbd37bf780cacdd12d5b28085ff9b4630c7d588f8d4fb607536ae3e236b6c1ffb019#rd)
+- [【2023-07-01】【一等奖方案】工业知识图谱关系抽取-高端装备制造知识图谱自动化构建「龙盈战队」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516250&idx=1&sn=8ab13b441dddf67fc15bc4f932973e59&chksm=eca4f2e2dbd37bf441834f8b89637fa42aef2e738c04e44f8b89079f4d7f36512074cf999195#rd)
+- [【2023-07-01】【三等奖方案】基于TPU平台实现人群密度估计赛题「innovation」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516277&idx=1&sn=bf4f753a5ed42a1a700ba0bdda2ed8b6&chksm=eca4f2cddbd37bdb60094511fd412a4dff454279535d19c7cbc5cd2762a441f133704d40e9a3#rd)
+- [【2023-07-01】【三等奖方案】基于TPU平台实现人群密度估计赛题「加速器」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516301&idx=1&sn=301dce2fbf4502312b696e868b9e06b5&chksm=eca4f235dbd37b23cec654df4d8b4b478c85b6011b7dbf993f5910b09cfa3ea375807e4f1fbd#rd)
+- [【2023-07-01】【二等奖方案】基于TPU平台实现人群密度估计赛题「ChaMd5-AI」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516317&idx=1&sn=9f262ede522d7c3b8b71b22930dc4001&chksm=eca4f225dbd37b33f174f52db5ec2f71c5bc7f2565f4034374ad8679e9ef41475587117485eb#rd)
+- [【2023-07-01】2023 DCIC欺诈风险识别 Top1方案！](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507781&idx=1&sn=7d1a41cc3277a766d8222661c4658f3e&chksm=c32ac6caf45d4fdc89b7bafb19c3ba9199b4f93fa81ad6a215327864283229eef904091796e7#rd)
+- [【2023-07-01】BirdCLEF 2023比赛总结。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507790&idx=1&sn=4020c94e864c78093f87be14a9deb966&chksm=c32ac6c1f45d4fd7ce7869ec5f7624236648d263322a35828654bba7669b748a586e44ba8ebc#rd)
 - [【2023-06-28】具身AI的实验：一个团队的Alexa Prize夺冠历程](https://mp.weixin.qq.com/s/1quvoqMuIqwGUD7xhoWILQ)
 - [【2023-06-23】2023年第六届工业互联网大赛液晶面板赛道冠军方案(带源代码)](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507770&idx=1&sn=ef1c86d46567227a5b3cc68865af5e5c&chksm=c32ac6b5f45d4fa342f37833bb733f5d6260b128a2f1099be86d4c63066a9bdbaf7fc3d153e6#rd)
 - [【2023-06-23】Kaggle比赛总结：BirdCLEF 2023](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501856&idx=1&sn=50450d96fcffea84ef2c474ae6be627d&chksm=96c7e5e5a1b06cf3fc7cd73758183ea2f09c4877329cb3dce94858c58c1b69ccde4897886c00#rd)

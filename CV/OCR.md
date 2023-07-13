@@ -1,3 +1,4 @@
+- [【2023-07-13】ICDAR21表格解析方案汇总](https://zhuanlan.zhihu.com/p/379585300)
 - [【2023-03-21】ICPR 图像识别与检测挑战赛冠军方案出炉，基于偏旁部首来识别 Duang 字](https://www.cvmart.net/community/detail/696)
 - [【2023-01-04】CV赛题总结：人民币面值与编码识别](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247484819&amp;idx=1&amp;sn=30a464f8cb7d6f403fc28b134be18210&amp;chksm=96c42856a1b3a140d3ebc1fee1b08cfdc84fff1ca3ce54729f38a7f2d0e93cf5d38716a2f566&amp;scene=21#wechat_redirect)
 - [【2022-08-10】三年磨一剑——微信OCR图片文字提取](https://cloud.tencent.com/developer/article/1798403)

@@ -43,6 +43,7 @@
 | **平台名称** | **简单介绍** |
 |:---:|:---|
 |[Kaggle Solutions](https://farid.one/kaggle-solutions/)|列出了过去Kaggle比赛中顶尖选手分享的几乎所有可用解决方案和想法。|
+|[nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review)|复盘所有NLP比赛的TOP方案，只关注NLP比赛|
 
 ### 竞赛平台
 | **平台名称** | **简单介绍** |

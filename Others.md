@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-07-22】2023 Kaggle AMP帕金森进展预测金牌方案！](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507924&idx=1&sn=9ea1dba9868567e905beee1616bca0b1&chksm=c32ac65bf45d4f4d580b854982e18335d5bcad4f44aea96e0ad1b75f362d7267c39fd919e10a#rd)
 - [【2023-07-01】【三等奖方案】工业知识图谱关系抽取-高端装备制造知识图谱自动化构建[炼丹师的自我修养]团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516165&idx=1&sn=5dd79d916f34b4d88ad94ef34cd73d57&chksm=eca4f2bddbd37babc3de9db664faa15365563a0d2b23264f8ffe4880e9e00fe2a943f2a2bed9#rd)
 - [【2023-07-01】【三等奖方案】工业知识图谱关系抽取-高端装备制造知识图谱自动化构建「roudancongji」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516200&idx=1&sn=cf7f97a753cb5144289cf2f10a9d715d&chksm=eca4f290dbd37b86f6e558378c31e5226796abcc5a64023bc487f110fa540c4a43c37e63b6f3#rd)
 - [【2023-07-01】【二等奖方案】工业知识图谱关系抽取-高端装备制造知识图谱自动化构建「翼智团」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516248&idx=1&sn=898244ef7c5002c42dea02f5752b792b&chksm=eca4f2e0dbd37bf6f13ca7dcaa0ece89c4a39284e9f5b6300a1b07ebf21d9bb1e9b9dc32c900#rd)

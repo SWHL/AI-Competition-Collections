@@ -41,6 +41,8 @@ Type:
       - top3
       - top4
       - top5
+      - 解题思路
+      - 奖方案
     invalid_keywords:
       - 赛题解析
       - 综述
@@ -49,6 +51,8 @@ Type:
       - 报名
       - kaggle知识点
       - 80+
+      - 时间序列异常检测的方法总结
+      - 时序异常检测 Anomaly transformer
   NLP:
     md_path: ../NLP.md
     keywords:
@@ -65,6 +69,7 @@ Type:
       - 技巧实战
       - 知识点
       - 微调技巧
+      - 深入LSTM神经网络的时间序列预测
 
   Interview:
     md_path: ../Interview.md

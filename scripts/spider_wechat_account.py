@@ -6,6 +6,7 @@ import argparse
 import random
 import time
 from datetime import datetime
+from pathlib import Path
 from typing import List, Union
 
 import requests
@@ -13,7 +14,7 @@ import yaml
 from fake_useragent import UserAgent
 
 
-class SpiderArticleWeChat(object):
+class SpiderArticleWeChat:
     def __init__(self, cookie, token) -> None:
         self.args = self.read_yaml("args.yaml")
 
@@ -47,6 +48,13 @@ class SpiderArticleWeChat(object):
         }
         self.cur_date = datetime.strftime(datetime.now(), "%Y-%m-%d")
         self.have_valid_nums = 0
+
+        # 读取CV中所有md文件，获得比赛列表，用于判断新抓取的是否已经存在。
+        root_dir = Path(__file__).resolve().parent.parent
+        cv_dir = root_dir / "CV"
+        cv_mds = list(cv_dir.iterdir())
+        cv_links = [self.read_txt(str(cv_path)) for cv_path in cv_mds]
+        self.all_cv_links = sum(cv_links, [])
 
     def __call__(self, spider_pages=3):
         begin_list = [str(i) for i in range(0, spider_pages * 5, 5)]
@@ -88,6 +96,8 @@ class SpiderArticleWeChat(object):
             left = already_data[splid_idx + 1 :]
 
             # 当前抓取到的文章没有出现在已有列表中
+            left += self.all_cv_links
+
             if not self.is_appear(title, left):
                 competition_info = f"- [【{self.cur_date}】{title}]({link})"
 
@@ -194,8 +204,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--cookie",
         type=str,
-        default="""RK=49MwDvMBSK; ptcz=a23d9b1a2561d2e360381c6184a138f490764fa976bc0544743b1edd3d2ce9e0; ua_id=kzAc4J4XjeTMP6UDAAAAAPsMj9BTC19udOss8TlZJCQ=; wxuin=59623090480645; mm_lang=zh_CN; pgv_pvid=1789084112; ts_uid=6233800786; __root_domain_v=.weixin.qq.com; _qddaz=QD.750560569830378; o_cookie=1226778264; fqm_pvqid=0b780fa5-8d7f-498d-9d51-2dfc09511b15; tvfe_boss_uuid=e5ba87a04633837f; pac_uid=1_1226778264; ts_refer=file.daihuo.qq.com/; rewardsn=; wxtokenkey=777; uuid=39f6acbff0e36567e57b212ee0173e18; rand_info=CAESIJzKJ9OVYDeaOu1EzR0chjzbAEDW9Rt5VF/r/f2pc5gr; slave_bizuin=3874891165; data_bizuin=3874891165; bizuin=3874891165; data_ticket=1Q0O6iXjsF4T4f66PTSAfUcnZKs6utij9NnJdLQmr+9NMA5UA2QCPWd8gvX5g/9E; slave_sid=bWZ6V3p6MU5YSjJyMXlLM0xKbEoxa1p0RG9OVEhXd0JZNlJ1VDNTMHpsZ2Z6eWlEQVJocGV2djZQRWpiR0d2eEhVbUJTX0dja0VQcnI2R3dsTERRdjBtWG01ZHZaWWNKZnFsY0JkbjVzZ0cxbkthcXVpcFBIZjE3anNQZ2NuQk5FVExwRUx4ekdsQTZod3l0; slave_user=gh_c4775c62f354; xid=f4cdbc87f7040878e01ed75b9f8a0421; _clck=3874891165|1|fdo|0; _clsk=1wl6i4k|1690549248546|15|1|mp.weixin.qq.com/weheat-agent/payload/record""",
+        default="""RK=49MwDvMBSK""",
     )
-    parser.add_argument("--token", type=int, default=1848909564)
+    parser.add_argument("--token", type=int, default=1934949074)
     args = parser.parse_args()
     main(args)

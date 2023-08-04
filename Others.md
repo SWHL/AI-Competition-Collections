@@ -3,6 +3,11 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-08-04】【一等奖方案】大数据平台安全事件检测与分类识别赛题「DataBlack」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247517887&idx=1&sn=6b7d4aa776599f9309b9797f13bab575&chksm=eca4f407dbd37d11ffc5e304dccfa5c2e4897082d058f6513e556299fdefcc3bd878fcf683b0#rd)
+- [【2023-08-04】【三等奖方案】Web攻击检测与分类识别赛题「啊对对对」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247517945&idx=1&sn=5383da2283a1dd16032e8de3c0d6312d&chksm=eca4f441dbd37d570734e561ed0fb7d049f1c2462ee87029cd5dc2bac7feb3a33a89d752ddfb#rd)
+- [【2023-08-04】【三等奖方案】Web攻击检测与分类识别赛题「Cyan」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247517985&idx=1&sn=a4e4133afabb80adb7af7f40858fbbea&chksm=eca4f599dbd37c8f2adbaef09fbdb08b440dee4a13ecf1b2b8c6206bad19e9b7d49299219b9f#rd)
+- [【2023-08-04】【二等奖方案】Web攻击检测与分类识别赛题「爆汁大橘少糖」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247517986&idx=1&sn=9d5e3853139cca8fed8faa790b014596&chksm=eca4f59adbd37c8c12c2aec4a8c1baa59ee682ca5c3b634aefcaa696e164bf0cd6a73e66369c#rd)
+- [【2023-08-04】【二等奖方案】Web攻击检测与分类识别赛题「机器学习」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247517987&idx=1&sn=a1d51e18b81a5ea56ddc5552b4e73c3a&chksm=eca4f59bdbd37c8db943660bff0938393f45f05ca5347dd5bce34895c7d661fbaca6883e938a#rd)
 - [【2023-07-28】【二等奖方案】Linux跨平台二进制函数识别赛题「BowenSky」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516894&idx=3&sn=3f26edf9418950d9c68283d3bc3f23aa&chksm=eca4f066dbd37970afb127446b0505af4613a6ec90eb6c407f6f51b4b4f6ef24da37eeac8273#rd)
 - [【2023-07-28】【二等奖方案】Linux跨平台二进制函数识别赛题「DeeDa」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516911&idx=2&sn=2ab1d80be56de786640337bb1e3ba480&chksm=eca4f057dbd37941b38afb443ca0cac513017b7a1619391f2935ca2d7a4a94ed76a035c442f6#rd)
 - [【2023-07-28】【一等奖方案】Linux跨平台二进制函数识别赛题「我很快乐」团队解题思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247516942&idx=2&sn=de26ab6b61b06bdddbe28975f3995047&chksm=eca4f1b6dbd378a015b7bc03e0e48f5bf4bb301387dfdefc52756c3f66443fbae1742b88451f#rd)

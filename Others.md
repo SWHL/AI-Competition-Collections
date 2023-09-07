@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-09-07】微软研究院团队获得首届AI药物研发算法大赛总冠军](https://mp.weixin.qq.com/s/pOWmZIZiTc7NC5qCehu8hQ)
 - [【2023-09-07】2023大数据挑战赛全国六强团队获奖经验+ppt分享（一）](https://mp.weixin.qq.com/s/Ucj9NY3MhJGZHcPv5Iz7GQ)
 - [【2023-08-25】AI监测火灾](https://mp.weixin.qq.com/s/1cUKYMZf6b52bdONGDjelw)
 - [【2023-08-25】大规模金融图数据中异常风险行为模式挖掘赛题一等奖方案。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247508241&idx=1&sn=2e2c4b014906aaae0a7d4a58fd4d860a&chksm=c32ab89ef45d3188319d67b33addcf11ecd56c45d446c022c0e9d35dd64e56e59de29f967ebc#rd)

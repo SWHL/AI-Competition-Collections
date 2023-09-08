@@ -7,6 +7,7 @@ FakeID:
   BTBU科协: MzU5NjcwODkyMg==
   ChallengeHub: MzAxOTU5NTU4MQ==
   kaggle竞赛宝典: Mzk0NDE5Nzg1Ng==
+  数据派THU: MzI1MjQ2OTQ3Ng==
 
 Type:
   Others:
@@ -43,6 +44,7 @@ Type:
       - top5
       - 解题思路
       - 奖方案
+      - 大数据挑战赛
     invalid_keywords:
       - 赛题解析
       - 综述
@@ -53,6 +55,8 @@ Type:
       - 80+
       - 时间序列异常检测的方法总结
       - 时序异常检测 Anomaly transformer
+      - 标准回顾
+      - 圆满收官
   NLP:
     md_path: ../NLP.md
     keywords:

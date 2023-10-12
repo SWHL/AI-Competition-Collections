@@ -29,6 +29,7 @@ class ConvertMDToHugo:
             config.get("Others"),
             config.get("Speech"),
             config.get("Interview"),
+            config.get("LLM"),
         ]
 
     def __call__(

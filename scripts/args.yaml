@@ -80,6 +80,13 @@ Type:
     keywords:
       - AI竞赛经验
 
+  LLM:
+    md_path: ../LLM.md
+    keywords:
+      - 大模型
+      - glm
+      - 文心一言
+
   # CV:
   #   md_path: ../README.md
   #   keywords:

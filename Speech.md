@@ -1,4 +1,4 @@
-# 语音赛事经验贴
+# 语音赛事经验帖
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 - [【2023-07-01】BirdCLEF 2023比赛总结。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507790&idx=1&sn=4020c94e864c78093f87be14a9deb966&chksm=c32ac6c1f45d4fd7ce7869ec5f7624236648d263322a35828654bba7669b748a586e44ba8ebc#rd)

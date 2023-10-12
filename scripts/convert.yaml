@@ -10,7 +10,7 @@ Home:
   end_key: 'AIWIN'
 
 CV:
-  title: 计算机视觉比赛经验贴
+  title: 计算机视觉比赛经验帖
   weight: 1
   cv_weight_dict:
     图像分类: 1
@@ -33,7 +33,7 @@ CV:
     自动驾驶: 18
 
 NLP:
-  title: NLP赛事经验贴
+  title: NLP赛事经验帖
   menuTitle: NLP
   weight: 2
   badge_list:
@@ -60,7 +60,7 @@ Others:
     - 序列预测
 
 Speech:
-  title: 语音赛事经验贴
+  title: 语音赛事经验帖
   menuTitle: Speech
   weight: 3
   badge_list:
@@ -72,3 +72,8 @@ Interview:
   title: 比赛团队访谈
   menuTitle: Interview
   weight: 5
+
+LLM:
+  title: 语言大模型比赛经验帖
+  menuTitle: Interview
+  weight: 6

@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+- [【2023-10-18】AI「鸟口普查」，康奈尔大学利用深度学习分析北美林莺分布](https://mp.weixin.qq.com/s/PH9Le4dcxXi4dgzcXE0kTw)
 - [【2023-10-13】返乡发展人群预测二等奖方案分享](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247508556&idx=2&sn=db088b519ae04014e2095dcc7c0fcb2e&chksm=c32abbc3f45d32d5dda8745c9b5543cbe275a2e2dd4d6f0e28597dbb3544340e55edd7ae7997#rd)
 - [【2023-10-07】干货 | 2023大数据挑战赛技术分享：从“解一道题”到“用户桌面”技术落地的实践思考](http://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247617056&idx=1&sn=9daa3f61563cb433423f16f8d17b12fa&chksm=e9e003abde978abd47fc29353e0b6e4bd4163f2b95e74758f8572c41f4820c001ba1ab8cb6e9#rd)
 - [【2023-10-07】【三等奖方案】返乡发展人群预测「LSTY」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247519303&idx=1&sn=e65b37d4f84211a932005a4a0a5a074c&chksm=eca4feffdbd377e973bc9bf04731a24bdd64ee9f32305ec6cce799370d4caf0e6144ef3528f3#rd)

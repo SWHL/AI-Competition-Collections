@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+
+- [【2023-10-23】第八季百度网盘AI大赛冠军诞生！他们有话说......](https://mp.weixin.qq.com/s/NmbAlFTWfJFl7OHoPIZ35g)
 - [【2023-10-22】Kaggle大模型比赛冠军方案梳理。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247508584&idx=1&sn=609e1eb01e727e873415b9b3e89c7bff&chksm=c32abbe7f45d32f1004bf55a78eefeea0a049144b0a34a25b25a85ecad8b81d2ee8455de0fd3#rd)
 - [【2023-10-22】【一等奖方案】返乡发展人群预测「想名字想到神经错乱」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247519609&idx=1&sn=e46d293a13e3d06cdadc754435c841b8&chksm=eca4ffc1dbd376d79efdd3a8e659d06f6879ad61cf0afa4910b6c515a75bd08f7c1c162cecae#rd)
 - [【2023-10-22】Kaggle赛题总结：Bengali 语音识别](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247502762&idx=1&sn=5f05b0f6c442779bcd706490013d17ba&chksm=96c7e66fa1b06f792619d41562af5a4f62c2a80214c7aea29b3aab9eb2d83a2c5521c1d67510#rd)

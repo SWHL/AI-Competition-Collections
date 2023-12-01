@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
+
+- [【2023-12-01】竞赛总结：科大讯飞2023 基于财报的次日价格涨跌预测挑战赛](https://mp.weixin.qq.com/s/4MYAjZM9bsrAUmy2KGEuqw)
 - [【2023-10-29】Kaggle LLM Science Exam 金牌方案汇总。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247508625&idx=1&sn=7bb5547d568d1ad0aeab52f6c8ec1333&chksm=c32abb1ef45d3208b13c8c2064540371b4d738fbe190aa063217e60b937d6bebb3ee63073690#rd)
 - [【2023-10-22】Kaggle大模型比赛冠军方案梳理。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247508584&idx=1&sn=609e1eb01e727e873415b9b3e89c7bff&chksm=c32abbe7f45d32f1004bf55a78eefeea0a049144b0a34a25b25a85ecad8b81d2ee8455de0fd3#rd)
 - [【2023-10-22】【一等奖方案】返乡发展人群预测「想名字想到神经错乱」团队思路](http://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247519609&idx=1&sn=e46d293a13e3d06cdadc754435c841b8&chksm=eca4ffc1dbd376d79efdd3a8e659d06f6879ad61cf0afa4910b6c515a75bd08f7c1c162cecae#rd)

@@ -1,6 +1,9 @@
 # NLP赛事经验帖
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+
+- [【2023-12-01】赛题总结：CCL2023网络诈骗案件分类](https://mp.weixin.qq.com/s/714RUgsAQ6ePdNwSYKVKfA)
+- [【2023-12-01】竞赛总结：CCL23古籍命名实体识别](https://mp.weixin.qq.com/s/jhQy5bgv1oH97Ohkh19Rqg)
 - [【2023-11-10】竞赛之NLP数据扩增方法](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247508790&idx=2&sn=c6111f650f8158ac6be99b2548774c83&chksm=c32abab9f45d33af47980d4af2830d205b886803175efa257193f3c51f67eddcaa609999ec07#rd)
 - [【2023-09-22】AI“反腐”，德国马普所结合 NLP 和 DNN 开发抗蚀合金](http://mp.weixin.qq.com/s?__biz=MzI1MjQ2OTQ3Ng==&mid=2247615379&idx=2&sn=ee37f78d791c169a44a4f6f260bfe30a&chksm=e9e00a18de97830ead98a30aae39db23ba925a5cae55f66c60f582731975cbe07e79fcd7ac79#rd)
 - [【2023-09-16】小样本数据分类任务赛题一等奖方案。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247508275&idx=2&sn=8c246e09d3cd5e8bcf7a8dc952305a4a&chksm=c32ab8bcf45d31aacef9c1698f9ef23b1ad0c4670c97a06937d6a934571232f36661faf76e0e#rd)

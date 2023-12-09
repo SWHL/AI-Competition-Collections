@@ -1,6 +1,8 @@
 # 语音赛事经验帖
 > 从他人比赛经验中，总是可以学到很多东西
 ---
+
+- [【2023-12-09】语音方言距离识别](https://mp.weixin.qq.com/s/aAlQzVXzQYfeT8NxsxrbsQ)
 - [【2023-07-01】BirdCLEF 2023比赛总结。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507790&idx=1&sn=4020c94e864c78093f87be14a9deb966&chksm=c32ac6c1f45d4fd7ce7869ec5f7624236648d263322a35828654bba7669b748a586e44ba8ebc#rd)
 - [【2023-06-23】Kaggle比赛总结：BirdCLEF 2023](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247501856&idx=1&sn=50450d96fcffea84ef2c474ae6be627d&chksm=96c7e5e5a1b06cf3fc7cd73758183ea2f09c4877329cb3dce94858c58c1b69ccde4897886c00#rd)
 - [【2023-01-04】竞赛总结：Cornell Birdcall比赛复盘](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247486716&amp;idx=1&amp;sn=c197333bb2978af65803268abcef025d&amp;chksm=96c42139a1b3a82f4d8a050ff5935bdd636db758d36e761dea6ae6704729786d265ca44d0b20&amp;scene=21#wechat_redirect)

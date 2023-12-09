@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2023-12-09】基于财报的次日股票价格涨跌预测挑战赛方案分享。](https://mp.weixin.qq.com/s/moUn00Aek9bhu4gu2JCKJQ)
 - [【2023-12-01】赛题总结：CCL2023网络诈骗案件分类](https://mp.weixin.qq.com/s/714RUgsAQ6ePdNwSYKVKfA)
 - [【2023-12-01】竞赛总结：CCL23古籍命名实体识别](https://mp.weixin.qq.com/s/jhQy5bgv1oH97Ohkh19Rqg)
 - [【2023-11-10】竞赛之NLP数据扩增方法](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247508790&idx=2&sn=c6111f650f8158ac6be99b2548774c83&chksm=c32abab9f45d33af47980d4af2830d205b886803175efa257193f3c51f67eddcaa609999ec07#rd)

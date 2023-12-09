@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2023-12-09】Coggle专访LTZ：我的竞赛上岸经历](https://mp.weixin.qq.com/s/3Xzhv3vZIdQ_rt4jr7XQ6Q)
 - [【2023-10-23】第八季百度网盘AI大赛冠军诞生！他们有话说......](https://mp.weixin.qq.com/s/NmbAlFTWfJFl7OHoPIZ35g)
 - [【2023-09-01】技术时代的“手艺人”，天才程序员改变世界](https://mp.weixin.qq.com/s/uO7ZUmPUyyxJY7aDwOjteA)
 - [【2023-05-12】AI竞赛经验 | 挑战杯大赛经验分享by龚珏](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247486020&idx=2&sn=8c818347059cff9565dda4b43f38e449&chksm=fe5fd111c9285807dbe6e3767d6159198233568d551ebec3d75c1e6bb467a88ed66512bdc992#rd)

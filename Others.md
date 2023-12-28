@@ -4,6 +4,7 @@
 
 ---
 
+- [【2023-12-28】Stanford Ribonanza RNA Folding冠军秘密之一！](https://mp.weixin.qq.com/s/b9G6P-lfY12I2S0agmw2Tg)
 - [【2023-12-01】竞赛总结：科大讯飞2023 基于财报的次日价格涨跌预测挑战赛](https://mp.weixin.qq.com/s/4MYAjZM9bsrAUmy2KGEuqw)
 - [【2023-10-29】Kaggle LLM Science Exam 金牌方案汇总。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247508625&idx=1&sn=7bb5547d568d1ad0aeab52f6c8ec1333&chksm=c32abb1ef45d3208b13c8c2064540371b4d738fbe190aa063217e60b937d6bebb3ee63073690#rd)
 - [【2023-10-22】Kaggle大模型比赛冠军方案梳理。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247508584&idx=1&sn=609e1eb01e727e873415b9b3e89c7bff&chksm=c32abbe7f45d32f1004bf55a78eefeea0a049144b0a34a25b25a85ecad8b81d2ee8455de0fd3#rd)

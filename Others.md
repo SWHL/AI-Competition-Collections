@@ -4,6 +4,7 @@
 
 ---
 
+- [【2024-02-04】2023大数据挑战赛冠军方案](https://mp.weixin.qq.com/s/C0jkW0aRHw0A-kSitRRuew)
 - [【2024-01-02】Kaggle: CMI睡眠检测前排方案万字总结](https://mp.weixin.qq.com/s/TiTGmfqyilCp74NE3EkutQ)
 - [【2023-12-28】Stanford Ribonanza RNA Folding冠军秘密之一！](https://mp.weixin.qq.com/s/b9G6P-lfY12I2S0agmw2Tg)
 - [【2023-12-01】竞赛总结：科大讯飞2023 基于财报的次日价格涨跌预测挑战赛](https://mp.weixin.qq.com/s/4MYAjZM9bsrAUmy2KGEuqw)

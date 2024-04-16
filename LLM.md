@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2024-04-16】斩获WSDM 2024冠军方案！](https://mp.weixin.qq.com/s/mRinaUQIx5rh1C5oZOE2zw)
 - [【2024-03-26】 NeurIPS 2023_MachineUnlearning Top2方案](https://mp.weixin.qq.com/s/CyHyMiNgDY_QH9TvqeSRaA)
 - [【2024-03-01】【中科院计算所】WSDM 2024冠军方案：基于大模型进行多文档问答](https://mp.weixin.qq.com/s/WIe28kk0DQ0x6cf1YHrINA)
 - [【2024-01-23】比赛总结：天池2023博金大模型挑战赛](https://mp.weixin.qq.com/s/Js4O6a27a1LECim3C7lDqA)

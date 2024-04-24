@@ -7,6 +7,9 @@ from pathlib import Path
 import yaml
 
 
+comment_js = '<script src="https://giscus.app/client.js"data-repo="SWHL/AI-Competition-Collections"data-repo-id="MDEwOlJlcG9zaXRvcnkzNjI2NTQ0NDA="data-category="Ideas"data-category-id="DIC_kwDOFZ2q6M4Ce5Hv"data-mapping="title"data-strict="0"data-reactions-enabled="1"data-emit-metadata="0"data-input-position="top"data-theme="preferred_color_scheme"data-lang="zh-CN"data-loading="lazy"crossorigin="anonymous"async></script>'
+
+
 class ConvertMDToHugo:
     def __init__(self):
         self.root_dir = Path(__file__).resolve().parent.parent
@@ -73,24 +76,7 @@ class ConvertMDToHugo:
 
         short_line_idx = ori_md_data.index("---")
         ori_md_data = ori_md_data[short_line_idx + 1 :]
-        ori_md_data.append(f'''\n\n
-                            <script src="https://giscus.app/client.js"
-                                    data-repo="SWHL/AI-Competition-Collections"
-                                    data-repo-id="MDEwOlJlcG9zaXRvcnkzNjI2NTQ0NDA="
-                                    data-category="Ideas"
-                                    data-category-id="DIC_kwDOFZ2q6M4Ce5Hv"
-                                    data-mapping="title"
-                                    data-strict="0"
-                                    data-reactions-enabled="1"
-                                    data-emit-metadata="0"
-                                    data-input-position="top"
-                                    data-theme="preferred_color_scheme"
-                                    data-lang="zh-CN"
-                                    data-loading="lazy"
-                                    crossorigin="anonymous"
-                                    async>
-                            </script>
-        ''')
+        ori_md_data.append(f'\n\n{comment_js}')
 
         save_md_dir = self.save_dir / menu_title
         self.mkdir(save_md_dir)
@@ -130,6 +116,7 @@ class ConvertMDToHugo:
             ]
 
             prefix_list.extend(md_content)
+            prefix_list.append(f'\n\n{comment_js}')
             save_path = save_cv_dir / f"{md_name}.md"
             self.write_txt(save_path, prefix_list)
 
@@ -147,7 +134,10 @@ class ConvertMDToHugo:
             "---",
             " ",
             self.children,
+            " ",
+            comment_js
         ]
+
         self.write_txt(str(save_path), prefix_content)
 
     def create_home_index_md(self):
@@ -164,6 +154,7 @@ class ConvertMDToHugo:
             " ",
             self.children,
             " ",
+            comment_js
         ]
 
         readme_path = self.root_dir / "README.md"

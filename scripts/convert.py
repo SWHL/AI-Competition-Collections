@@ -73,9 +73,24 @@ class ConvertMDToHugo:
 
         short_line_idx = ori_md_data.index("---")
         ori_md_data = ori_md_data[short_line_idx + 1 :]
-        ori_md_data = [
-            v.replace("###", "######") if v == "### 友情链接" else v for v in ori_md_data
-        ]
+        ori_md_data.append(f'''\n\n
+                            <script src="https://giscus.app/client.js"
+                                    data-repo="SWHL/AI-Competition-Collections"
+                                    data-repo-id="MDEwOlJlcG9zaXRvcnkzNjI2NTQ0NDA="
+                                    data-category="Ideas"
+                                    data-category-id="DIC_kwDOFZ2q6M4Ce5Hv"
+                                    data-mapping="title"
+                                    data-strict="0"
+                                    data-reactions-enabled="1"
+                                    data-emit-metadata="0"
+                                    data-input-position="top"
+                                    data-theme="preferred_color_scheme"
+                                    data-lang="zh-CN"
+                                    data-loading="lazy"
+                                    crossorigin="anonymous"
+                                    async>
+                            </script>
+        ''')
 
         save_md_dir = self.save_dir / menu_title
         self.mkdir(save_md_dir)

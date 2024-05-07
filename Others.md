@@ -4,8 +4,9 @@
 
 ---
 
-- [【2024-04-16】 竞赛总结：Kaggle 大脑活动模式分类](https://mp.weixin.qq.com/s/RnXEPlUqz7KrmyRC73STKQ)
-- [【2024-04-01】 竞赛总结：Kaggle Optiver 美股量化比赛](https://mp.weixin.qq.com/s/1JZRU4xMFD108XGktTUTGw)
+- [【2024-05-07】Kaggle Enefit第一名方案！](https://mp.weixin.qq.com/s/e2-G9IC6DK2hFeR-PLlC2A)
+- [【2024-04-16】竞赛总结：Kaggle 大脑活动模式分类](https://mp.weixin.qq.com/s/RnXEPlUqz7KrmyRC73STKQ)
+- [【2024-04-01】竞赛总结：Kaggle Optiver 美股量化比赛](https://mp.weixin.qq.com/s/1JZRU4xMFD108XGktTUTGw)
 - [【2024-02-04】2023大数据挑战赛冠军方案](https://mp.weixin.qq.com/s/C0jkW0aRHw0A-kSitRRuew)
 - [【2024-01-02】Kaggle: CMI睡眠检测前排方案万字总结](https://mp.weixin.qq.com/s/TiTGmfqyilCp74NE3EkutQ)
 - [【2023-12-28】Stanford Ribonanza RNA Folding冠军秘密之一！](https://mp.weixin.qq.com/s/b9G6P-lfY12I2S0agmw2Tg)

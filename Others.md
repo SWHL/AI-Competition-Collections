@@ -4,6 +4,7 @@
 
 ---
 
+- [【2024-05-07】Kaggle赛题总结：预测客户太阳能电量](https://mp.weixin.qq.com/s/WHGMhopdW9c8MLSnsIeGHQ)
 - [【2024-05-07】Kaggle Enefit第一名方案！](https://mp.weixin.qq.com/s/e2-G9IC6DK2hFeR-PLlC2A)
 - [【2024-04-16】竞赛总结：Kaggle 大脑活动模式分类](https://mp.weixin.qq.com/s/RnXEPlUqz7KrmyRC73STKQ)
 - [【2024-04-01】竞赛总结：Kaggle Optiver 美股量化比赛](https://mp.weixin.qq.com/s/1JZRU4xMFD108XGktTUTGw)

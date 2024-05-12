@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2024-05-12】算法竞赛知多少？盘点算法竞赛的全过程](https://mp.weixin.qq.com/s/jzHW_-iMDqqoXrLKMRyTUg)
 - [【2023-12-09】Coggle专访LTZ：我的竞赛上岸经历](https://mp.weixin.qq.com/s/3Xzhv3vZIdQ_rt4jr7XQ6Q)
 - [【2023-10-23】第八季百度网盘AI大赛冠军诞生！他们有话说......](https://mp.weixin.qq.com/s/NmbAlFTWfJFl7OHoPIZ35g)
 - [【2023-09-01】技术时代的“手艺人”，天才程序员改变世界](https://mp.weixin.qq.com/s/uO7ZUmPUyyxJY7aDwOjteA)

@@ -4,6 +4,7 @@
 
 ---
 
+- [【2024-06-13】KDD2024-WhoIsWho-Top3开源方案](https://mp.weixin.qq.com/s/Za5KJ2GlDahlbMcRv9QNXg)
 - [【2024-06-08】Home Credict 信用风险模型稳定性第一名方案分享！](https://mp.weixin.qq.com/s/qHH9lc6noUj_5iyQhW3lww)
 - [【2024-06-04】Kaggle赛题总结：Home Credit 风控预测](https://mp.weixin.qq.com/s/_tnHTAasOsiCVYdvd5QT_g)
 - [【2024-05-07】Kaggle赛题总结：预测客户太阳能电量](https://mp.weixin.qq.com/s/WHGMhopdW9c8MLSnsIeGHQ)

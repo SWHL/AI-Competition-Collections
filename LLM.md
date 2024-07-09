@@ -2,6 +2,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2024-07-09】Kaggle赛题总结：LLM Prompt Recovery](https://mp.weixin.qq.com/s/GtblO91ku47yjeCj56gTUg)
 - [【2024-06-07】赛题总结：通义千问 Code Qwen 挑战赛](https://mp.weixin.qq.com/s/Bkh9iNoQrO3fV_uor-xi8A)
 - [【2024-05-14】万字长文总结提示词技巧！新加坡首届GPT-4提示工程大赛冠军最新分享](https://mp.weixin.qq.com/s/AWnQL3forAP-gB7e2ZEXdQ)
 - [【2024-04-24】Kaggle大模型比赛 Prompt Recovery方案来啦！](https://mp.weixin.qq.com/s/A0ZORGh2IewLsYtRnkbYvQ)

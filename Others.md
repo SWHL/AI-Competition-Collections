@@ -1,9 +1,12 @@
 # Others
+
 **(推荐系统 | 数据挖掘 | 知识图谱 | 图网络 | 多智能体决策 | 蛋白质结构预测 | 智能机器人)**
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
 
+- [【2024-07-16】大数据挑战赛周周星评选获奖队伍公布，附赛事经验分享！（第二周）](https://mp.weixin.qq.com/s/EO0rmlLbSdoFnEue-J3fvg)
+- [【2024-07-16】大数据挑战赛周周星评选获奖队伍公布，附赛事经验分享！](https://mp.weixin.qq.com/s/7io3awU0_6jzAmQaTabkNg)
 - [【2024-06-13】KDD2024-WhoIsWho-Top3开源方案](https://mp.weixin.qq.com/s/Za5KJ2GlDahlbMcRv9QNXg)
 - [【2024-06-08】Home Credict 信用风险模型稳定性第一名方案分享！](https://mp.weixin.qq.com/s/qHH9lc6noUj_5iyQhW3lww)
 - [【2024-06-04】Kaggle赛题总结：Home Credit 风控预测](https://mp.weixin.qq.com/s/_tnHTAasOsiCVYdvd5QT_g)

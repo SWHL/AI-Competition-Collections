@@ -5,6 +5,7 @@
 
 ---
 
+- [【2024-07-30】Kaggle赛题总结：AI数学奥赛挑战赛](https://mp.weixin.qq.com/s/MEVxQjulEuZLSpRYtfmPQw)
 - [【2024-07-16】大数据挑战赛周周星评选获奖队伍公布，附赛事经验分享！（第二周）](https://mp.weixin.qq.com/s/EO0rmlLbSdoFnEue-J3fvg)
 - [【2024-07-16】大数据挑战赛周周星评选获奖队伍公布，附赛事经验分享！](https://mp.weixin.qq.com/s/7io3awU0_6jzAmQaTabkNg)
 - [【2024-06-13】KDD2024-WhoIsWho-Top3开源方案](https://mp.weixin.qq.com/s/Za5KJ2GlDahlbMcRv9QNXg)

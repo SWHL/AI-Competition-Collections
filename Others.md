@@ -5,6 +5,7 @@
 
 ---
 
+- [【2024-08-21】Kaggle 赛题总结：USPTO 布尔专利检索](https://mp.weixin.qq.com/s/MRVTCliOdWPoXP1iuuiQng)
 - [【2024-07-30】Kaggle赛题总结：AI数学奥赛挑战赛](https://mp.weixin.qq.com/s/MEVxQjulEuZLSpRYtfmPQw)
 - [【2024-07-16】大数据挑战赛周周星评选获奖队伍公布，附赛事经验分享！（第二周）](https://mp.weixin.qq.com/s/EO0rmlLbSdoFnEue-J3fvg)
 - [【2024-07-16】大数据挑战赛周周星评选获奖队伍公布，附赛事经验分享！](https://mp.weixin.qq.com/s/7io3awU0_6jzAmQaTabkNg)

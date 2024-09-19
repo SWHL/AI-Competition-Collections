@@ -5,6 +5,11 @@
 
 ---
 
+- [【2024-09-19】2024大数据挑战赛全国六强团队获奖经验+ppt分享（六）](https://mp.weixin.qq.com/s/-Nj2lnFpGLhGctf4OxBKkg)
+- [【2024-09-19】2024大数据挑战赛全国六强团队获奖经验+ppt分享（五）](https://mp.weixin.qq.com/s/InfnKDGRBP-CT5a6mNmVXw)
+- [【2024-09-19】2024大数据挑战赛全国六强团队获奖经验+ppt分享（四）](https://mp.weixin.qq.com/s/9C8s5UQhsY7e2nrR9svvtg)
+- [【2024-09-19】2024大数据挑战赛全国六强团队获奖经验+ppt分享（三）](https://mp.weixin.qq.com/s/NXolOqVR-tpyaI_EQf9QuQ)
+- [【2024-09-19】2024大数据挑战赛全国六强团队获奖经验+ppt分享（二）](https://mp.weixin.qq.com/s/yJ7jQnLk15479BHUc0Rp8A)
 - [【2024-09-14】2024大数据挑战赛全国六强团队获奖经验+ppt分享（一）](https://mp.weixin.qq.com/s/a_ehPwIV74b_gUCaakMiNA)
 - [【2024-08-26】量化竞赛第一名的网络模型](https://mp.weixin.qq.com/s/OwLnIYVRoKAn7B3PVymx8Q)
 - [【2024-08-21】Kaggle 赛题总结：USPTO 布尔专利检索](https://mp.weixin.qq.com/s/MRVTCliOdWPoXP1iuuiQng)

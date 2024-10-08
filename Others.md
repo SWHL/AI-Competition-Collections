@@ -5,6 +5,7 @@
 
 ---
 
+- [【2024-10-08】三等奖方案 | 北京行程管家](https://mp.weixin.qq.com/s/T8ddj8xbbAptQH44lo0K6w)
 - [【2024-09-30】腾讯KDD‘24公开最新广告推荐系统建模方案](https://mp.weixin.qq.com/s/vneUvz3aNZi3XZz9J2jLHQ)
 - [【2024-09-29】全球Deepfake攻防挑战赛：三等奖 Team VisionRush 方案与代码解析](https://mp.weixin.qq.com/s/GrCsv6NP28g8hoUtYbEKtw)
 - [【2024-09-19】2024大数据挑战赛全国六强团队获奖经验+ppt分享（六）](https://mp.weixin.qq.com/s/-Nj2lnFpGLhGctf4OxBKkg)

@@ -1,7 +1,11 @@
 # 语言大模型赛事经验帖
+>
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2024-10-08】ATEC2023：大模型的知识引入Rank7方案分享(含Code)](https://mp.weixin.qq.com/s/MS3LIkOqHoR2zpjuC0TUdg)
+- [【2024-10-08】三等奖方案 | 医问灵通](https://mp.weixin.qq.com/s/2G6YJnYex89b2i21e4jCxg)
+- [【2024-10-08】KDD Cup 2024 Meta LLMs RAG挑战赛冠军方案开源](https://mp.weixin.qq.com/s/CUKw1_c6fpcddmhWM5eQCw)
 - [【2024-08-13】Meta CRAG KDD Cup 2024竞赛方案：一种 Hybrid RAG实现策略](https://mp.weixin.qq.com/s/gx04y9GRMDZ1QvdRZjrOuQ)
 - [【2024-07-09】Kaggle赛题总结：LLM Prompt Recovery](https://mp.weixin.qq.com/s/GtblO91ku47yjeCj56gTUg)
 - [【2024-06-07】赛题总结：通义千问 Code Qwen 挑战赛](https://mp.weixin.qq.com/s/Bkh9iNoQrO3fV_uor-xi8A)

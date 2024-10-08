@@ -1,10 +1,11 @@
 # Others
 
-**(推荐系统 | 数据挖掘 | 知识图谱 | 图网络 | 多智能体决策 | 蛋白质结构预测 | 智能机器人)**
+**(推荐系统 | 数据挖掘 | 知识图谱 | 图网络 | 多智能体决策 | 蛋白质结构预测 | 智能机器人 ... ...)**
 > 从他人比赛经验中，总是可以学到很多东西
 
 ---
 
+- [【2024-10-08】全球AI攻防挑战赛：金融场景凭证篡改检测 baseline](https://mp.weixin.qq.com/s/RlwoPpA1gQsU0kCTy1pqxg)
 - [【2024-10-08】三等奖方案 | 北京行程管家](https://mp.weixin.qq.com/s/T8ddj8xbbAptQH44lo0K6w)
 - [【2024-09-30】腾讯KDD‘24公开最新广告推荐系统建模方案](https://mp.weixin.qq.com/s/vneUvz3aNZi3XZz9J2jLHQ)
 - [【2024-09-29】全球Deepfake攻防挑战赛：三等奖 Team VisionRush 方案与代码解析](https://mp.weixin.qq.com/s/GrCsv6NP28g8hoUtYbEKtw)

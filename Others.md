@@ -5,6 +5,8 @@
 
 ---
 
+- [【2024-10-09】二等奖方案 | 智轨行者——多模态轨道交通排故神器](https://mp.weixin.qq.com/s/mlXxmm1GtU460R30MV7Ulw)
+- [【2024-10-09】天池-蚂蚁AFAC大模型挑战赛-冠军方案分享(文末有代码)](https://mp.weixin.qq.com/s/1RzkfAUK12KHWCKBChfjyA)
 - [【2024-10-08】全球AI攻防挑战赛：金融场景凭证篡改检测 baseline](https://mp.weixin.qq.com/s/RlwoPpA1gQsU0kCTy1pqxg)
 - [【2024-10-08】三等奖方案 | 北京行程管家](https://mp.weixin.qq.com/s/T8ddj8xbbAptQH44lo0K6w)
 - [【2024-09-30】腾讯KDD‘24公开最新广告推荐系统建模方案](https://mp.weixin.qq.com/s/vneUvz3aNZi3XZz9J2jLHQ)

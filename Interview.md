@@ -1,7 +1,9 @@
 ### 比赛团队访谈
+>
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2024-10-12】专访首届冠军赵鉴博士：是时候有人来填补强化学习应用空白](https://mp.weixin.qq.com/s/t0-qr73iEcmrBIPMCA7-Vw)
 - [【2024-05-12】算法竞赛知多少？盘点算法竞赛的全过程](https://mp.weixin.qq.com/s/jzHW_-iMDqqoXrLKMRyTUg)
 - [【2023-12-09】Coggle专访LTZ：我的竞赛上岸经历](https://mp.weixin.qq.com/s/3Xzhv3vZIdQ_rt4jr7XQ6Q)
 - [【2023-10-23】第八季百度网盘AI大赛冠军诞生！他们有话说......](https://mp.weixin.qq.com/s/NmbAlFTWfJFl7OHoPIZ35g)

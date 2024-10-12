@@ -5,6 +5,7 @@
 
 ---
 
+- [【2024-10-12】行业落地分享：讯飞科研助手 SparkRA](https://mp.weixin.qq.com/s/QWm-vI61qM4PXSweSstTTQ)
 - [【2024-10-09】二等奖方案 | 智轨行者——多模态轨道交通排故神器](https://mp.weixin.qq.com/s/mlXxmm1GtU460R30MV7Ulw)
 - [【2024-10-09】天池-蚂蚁AFAC大模型挑战赛-冠军方案分享(文末有代码)](https://mp.weixin.qq.com/s/1RzkfAUK12KHWCKBChfjyA)
 - [【2024-10-08】全球AI攻防挑战赛：金融场景凭证篡改检测 baseline](https://mp.weixin.qq.com/s/RlwoPpA1gQsU0kCTy1pqxg)

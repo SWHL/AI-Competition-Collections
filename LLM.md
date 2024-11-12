@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2024-11-12】二等奖方案③ | 法律检索与案件分析](https://mp.weixin.qq.com/s/Z3n-YUQABN75EgtP5nIKVw)
 - [【2024-11-06】《文心一言插件设计与开发》赛题 三等奖方案④ | 人力资源辅助插件](https://mp.weixin.qq.com/s/qp9xR4guvbfxVNaAGGU3_w)
 - [【2024-11-06】《文心一言插件设计与开发》赛题 二等奖方案② | 植物医生](https://mp.weixin.qq.com/s/fAonz_lGDCCWzWC4at4Y8w)
 - [【2024-10-25】《文心一言插件设计与开发》赛题 三等奖获奖方案](https://mp.weixin.qq.com/s/8DcJvnVuaqZMqKiDu8SMUw)

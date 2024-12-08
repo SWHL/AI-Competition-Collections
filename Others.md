@@ -5,6 +5,8 @@
 
 ---
 
+- [【2024-12-08】2024(第7届)国际AIOPS挑战赛](https://mp.weixin.qq.com/s/b1YUdDkH5fBNHOfZrRHb_w)
+- [【2024-12-08】科大讯飞2024 企业经营健康评估挑战赛 Top3！](https://mp.weixin.qq.com/s/yDUCS9qYwY55rca8rV_x_A)
 - [【2024-12-04】冠军团队！全球AI攻防挑战赛系列分享（一）](https://mp.weixin.qq.com/s/-hhN0AJzySJ9pFLN3XIHDw)
 - [【2024-11-12】Jane Street 大赛开源最高单模方案（接近银牌方案）](https://mp.weixin.qq.com/s/_2jb74FaMM1UJyU6P0nziA)
 - [【2024-10-12】行业落地分享：讯飞科研助手 SparkRA](https://mp.weixin.qq.com/s/QWm-vI61qM4PXSweSstTTQ)

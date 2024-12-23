@@ -5,6 +5,9 @@
 
 ---
 
+- [【2024-12-23】竞赛总结：Amazon KDD Cup 2024](https://mp.weixin.qq.com/s/iLZfo4QkptYdNjEgk646mQ)
+- [【2024-12-23】Top5团队！全球AI攻防挑战赛系列分享（四）](https://mp.weixin.qq.com/s/tyT2WtPxpk8XT4G-KMdHMg)
+- [【2024-12-23】亚军团队！全球AI攻防挑战赛系列分享（二](https://mp.weixin.qq.com/s/T5Z9xllhxkmvlAD_02URIg)
 - [【2024-12-08】2024(第7届)国际AIOPS挑战赛](https://mp.weixin.qq.com/s/b1YUdDkH5fBNHOfZrRHb_w)
 - [【2024-12-08】科大讯飞2024 企业经营健康评估挑战赛 Top3！](https://mp.weixin.qq.com/s/yDUCS9qYwY55rca8rV_x_A)
 - [【2024-12-04】冠军团队！全球AI攻防挑战赛系列分享（一）](https://mp.weixin.qq.com/s/-hhN0AJzySJ9pFLN3XIHDw)

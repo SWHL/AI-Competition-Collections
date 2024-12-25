@@ -5,6 +5,7 @@
 
 ---
 
+- [【2024-12-25】Kaggle赛题总结：CMI儿童网络成瘾预测](https://mp.weixin.qq.com/s/1xGuHtTm4Jqpk4shJ-fnZQ)
 - [【2024-12-23】竞赛总结：Amazon KDD Cup 2024](https://mp.weixin.qq.com/s/iLZfo4QkptYdNjEgk646mQ)
 - [【2024-12-23】Top5团队！全球AI攻防挑战赛系列分享（四）](https://mp.weixin.qq.com/s/tyT2WtPxpk8XT4G-KMdHMg)
 - [【2024-12-23】亚军团队！全球AI攻防挑战赛系列分享（二](https://mp.weixin.qq.com/s/T5Z9xllhxkmvlAD_02URIg)

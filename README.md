@@ -67,3 +67,5 @@
 | [同花顺算法平台](http://contest.aicubes.cn/#/) | 来源于真实场景业务问题，CV\\NLP\\语音都有涉及 |
 | [Kaggle](https://www.kaggle.com/competitions) | 比较有名，不作过多说明 |
 | [AIWIN](http://ailab.aiwin.org.cn/competitions/) | 一个比较小众的平台，涉及CV较多一些，每年有两次\(春季赛\|秋季赛\) |
+
+### [贡献者汇总](https://github.com/SWHL/AI-Competition-Collections/issues/2)

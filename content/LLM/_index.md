@@ -1,7 +1,7 @@
 ---
 title: "语言大模型比赛经验帖"
 menuTitle: "LLM"
-date: 2025-02-19
+date: 2025-03-21
 draft: false
 weight: 6
 LastModifierDisplayName: "SWHL"
@@ -13,6 +13,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2025-03-21】竞赛总结：AFAC2024 金融工具Tools识别](https://mp.weixin.qq.com/s/80J59zyUQDHelHFIitX_-g)
 - [【2025-01-13】CCF对话式检索增强生成Top1赛后方案](https://mp.weixin.qq.com/s/wOq9qjQjwLO5OZejydhHjg)
 - [【2025-01-13】用LLM做文本分类，微调选base还是chat](https://mp.weixin.qq.com/s/Dh-AhsVrnlojau8Ca0LokA)
 - [【2024-12-04】一等奖方案②| 智语互动](https://mp.weixin.qq.com/s/mi_AKzTsUCTcH1_1kePE3Q)

@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2025-04-19】多模态RAG文档检索竞赛前三获奖方案解读：MMDocIR/KR任务](https://mp.weixin.qq.com/s/MEgilART1t9KNEi82BScGQ)
+- [【2025-04-19】竞赛总结：AFAC2024 AIGC金融多模态研究报告智能生成](https://mp.weixin.qq.com/s/_8HliWWSJhdLpTrOGbFuuw)
 - [【2025-04-02】竞赛总结：AFAC2024 基于保险条款的问答](https://mp.weixin.qq.com/s/-6e20GmnifmOG4KcJyuRAQ)
 - [【2025-03-21】竞赛总结：AFAC2024 金融工具Tools识别](https://mp.weixin.qq.com/s/80J59zyUQDHelHFIitX_-g)
 - [【2025-01-13】CCF对话式检索增强生成Top1赛后方案](https://mp.weixin.qq.com/s/wOq9qjQjwLO5OZejydhHjg)

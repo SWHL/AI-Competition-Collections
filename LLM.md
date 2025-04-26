@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2025-04-26】]“一丹一世界”三等奖 | 绮影录 创作分享(https://mp.weixin.qq.com/s/LJMpek2FPk01yuwBY5wfpA)
+- [【2025-04-26】“一丹一世界”二等奖 | MAJICFLUS_新浮世 创作分享](https://mp.weixin.qq.com/s/LJMpek2FPk01yuwBY5wfpA)
 - [【2025-04-19】多模态RAG文档检索竞赛前三获奖方案解读：MMDocIR/KR任务](https://mp.weixin.qq.com/s/MEgilART1t9KNEi82BScGQ)
 - [【2025-04-19】竞赛总结：AFAC2024 AIGC金融多模态研究报告智能生成](https://mp.weixin.qq.com/s/_8HliWWSJhdLpTrOGbFuuw)
 - [【2025-04-02】竞赛总结：AFAC2024 基于保险条款的问答](https://mp.weixin.qq.com/s/-6e20GmnifmOG4KcJyuRAQ)

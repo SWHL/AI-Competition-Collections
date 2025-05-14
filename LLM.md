@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2025-05-14】行业落地分享：WPS AI 一键生成PPT](https://mp.weixin.qq.com/s/JjDTTCoTZn3dg_-3iogBmA)
+- [【2025-05-14】“一丹一世界”三等奖 | 木刻时光·细密风 经验分享](https://mp.weixin.qq.com/s/Rn_KR7JywftB2lIKiTtT3w)
 - [【2025-04-26】“一丹一世界”三等奖 | 绮影录 创作分享](https://mp.weixin.qq.com/s/LJMpek2FPk01yuwBY5wfpA)
 - [【2025-04-26】“一丹一世界”二等奖 | MAJICFLUS_新浮世 创作分享](https://mp.weixin.qq.com/s/LJMpek2FPk01yuwBY5wfpA)
 - [【2025-04-19】多模态RAG文档检索竞赛前三获奖方案解读：MMDocIR/KR任务](https://mp.weixin.qq.com/s/MEgilART1t9KNEi82BScGQ)

@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2025-05-23】WWW'25数据竞赛—多模态CTR预估1st方案介绍](https://mp.weixin.qq.com/s/rLNY6hGbYZwY2q1Wvaz0ZA)
+- [【2025-05-23】RAG 挑战赛冠军方案解析：从数据解析到多路由器检索的工程实践，推荐阅读！](http://mp.weixin.qq.com/s/VPidqY02ngsrnXhpOol3_A)
 - [【2025-05-14】行业落地分享：WPS AI 一键生成PPT](https://mp.weixin.qq.com/s/JjDTTCoTZn3dg_-3iogBmA)
 - [【2025-05-14】“一丹一世界”三等奖 | 木刻时光·细密风 经验分享](https://mp.weixin.qq.com/s/Rn_KR7JywftB2lIKiTtT3w)
 - [【2025-04-26】“一丹一世界”三等奖 | 绮影录 创作分享](https://mp.weixin.qq.com/s/LJMpek2FPk01yuwBY5wfpA)

@@ -1,7 +1,7 @@
 ---
 title: "其他"
 menuTitle: "Others"
-date: 2025-05-23
+date: 2025-05-27
 draft: false
 weight: 4
 LastModifierDisplayName: "SWHL"
@@ -22,6 +22,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2025-05-27】行业落地分享：蚂蚁TuGraph图数据库](https://mp.weixin.qq.com/s/mc4r6-j7FzufnSqCS3oLJA)
 - [【2025-01-24】Jane Street最新量化大赛金牌方案(含代码)](https://mp.weixin.qq.com/s/8mQkX3c17A_61A4CsZVxxA)
 - [【2024-12-25】Kaggle赛题总结：CMI儿童网络成瘾预测](https://mp.weixin.qq.com/s/1xGuHtTm4Jqpk4shJ-fnZQ)
 - [【2024-12-23】竞赛总结：Amazon KDD Cup 2024](https://mp.weixin.qq.com/s/iLZfo4QkptYdNjEgk646mQ)

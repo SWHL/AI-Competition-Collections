@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2025-05-30】RAG 挑战赛冠军方案解析：从数据解析到多路由器检索的工程实践，推荐阅读！](https://mp.weixin.qq.com/s/ryzaGd7xrMNisd0d0Ak-GQ)
 - [【2025-05-23】WWW'25数据竞赛—多模态CTR预估1st方案介绍](https://mp.weixin.qq.com/s/rLNY6hGbYZwY2q1Wvaz0ZA)
 - [【2025-05-23】RAG 挑战赛冠军方案解析：从数据解析到多路由器检索的工程实践，推荐阅读！](http://mp.weixin.qq.com/s/VPidqY02ngsrnXhpOol3_A)
 - [【2025-05-14】行业落地分享：WPS AI 一键生成PPT](https://mp.weixin.qq.com/s/JjDTTCoTZn3dg_-3iogBmA)

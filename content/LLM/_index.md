@@ -1,7 +1,7 @@
 ---
 title: "语言大模型比赛经验帖"
 menuTitle: "LLM"
-date: 2025-05-30
+date: 2025-06-11
 draft: false
 weight: 6
 LastModifierDisplayName: "SWHL"
@@ -13,6 +13,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2025-06-11】“一丹一世界”三等奖 | 南柯一梦 经验分享](https://mp.weixin.qq.com/s/BlXMWTfb15EvCPOi123-dw)
 - [【2025-05-30】RAG 挑战赛冠军方案解析：从数据解析到多路由器检索的工程实践，推荐阅读！](https://mp.weixin.qq.com/s/ryzaGd7xrMNisd0d0Ak-GQ)
 - [【2025-05-23】WWW'25数据竞赛—多模态CTR预估1st方案介绍](https://mp.weixin.qq.com/s/rLNY6hGbYZwY2q1Wvaz0ZA)
 - [【2025-05-23】RAG 挑战赛冠军方案解析：从数据解析到多路由器检索的工程实践，推荐阅读！](http://mp.weixin.qq.com/s/VPidqY02ngsrnXhpOol3_A)

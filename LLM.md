@@ -3,6 +3,8 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2025-06-13】竞赛总结：Kaggle Drawing with LLMs](https://mp.weixin.qq.com/s/952VpopDGxTb8aLBf01OlQ)
+- [【2025-06-13】“一丹一世界”三等奖 | 蓝色幻想 经验分享-AIGC商业海报落地](https://mp.weixin.qq.com/s/ONHZrSr2NkakqefT_Boj5g)
 - [【2025-06-11】“一丹一世界”三等奖 | 南柯一梦 经验分享](https://mp.weixin.qq.com/s/BlXMWTfb15EvCPOi123-dw)
 - [【2025-05-30】RAG 挑战赛冠军方案解析：从数据解析到多路由器检索的工程实践，推荐阅读！](https://mp.weixin.qq.com/s/ryzaGd7xrMNisd0d0Ak-GQ)
 - [【2025-05-23】WWW'25数据竞赛—多模态CTR预估1st方案介绍](https://mp.weixin.qq.com/s/rLNY6hGbYZwY2q1Wvaz0ZA)

@@ -1,7 +1,7 @@
 ---
 title: "语言大模型比赛经验帖"
 menuTitle: "LLM"
-date: 2025-06-13
+date: 2025-06-17
 draft: false
 weight: 6
 LastModifierDisplayName: "SWHL"
@@ -13,6 +13,8 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2025-06-17】行业落地分享：阿里云客户服务中Agent思考与创新实践](https://mp.weixin.qq.com/s/XAe1HL2KioaL34g_l6nCOA)
+- [【2025-06-17】同“西游”，见“万相”冠军｜皮影西游LoRA创作分享](https://mp.weixin.qq.com/s/kxDKpARBQC82KJcpSqH-9w)
 - [【2025-06-13】竞赛总结：Kaggle Drawing with LLMs](https://mp.weixin.qq.com/s/952VpopDGxTb8aLBf01OlQ)
 - [【2025-06-13】“一丹一世界”三等奖 | 蓝色幻想 经验分享-AIGC商业海报落地](https://mp.weixin.qq.com/s/ONHZrSr2NkakqefT_Boj5g)
 - [【2025-06-11】“一丹一世界”三等奖 | 南柯一梦 经验分享](https://mp.weixin.qq.com/s/BlXMWTfb15EvCPOi123-dw)

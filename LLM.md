@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2025-06-23】同“西游”，见“万相”季军｜赛博悟空西游LoRA创作分享](https://mp.weixin.qq.com/s/WNrPcJeYj_5rEHkSyHANjw)
 - [【2025-06-19】同“西游”，见“万相”季军｜水墨烟雾西游LoRA创作分享](https://mp.weixin.qq.com/s/eeWsrBcTWDU0C9lWrX5rog)
 - [【2025-06-19】同“西游”，见“万相”亚军｜悟空传美学增强专用LoRA创作分享](https://mp.weixin.qq.com/s/DJqp1SsTr1skZqoLVZZolQ)
 - [【2025-06-17】行业落地分享：阿里云客户服务中Agent思考与创新实践](https://mp.weixin.qq.com/s/XAe1HL2KioaL34g_l6nCOA)

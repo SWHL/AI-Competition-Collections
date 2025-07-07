@@ -3,6 +3,7 @@
 > 从他人比赛经验中，总是可以学到很多东西
 ---
 
+- [【2025-07-07】Kaggle竞赛复盘: BirdCLEF+ 2025 (14个高分方案)](https://mp.weixin.qq.com/s/YHiFeDPPVj53IeFXMiY_QQ)
 - [【2024-09-03】IJCAI-信也科技杯全球AI大赛亚军方案-伪造语音检测](https://mp.weixin.qq.com/s/Z-0381pxQIop57wXS3iHww)
 - [【2023-12-09】语音方言距离识别](https://mp.weixin.qq.com/s/aAlQzVXzQYfeT8NxsxrbsQ)
 - [【2023-07-01】BirdCLEF 2023比赛总结。](http://mp.weixin.qq.com/s?__biz=Mzk0NDE5Nzg1Ng==&mid=2247507790&idx=1&sn=4020c94e864c78093f87be14a9deb966&chksm=c32ac6c1f45d4fd7ce7869ec5f7624236648d263322a35828654bba7669b748a586e44ba8ebc#rd)

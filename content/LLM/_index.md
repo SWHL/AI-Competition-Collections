@@ -1,7 +1,7 @@
 ---
 title: "语言大模型比赛经验帖"
 menuTitle: "LLM"
-date: 2025-06-23
+date: 2025-07-07
 draft: false
 weight: 6
 LastModifierDisplayName: "SWHL"
@@ -13,6 +13,7 @@ LastModifierEmail: "liekkaskono@163.com"
 ---
  
 
+- [【2025-07-07】CVPR'25 workshop冠军方案！中科院&字节Seed提出BridgeVLA：视觉干扰、任务组合等泛化场景轻松拿捏](https://mp.weixin.qq.com/s/Bi6ucEjDmSHuq-I17n1iAg)
 - [【2025-06-23】同“西游”，见“万相”季军｜赛博悟空西游LoRA创作分享](https://mp.weixin.qq.com/s/WNrPcJeYj_5rEHkSyHANjw)
 - [【2025-06-19】同“西游”，见“万相”季军｜水墨烟雾西游LoRA创作分享](https://mp.weixin.qq.com/s/eeWsrBcTWDU0C9lWrX5rog)
 - [【2025-06-19】同“西游”，见“万相”亚军｜悟空传美学增强专用LoRA创作分享](https://mp.weixin.qq.com/s/DJqp1SsTr1skZqoLVZZolQ)

@@ -1,0 +1,141 @@
+site_name: AI比赛经验合集
+site_url: https://swhl.github.io/AI-Competition-Collections/
+site_author: SWHL
+site_description:
+  AI比赛经验帖子 & 训练和测试技巧帖子集锦
+
+repo_name: SWHL/AI-Competition-Collections
+repo_url: https://github.com/SWHL/AI-Competition-Collections
+
+copyright: Copyright &copy; 2025 Maintained by SWHL.
+
+theme:
+  name: material
+  language: zh
+  custom_dir: overrides
+  features:
+    - announce.dismiss
+    - content.tooltips
+    - content.code.copy
+    - content.tabs.link
+    - content.footnote.tooltips
+    - navigation.expand  # 默认打开所有的字节
+    - navigation.tabs # 顶级索引被作为tab
+    - navigation.tabs.sticky # tab始终可见
+    - navigation.top # 开启顶部导航栏
+    - navigation.tracking # 导航栏跟踪
+    - navigation.footer
+    - navigation.indexes
+    - search.highlight # 搜索高亮
+    - search.share # 搜索分享
+    - search.suggest # 搜索建议
+    - toc.follow # 目录跟踪-页面右侧的小目录
+
+  palette:
+    - media: "(prefers-color-scheme: light)" # 浅色
+      scheme: default
+      primary: light green
+      accent: light green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" # 深色
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  icon:
+    logo: logo
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    repo: fontawesome/brands/github
+    tag:
+      default-tag: fontawesome/solid/tag
+      hardware-tag: fontawesome/solid/microchip
+      software-tag: fontawesome/solid/laptop-code
+
+plugins:
+  - blog:
+      archive: false
+      post_date_format: short
+      blog_toc: true
+      categories_toc: true
+      pagination: false
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - git-committers:
+      repository: SWHL/AI-Competition-Collections
+      branch: main
+      token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - footnotes
+  - def_list
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+        anchor_linenums: true
+        line_spans: __span
+        pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+
+nav:
+  - 概览: index.md
+  - 计算机视觉:
+    - 图像视频修复_增强_重建_超分: CV/图像视频修复_增强_重建_超分.md
+    - 人脸识别: CV/人脸识别.md
+    - 关键点检测识别: CV/关键点检测识别.md
+    - 图像分割: CV/图像分割.md
+    - 图像分类: CV/图像分类.md
+    - 图像压缩: CV/图像压缩.md
+    - 图像检索: CV/图像检索.md
+    - 图像篡改检测: CV/图像篡改检测.md
+    - 多模态: CV/多模态.md
+    - 对抗攻击: CV/对抗攻击.md
+    - 异常检测: CV/异常检测.md
+    - 比赛技巧: CV/比赛技巧.md
+    - 目标检测: CV/目标检测.md
+    - 目标计数: CV/目标计数.md
+    - 综合类型: CV/综合类型.md
+    - 自动驾驶: CV/自动驾驶.md
+    - 行为识别: CV/行为识别.md
+    - 视频分割: CV/视频分割.md
+    - 视频理解: CV/视频理解.md
+    - AI算法: CV/AI算法.md
+    - OCR: CV/OCR.md
+    - 其他: CV/
+  - 自然语言处理: NLP.md
+  - 语音: Speech.md
+  - 比赛选手访谈: Interview.md
+  - LLM: LLM.md

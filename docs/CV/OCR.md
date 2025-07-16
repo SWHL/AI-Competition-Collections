@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 - [【2025-07-07】SIGIR 2025 LiveRAG竞赛获奖方案及中文文档版式分析的标签设计](https://mp.weixin.qq.com/s/qH4nGqPGPc-tEAmDrUARPQ)
 - [【2023-12-28】2023科大讯飞表格结构识别挑战赛Top方案](https://mp.weixin.qq.com/s/6NdSY6H4C1t-s2w_pJXYrQ)
 - [【2023-07-13】ICDAR21表格解析方案汇总](https://zhuanlan.zhihu.com/p/379585300)

@@ -7,3 +7,5 @@
 ![收集表](https://user-images.githubusercontent.com/28639377/222939092-5e118d92-0010-4ee1-870a-5891d6b07e66.png?width=15vw)
 
 ### 官方站点
+
+<https://swhl.github.io/AI-Competition-Collections/>

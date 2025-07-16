@@ -34,8 +34,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)" # 浅色
       scheme: default
-      primary: light green
-      accent: light green
+      primary: white
+      accent: white
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode

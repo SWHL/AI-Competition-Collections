@@ -5,45 +5,19 @@ hide:
   - toc
 ---
 
-## AI比赛经验帖子 & 训练和测试技巧帖子集锦
+# AI比赛经验帖子 & 训练和测试技巧帖子集锦
 
-> 从他人比赛经验中，总是可以学到很多东西
+!!! quote
+
+    从他人比赛经验中，总是可以学到很多东西
+
 
 欢迎您贡献看到的AI比赛经验帖子，可以通过点击[🌈贡献AI比赛经验帖子](https://www.wjx.cn/vm/PRivSRh.aspx#)，或扫码填写。(当然直接提PR更欢迎)
 
 ![收集表](https://user-images.githubusercontent.com/28639377/222939092-5e118d92-0010-4ee1-870a-5891d6b07e66.png?width=15vw)
 
-### 赛事经验帖
 
-- CV赛事经验帖
-    - [图像分类](./CV/图像分类.md)
-    - [目标检测](./CV/目标检测.md)
-    - [OCR](./CV/OCR.md)
-    - [多模态](./CV/多模态.md)
-    - [图像分割](./CV/图像分割.md)
-    - [对抗攻击](./CV/对抗攻击.md)
-    - [比赛技巧](./CV/比赛技巧.md)
-    - [关键点检测识别](./CV/关键点检测识别.md)
-    - [视频理解](./CV/视频理解.md)
-    - [图像篡改检测](./CV/图像篡改检测.md)
-    - [AI算法](./CV/AI算法.md)
-    - [图像压缩](./CV/图像压缩.md)
-    - [图像视频修复 | 增强 | 重建 | 超分](./CV/图像视频修复_增强_重建_超分.md)
-    - [行为识别](./CV/行为识别.md)
-    - [人脸识别](./CV/人脸识别.md)
-    - [图像检索](./CV/图像检索.md)
-    - [综合类型](./CV/综合类型.md)
-    - [自动驾驶](./CV/自动驾驶.md)
-    - [图像检索](./CV/图像检索.md)
-    - [目标计数](./CV/目标计数.md)
-    - [其他](./CV/其他.md)
-- [NLP赛事经验帖](./NLP.md)
-- [语音赛事经验帖](./Speech.md)
-- [Others](./Others.md) (推荐系统|数据挖掘|知识图谱|图网络|多智能体决策|蛋白质结构预测|智能机器人等)
-- [比赛经验分享](./Interview.md)
-- [语言大模型比赛经验分享](./LLM.md)
-
-### 竞赛文章公众号
+## 竞赛文章公众号
 
 | **公众号名称** | **简单介绍** |
 |:---:|:---|
@@ -52,14 +26,14 @@ hide:
 | Datawhale | 一个专注于AI领域的开源组织，汇聚了众多优秀学习者，愿景：for the learnner,和学习者一起成长。|
 | 世界AI创新大赛 | 世界人工智能创新大赛（AIWIN），是世界人工智能大会的组成部分之一。|
 
-### 其他信息汇总平台
+## 其他信息汇总平台
 
 | **平台名称** | **简单介绍** |
 |:---:|:---|
 |[Kaggle Solutions](https://farid.one/kaggle-solutions/)|列出了过去Kaggle比赛中顶尖选手分享的几乎所有可用解决方案和想法。|
 |[nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review)|复盘所有NLP比赛的TOP方案，只关注NLP比赛|
 
-### 竞赛平台
+## 竞赛平台
 
 | **平台名称** | **简单介绍** |
 |:---:|:---|
@@ -75,4 +49,4 @@ hide:
 | [Kaggle](https://www.kaggle.com/competitions) | 比较有名，不作过多说明 |
 | [AIWIN](http://ailab.aiwin.org.cn/competitions/) | 一个比较小众的平台，涉及CV较多一些，每年有两次\(春季赛\|秋季赛\) |
 
-### [贡献者汇总](https://github.com/SWHL/AI-Competition-Collections/issues/2)
+## [贡献者汇总](https://github.com/SWHL/AI-Competition-Collections/issues/2)

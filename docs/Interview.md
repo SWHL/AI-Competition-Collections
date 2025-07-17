@@ -1,6 +1,10 @@
 ---
 comments: true
+hide:
+  - navigation
+  - toc
 ---
+
 
 !!! quote
 

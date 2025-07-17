@@ -1,6 +1,10 @@
 ---
 comments: true
+hide:
+  - navigation
+  - toc
 ---
+
 ## AI比赛经验帖子 & 训练和测试技巧帖子集锦
 
 > 从他人比赛经验中，总是可以学到很多东西

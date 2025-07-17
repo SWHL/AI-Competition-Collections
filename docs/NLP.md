@@ -1,11 +1,15 @@
 ---
 comments: true
+hide:
+  - navigation
+  - toc
 ---
 
 # NLP赛事经验帖
->
-> 从他人比赛经验中，总是可以学到很多东西
----
+
+!!! quote
+
+    从他人比赛经验中，总是可以学到很多东西
 
 - [【2024-12-31】竞赛总结：KDD2024 OAG-Challenge](https://mp.weixin.qq.com/s/pINNh1KEY6vV6lSw_R8tAg)
 - [【2024-06-30】2024 KDD CUP-Whoiswho赛道Rank8方案分享](https://mp.weixin.qq.com/s/6bN-2kON9AjQqvTJ1wUfQA)

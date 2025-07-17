@@ -1,13 +1,18 @@
 ---
 comments: true
+hide:
+  - navigation
+  - toc
 ---
 
 # Others
 
 **(推荐系统 | 数据挖掘 | 知识图谱 | 图网络 | 多智能体决策 | 蛋白质结构预测 | 智能机器人 ... ...)**
-> 从他人比赛经验中，总是可以学到很多东西
 
----
+
+!!! quote
+
+    从他人比赛经验中，总是可以学到很多东西
 
 - [【2025-05-27】行业落地分享：蚂蚁TuGraph图数据库](https://mp.weixin.qq.com/s/mc4r6-j7FzufnSqCS3oLJA)
 - [【2025-01-24】Jane Street最新量化大赛金牌方案(含代码)](https://mp.weixin.qq.com/s/8mQkX3c17A_61A4CsZVxxA)

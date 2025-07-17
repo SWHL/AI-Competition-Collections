@@ -34,8 +34,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)" # 浅色
       scheme: default
-      primary: white
-      accent: white
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -134,7 +134,7 @@ nav:
     - 视频理解: CV/视频理解.md
     - AI算法: CV/AI算法.md
     - OCR: CV/OCR.md
-    - 其他: CV/
+    - 其他: CV/其他.md
   - 自然语言处理: NLP.md
   - 语音: Speech.md
   - 比赛选手访谈: Interview.md

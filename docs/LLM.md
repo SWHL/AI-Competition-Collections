@@ -11,7 +11,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
-
+- [【2025-07-18】竞赛总结：WWW 2025 EReL@MIR 多模态检索挑战赛](https://mp.weixin.qq.com/s/-ldkXZKrGa6lYcLN_e5F1g)
 - [【2025-07-15】竞赛总结：WWW 2025 EReL@MIR 多模态检索挑战赛](https://mp.weixin.qq.com/s/-ldkXZKrGa6lYcLN_e5F1g)
 - [【2025-07-07】CVPR'25 workshop冠军方案！中科院&字节Seed提出BridgeVLA：视觉干扰、任务组合等泛化场景轻松拿捏](https://mp.weixin.qq.com/s/Bi6ucEjDmSHuq-I17n1iAg)
 - [【2025-06-23】同“西游”，见“万相”季军｜赛博悟空西游LoRA创作分享](https://mp.weixin.qq.com/s/WNrPcJeYj_5rEHkSyHANjw)

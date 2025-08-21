@@ -14,6 +14,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2025-08-21】行业落地分享：腾讯微信 RAG在代码补全中的应用](https://mp.weixin.qq.com/s/4YX6qbtmp5wasSz4sbOCPg)
 - [【2025-07-30】科大讯飞AI大赛：新能源发电功率预测挑战赛 Baseline](https://mp.weixin.qq.com/s/d92u-JnwhtUcgeGvTbLW2A)
 - [【2025-05-27】行业落地分享：蚂蚁TuGraph图数据库](https://mp.weixin.qq.com/s/mc4r6-j7FzufnSqCS3oLJA)
 - [【2025-01-24】Jane Street最新量化大赛金牌方案(含代码)](https://mp.weixin.qq.com/s/8mQkX3c17A_61A4CsZVxxA)

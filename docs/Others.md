@@ -14,6 +14,8 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2025-08-27】科大讯飞AI大赛：实时多人协作行为意图风险预测挑战赛 Baseline](https://mp.weixin.qq.com/s/LYNlAJJ7A9OjzvapeQr2Dg)
+- [【2025-08-27】行业落地分享：AI智能体在顺丰运营环节的应用](https://mp.weixin.qq.com/s/g8ERLEMgNu8kQGV5NvCdpw)
 - [【2025-08-21】行业落地分享：腾讯微信 RAG在代码补全中的应用](https://mp.weixin.qq.com/s/4YX6qbtmp5wasSz4sbOCPg)
 - [【2025-07-30】科大讯飞AI大赛：新能源发电功率预测挑战赛 Baseline](https://mp.weixin.qq.com/s/d92u-JnwhtUcgeGvTbLW2A)
 - [【2025-05-27】行业落地分享：蚂蚁TuGraph图数据库](https://mp.weixin.qq.com/s/mc4r6-j7FzufnSqCS3oLJA)

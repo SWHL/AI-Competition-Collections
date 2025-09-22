@@ -1,4 +1,4 @@
-name: 🔗 检查链接
+name: Link Checker
 
 on:
   repository_dispatch:

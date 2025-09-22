@@ -43,7 +43,6 @@ hide:
 | [DataFountain](https://www.datafountain.cn/competitions) | 涉及CV、NLP、数据挖掘等全面的比赛平台 |
 | [和鲸社区](https://www.heywhale.com/home/competitions) | 综合性比赛平台，侧重数据科学、机器人一些 |
 | [FlyAI](https://www.flyai.com/) | 涉及视觉计算、自然语言处理、语音、结构化数据等 |
-| [CodaLab](https://competitions.codalab.org/competitions) | 多数为学术型的竞赛平台，包括一些学术会议的附赛 |
 | [天池](https://tianchi.aliyun.com/competition/gameList/activeList) | 比较有名，不作过多说明 |
 | [同花顺算法平台](http://contest.aicubes.cn/#/) | 来源于真实场景业务问题，CV\\NLP\\语音都有涉及 |
 | [Kaggle](https://www.kaggle.com/competitions) | 比较有名，不作过多说明 |

@@ -65,7 +65,7 @@ hide:
 - [【2022-09-29】2022文本智能校对冠军方案！已落地！](https://mp.weixin.qq.com/s/E8A-H3RctJcZLXGv0oWXiQ)
 - [【2022-08-30】获奖方案|2021 CCF BDCI 「千言-问题匹配鲁棒性评测」赛题三等奖](https://mp.weixin.qq.com/s/sdvM6Q8x1g8gFYnyRm-bXQ)
 - [【2022-08-23】“中文保险小样本多任务竞赛”冠军方案 (已开源源码和模型)](https://mp.weixin.qq.com/s/MeqlMgtvQqnE7x3sJlKHKw)
-- [【2022-08-16】中文保险小样本多任务竞赛”知识工场团队方案——2022AIWIN（春季）](https://www.chinait.com/ai-cloud-edge/115533.html)
+- [【2022-08-16】中文保险小样本多任务竞赛”知识工场团队方案——2022AIWIN（春季）](https://brand.iianews.com/ca/_01-ABC00000000000325421.shtml)
 - [【2022-08-12】（kingqiuol贡献）CSIG2022_中英文购物小票信息理解大赛三等奖参赛小结](https://mp.weixin.qq.com/s/SK9gsBAEYoeu87oSQ8xv7A)
 - [【2022-01-10】新冠疫情相似句对判定大赛 线上第一名方案](https://github.com/zzy99/epidemic-sentence-pair)
 - [【2022-01-05】CCF BDCI 2019 互联网新闻情感分析 复赛top1解决方案](https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION)

@@ -25,11 +25,12 @@ jobs:
             args: --verbose --no-progress --max-redirects 3 './**/*.md'
             format: markdown
             workingDirectory: docs/
+            fail: false
 
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v4
         with:
-          title: 🔗 链接检查报告
+          title: Link Checker Report
           content-filepath: ./lychee/out.md
           labels: report, automated issue

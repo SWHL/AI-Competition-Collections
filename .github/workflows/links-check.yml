@@ -24,13 +24,13 @@ jobs:
             # Check all markdown and html files in repo (default)
             args: --verbose --no-progress --max-redirects 3 './**/*.md'
             format: markdown
-            workingDirectory: docs/
             fail: false
+            output: lychee/results.md
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: Link Checker Report
-          content-filepath: ./lychee/out.md
+          content-filepath: ./lychee/results.md
           labels: report, automated issue

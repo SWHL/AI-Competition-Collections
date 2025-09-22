@@ -1,5 +1,7 @@
 ## AI比赛经验帖子 & 训练和测试技巧帖子集锦
 
+[![Check Links](https://github.com/lycheeverse/lychee/actions/workflows/links.yml/badge.svg)](https://github.com/SWHL/AI-Competition-Collections/actions/workflows//links-check.yml)
+
 > 从他人比赛经验中，总是可以学到很多东西
 
 欢迎您贡献看到的AI比赛经验帖子，可以通过点击[🌈贡献AI比赛经验帖子](https://www.wjx.cn/vm/PRivSRh.aspx#)，或扫码填写。(当然直接提PR更欢迎)

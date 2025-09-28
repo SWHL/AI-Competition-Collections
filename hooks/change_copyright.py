@@ -4,4 +4,4 @@
 from datetime import datetime
 
 def on_config(config, **kwargs):
-    config.copyright = f"Copyright &copy; {datetime.now().year+1} Maintained by SWHL."
+    config.copyright = f"Copyright &copy; {datetime.now().year} Maintained by SWHL."

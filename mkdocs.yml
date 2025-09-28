@@ -73,6 +73,9 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
 
+hooks:
+  - hooks/change_copyright.py
+
 markdown_extensions:
   - abbr
   - attr_list

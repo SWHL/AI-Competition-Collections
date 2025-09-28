@@ -20,7 +20,7 @@ hide:
 ## 竞赛文章公众号
 
 | **公众号名称** | **简单介绍** |
-|:---:|:---|
+|:---|:---|
 |Kaggle竞赛宝典| 数据竞赛Top方案，竞赛黑科技，竞赛到入职的一些感想。|
 | DataFountain | DF平台 \(www\.datafountain\.cn\) 官方公众号，有趣有料的大数据社群，从今天起，爱上这碗数据汤。|
 | Datawhale | 一个专注于AI领域的开源组织，汇聚了众多优秀学习者，愿景：for the learnner,和学习者一起成长。|
@@ -29,14 +29,14 @@ hide:
 ## 其他信息汇总平台
 
 | **平台名称** | **简单介绍** |
-|:---:|:---|
+|:---|:---|
 |[Kaggle Solutions](https://farid.one/kaggle-solutions/)|列出了过去Kaggle比赛中顶尖选手分享的几乎所有可用解决方案和想法。|
 |[nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review)|复盘所有NLP比赛的TOP方案，只关注NLP比赛|
 
 ## 竞赛平台
 
 | **平台名称** | **简单介绍** |
-|:---:|:---|
+|:---|:---|
 |[CompHub](https://comphub.notion.site/comphub/CompHub-c353e310c8f84846ace87a13221637e8) | 实时聚合国内外技术比赛，一个页面，全知道。 |
 |[科大讯飞 A\.I\.开发者大赛](https://challenge.xfyun.cn/) | 全平台比赛信息汇总平台，涵盖CV/NLP/Speech/数据挖掘等比赛，短平快 |
 | [Coggle数据科学](https://coggle.club/) | 全平台比赛信息汇总平台 |

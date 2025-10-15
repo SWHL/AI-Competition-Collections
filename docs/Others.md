@@ -14,6 +14,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2025-10-15】竞赛总结：CCF 2025 AIOps 挑战赛（根因定位 & 因果预测](https://mp.weixin.qq.com/s/52h4pU1HFYbYweztoC-Tzg)
 - [【20250928】Kaggle量化赛事：三井商品预测挑战赛](https://mp.weixin.qq.com/s/M40VUuuCx1BQ3EzQZEdAeA)
 - [【2025-09-26】中国石化人工智能大赛：基于测井曲线的岩性识别与分类 算法Baseline方案](https://mp.weixin.qq.com/s/FoLtpItyFSkd-enYaVrAfg)
 - [【2025-09-18】AFAC 2025 冠军方案解析：金融领域中的长思维链压缩](https://mp.weixin.qq.com/s/ROKX039W0TVicoynDhmtrQ)

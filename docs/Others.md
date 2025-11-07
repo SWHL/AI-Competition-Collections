@@ -14,6 +14,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2025-11-07】竞赛总结：AFAC2025 金融保险场景下多源文件长上下文一致性校验](https://mp.weixin.qq.com/s/H0bnc97RYCyGIVX9WmviWg)
 - [【2025-11-06】大模型金融预测大赛Top3方案！](https://mp.weixin.qq.com/s/te_NG7iyuNC1qBAy08280w)
 - [【2025-10-15】竞赛总结：CCF 2025 AIOps 挑战赛（根因定位 & 因果预测](https://mp.weixin.qq.com/s/52h4pU1HFYbYweztoC-Tzg)
 - [【20250928】Kaggle量化赛事：三井商品预测挑战赛](https://mp.weixin.qq.com/s/M40VUuuCx1BQ3EzQZEdAeA)

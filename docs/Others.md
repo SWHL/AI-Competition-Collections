@@ -9,11 +9,13 @@ hide:
 
 **(推荐系统 | 数据挖掘 | 知识图谱 | 图网络 | 多智能体决策 | 蛋白质结构预测 | 智能机器人 ... ...)**
 
-
 !!! quote
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2025-12-24】2025 年腾讯广告算法大赛冠军方案解析](https://mp.weixin.qq.com/s/2nunMU1SbAryzDv05FStxA)
+- [【2025-12-24】竞赛总结：Kaggle Jigsaw 社区规则分类](https://mp.weixin.qq.com/s/UUXD0nxL5o3qYX0YXP5NBA)
+- [【2025-12-24】2025科大讯飞用户新增预测挑战赛赛季3 Top1方案分享](https://mp.weixin.qq.com/s/6jfrnz-wBsPfO-DAE_dYtw)
 - [【2025-12-09】竞赛总结：AFAC2025 金融多模态报告自动化生成](https://mp.weixin.qq.com/s/ktq1-SX0h3NQCVlMKaiQ5g)
 - [【2025-12-09】行业落地分享：Snowflake AISQL 数据查询引擎](https://mp.weixin.qq.com/s/k-fRg5U1flbkyLBeAi1h6w)
 - [【2025-12-09】竞赛总结：AFAC2025 金融领域中的长思维链压缩](https://mp.weixin.qq.com/s/nCvkT1IX2inZYEWK90ZQ4w)

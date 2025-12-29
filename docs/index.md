@@ -11,11 +11,9 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
-
 欢迎您贡献看到的AI比赛经验帖子，可以通过点击[🌈贡献AI比赛经验帖子](https://www.wjx.cn/vm/PRivSRh.aspx#)，或扫码填写。(当然直接提PR更欢迎)
 
 ![收集表](https://user-images.githubusercontent.com/28639377/222939092-5e118d92-0010-4ee1-870a-5891d6b07e66.png?width=15vw)
-
 
 ## 竞赛文章公众号
 
@@ -25,6 +23,7 @@ hide:
 | DataFountain | DF平台 \(www\.datafountain\.cn\) 官方公众号，有趣有料的大数据社群，从今天起，爱上这碗数据汤。|
 | Datawhale | 一个专注于AI领域的开源组织，汇聚了众多优秀学习者，愿景：for the learnner,和学习者一起成长。|
 | 世界AI创新大赛 | 世界人工智能创新大赛（AIWIN），是世界人工智能大会的组成部分之一。|
+|Coggle数据科学|全平台比赛信息汇总平台|
 
 ## 其他信息汇总平台
 
@@ -39,7 +38,6 @@ hide:
 |:---|:---|
 |[CompHub](https://comphub.notion.site/comphub/CompHub-c353e310c8f84846ace87a13221637e8) | 实时聚合国内外技术比赛，一个页面，全知道。 |
 |[科大讯飞 A\.I\.开发者大赛](https://challenge.xfyun.cn/) | 全平台比赛信息汇总平台，涵盖CV/NLP/Speech/数据挖掘等比赛，短平快 |
-| [Coggle数据科学](https://coggle.club/) | 全平台比赛信息汇总平台 |
 | [DataFountain](https://www.datafountain.cn/competitions) | 涉及CV、NLP、数据挖掘等全面的比赛平台 |
 | [和鲸社区](https://www.heywhale.com/home/competitions) | 综合性比赛平台，侧重数据科学、机器人一些 |
 | [FlyAI](https://www.flyai.com/) | 涉及视觉计算、自然语言处理、语音、结构化数据等 |

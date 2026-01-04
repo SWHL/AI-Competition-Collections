@@ -15,7 +15,7 @@ comments: true
 - [【2022-02-17】竞赛冠军方法分享 | 基于多模态GCN和句子排序的POI生成方案](https://mp.weixin.qq.com/s/HcmBuKx1xMSOOW6dyAb8pQ)
 - [【2021-11-19】ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text 冠军方案源码](https://github.com/zhang0jhon/AttentionOCR)
 - [【2022-01-23】世界人工智能大赛 Top1 方案！手写体 OCR 识别](https://mp.weixin.qq.com/s/8KW4Sdrbcypy5e6rt8qeYw)
-- [【-】【冠军】ICDAR 2019 自由字型文本识别竞赛冠军方案](https://bbs.cvmart.net/articles/884/vote_count)
+- [【-】【冠军】ICDAR 2019 自由字型文本识别竞赛冠军方案](https://www.cvmart.net/community/detail/884)
 - [【-】好大夫在线在AI落地场景上的探索：医学报告单结构化](https://mp.weixin.qq.com/s/J1TDlMNp8Cy2DpqMKO9RFw)
 - [【-】基于OCR的身份证要素提取](https://github.com/linglanfeng/CCF2019-OCR)
 - [【-】【比赛冠军方案开源】真实场景下身份证复印件OCR信息抽取](https://mp.weixin.qq.com/s/55syneurJCy7YBL_Vw16Wg) | [源码](https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement)

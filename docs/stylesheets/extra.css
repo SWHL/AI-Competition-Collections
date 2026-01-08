@@ -6,11 +6,28 @@ body {
 }
 
 
-/* button.md-top {
-    font-family: LXGW WenKai;
-    font-size: 16px;
-    font-weight: lighter;
-} */
+/*亮色样式*/
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: rgba(232, 232, 232, 0.7);
+  --md-header-bg-color: rgba(232, 232, 232, 0.7);
+  --md-typeset-a-color: steelblue;
+  --md-footer-bg-color: #f6f6f6;
+  --md-footer-bg-color--dark: #f6f6f6;
+  --md-footer-fg-color: #222;
+  --md-footer-fg-color--light: #505050;
+  --md-footer-fg-color--lighter: #777777;
+  --md-code-hl-comment-color: #999999;
+}
+
+/*暗色样式*/
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: rgba(17, 16, 17, 0.7);
+  --md-header-bg-color: rgba(17, 16, 17, 0.7);
+  --md-typeset-a-color: royalblue;
+  --md-footer-bg-color: #101010;
+  --md-footer-bg-color--dark: #101010;
+  --md-code-hl-comment-color: #777777;
+}
 
 :root {
     --admonition-border-left-width: 0.2rem;

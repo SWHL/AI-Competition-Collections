@@ -32,20 +32,24 @@ theme:
     - toc.follow # 目录跟踪-页面右侧的小目录
 
   palette:
-    - media: "(prefers-color-scheme: light)" # 浅色
+    - media: "(prefers-color-scheme)" # 系统主题
+      toggle:
+        icon: material/theme-light-dark
+        name: 系统主题
+    - media: "(prefers-color-scheme: light)" # 亮色主题
       scheme: default
       primary: white
-      accent: indigo
+      accent: light blue
       toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)" # 深色
+        icon: material/weather-sunny
+        name: 明亮主题
+    - media: "(prefers-color-scheme: dark)" # 暗色主题
       scheme: slate
       primary: black
-      accent: indigo
+      accent: yellow
       toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
+        icon: material/weather-night
+        name: 暗黑主题
 
   icon:
     logo: logo

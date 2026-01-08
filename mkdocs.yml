@@ -51,8 +51,9 @@ theme:
         icon: material/weather-night
         name: 暗黑主题
 
+  favicon: favicon.svg
   icon:
-    logo: logo
+    logo: material/trophy
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
     repo: fontawesome/brands/github

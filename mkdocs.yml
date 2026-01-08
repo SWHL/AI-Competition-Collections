@@ -34,7 +34,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)" # 浅色
       scheme: default
-      primary: indigo
+      primary: white
       accent: indigo
       toggle:
         icon: material/brightness-7

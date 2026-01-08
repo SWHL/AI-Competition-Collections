@@ -47,3 +47,7 @@ hide:
 | [AIWIN](http://ailab.aiwin.org.cn/competitions/) | 一个比较小众的平台，涉及CV较多一些，每年有两次\(春季赛\|秋季赛\) |
 
 ## [贡献者汇总](https://github.com/SWHL/AI-Competition-Collections/issues/2)
+
+| **贡献者** | **比赛帖子** |
+|:---|:---|
+|kingqiuol|[CSIG2022_中英文购物小票信息理解大赛三等奖参赛小结](https://mp.weixin.qq.com/s/SK9gsBAEYoeu87oSQ8xv7A)|

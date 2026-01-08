@@ -76,6 +76,10 @@ plugins:
 hooks:
   - hooks/change_copyright.py
 
+extra_css:
+  - stylesheets/extra.css
+  - https://static.zeoseven.com/zsft/292/main/result.css
+
 markdown_extensions:
   - abbr
   - attr_list

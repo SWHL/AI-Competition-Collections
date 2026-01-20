@@ -13,6 +13,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-01-20】竞赛总结：Kaggle NFL预测球员运动轨迹](https://mp.weixin.qq.com/s/VgbinLx86pksapvYwygS3g)
 - [【2025-12-24】2025 年腾讯广告算法大赛冠军方案解析](https://mp.weixin.qq.com/s/2nunMU1SbAryzDv05FStxA)
 - [【2025-12-24】竞赛总结：Kaggle Jigsaw 社区规则分类](https://mp.weixin.qq.com/s/UUXD0nxL5o3qYX0YXP5NBA)
 - [【2025-12-24】2025科大讯飞用户新增预测挑战赛赛季3 Top1方案分享](https://mp.weixin.qq.com/s/6jfrnz-wBsPfO-DAE_dYtw)
@@ -25,7 +26,7 @@ hide:
 - [【20250928】Kaggle量化赛事：三井商品预测挑战赛](https://mp.weixin.qq.com/s/M40VUuuCx1BQ3EzQZEdAeA)
 - [【2025-09-26】中国石化人工智能大赛：基于测井曲线的岩性识别与分类 算法Baseline方案](https://mp.weixin.qq.com/s/FoLtpItyFSkd-enYaVrAfg)
 - [【2025-09-18】AFAC 2025 冠军方案解析：金融领域中的长思维链压缩](https://mp.weixin.qq.com/s/ROKX039W0TVicoynDhmtrQ)
-- [【2025-09-04】科大讯飞AI开发者大赛各个Baseline](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIwNDA5NDYzNA==&action=getalbum&album_id=1995949681209556994&subscene=90&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwNDA5NDYzNA%3D%3D%26mid%3D2247510353%26idx%3D1%26sn%3D28c47344451442ff4c63bd5504866cf5%26chksm%3D974aed7ee4eea14cdbd1cf7af4653f140ffdd8f731c0c46ed41ae3346b48f4be47989e53b507%26scene%3D90%26xtrack%3D1%26sessionid%3D1756774650%26subscene%3D93%26clicktime%3D1756774688%26enterid%3D1756774688%26flutter_pos%3D5%26biz_enter_id%3D4%26ranksessionid%3D1756774662%26jumppath%3D20020_1756774661054%252C1104_1756774664818%252C20020_1756774676251%252C1104_1756774687468%26jumppathdepth%3D4%26ascene%3D56%26devicetype%3DiOS18.6.2%26version%3D18003e38%26nettype%3DWIFI%26abtest_cookie%3DAAACAA%253D%253D%26lang%3Dzh_CN%26countrycode%3DCN%26fontScale%3D118%26exportkey%3Dn_ChQIAhIQ2jEwxWAjrxgz1WaJ5oH2sBLhAQIE97dBBAEAAAAAAKsRJM1%252FMqEAAAAOpnltbLcz9gKNyK89dVj0sNh%252Fc9bYhqI26HDHQIaqhWWT%252Fe0XoZlnkycCVJsjh8cb0w1iqHJkkqvCX7UF0divct6OZPUZ7bFpDvTwuQQFdoqkk%252FadIfzlTuf7nZhdRMTdrrLPXbxkWeXOPN%252B2qoGsgO7w72vrE4nTtNlsqH2%252BjAmL8BZH9icU7u%252Fl2Q%252BHKRi25MXHe8MqTfkcxGYAN6bFxoEW7ds52bmgK3PIoIdv51VETB2STy2KHhj%252FSooUN%252FWITYtTAwzDTCzhHQ%253D%253D%26pass_ticket%3DD2HTy3cgqQIqEaYYLmJeUkZSc9Nh4Fj8WoyQTfij6KTCRNeNvcOKplrIyjaPqu%252BF%26wx_header%3D3&nolastread=1#wechat_redirect)
+- [【2025-09-04】科大讯飞AI开发者大赛各个Baseline](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIwNDA5NDYzNA==&action=getalbum&album_id=1995949681209556994)
 - [【2025-08-27】科大讯飞AI大赛：实时多人协作行为意图风险预测挑战赛 Baseline](https://mp.weixin.qq.com/s/LYNlAJJ7A9OjzvapeQr2Dg)
 - [【2025-08-27】行业落地分享：AI智能体在顺丰运营环节的应用](https://mp.weixin.qq.com/s/g8ERLEMgNu8kQGV5NvCdpw)
 - [【2025-08-21】行业落地分享：腾讯微信 RAG在代码补全中的应用](https://mp.weixin.qq.com/s/4YX6qbtmp5wasSz4sbOCPg)
@@ -288,4 +289,4 @@ hide:
 - [【2021-12-08】微信推荐算法大赛总结——树模型篇](https://zhuanlan.zhihu.com/p/402162597)
 - [【2021-12-08】全球顶级算法赛事 Top5 选手，跟你聊聊推荐系统领域的“战斗机”](https://cloud.tencent.com/developer/article/1416400)
 - [【2021-12-07】(论文引用意图识别任务) WSDM Cup 2020大赛金牌参赛方案全解析](https://segmentfault.com/a/1190000037442413)
-- [【2021-12-27】竞赛总结：Data-Centric AI Competition](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247497576&amp;idx=1&amp;sn=c70d64a363c26cf11db484c89360b7be&amp;chksm=96c7daada1b053bbc08028331830696b74b7bb03781a075220bc4d1e5f21a5a1d1de89255ddd&amp;scene=21#wechat_redirect)
+- [【2021-12-27】竞赛总结：Data-Centric AI Competition](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247497576&amp;idx=1&amp;sn=c70d64a363c26cf11db484c89360b7be)

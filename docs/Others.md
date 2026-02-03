@@ -13,6 +13,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-02-03】CSIRO Image2Biomass Prediction - 第5名Solo金牌方案,代码已开源！](https://mp.weixin.qq.com/s/XIOoxr-Z-dlIr2OC3oQeTQ)
 - [【2026-01-20】竞赛总结：Kaggle NFL预测球员运动轨迹](https://mp.weixin.qq.com/s/VgbinLx86pksapvYwygS3g)
 - [【2025-12-24】2025 年腾讯广告算法大赛冠军方案解析](https://mp.weixin.qq.com/s/2nunMU1SbAryzDv05FStxA)
 - [【2025-12-24】竞赛总结：Kaggle Jigsaw 社区规则分类](https://mp.weixin.qq.com/s/UUXD0nxL5o3qYX0YXP5NBA)

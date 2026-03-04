@@ -83,7 +83,7 @@ hooks:
 
 extra_css:
   - stylesheets/extra.css
-  - https://static.zeoseven.com/zsft/292/main/result.css
+  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-web/style.css
 
 markdown_extensions:
   - abbr

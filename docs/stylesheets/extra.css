@@ -1,8 +1,8 @@
-@import url('https://static.zeoseven.com/zsft/292/main/result.css');
-
-body {
-    font-family: "LXGW WenKai";
-    font-weight: normal;
+:root {
+  --admonition-border-left-width: 0.2rem;
+  --base-border-radius: 1rem;
+  --md-text-font: "LXGW WenKai Screen";
+  --md-code-font: "consolas, 'Courier New', monospace";
 }
 
 

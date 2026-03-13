@@ -11,6 +11,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-03-13】SOAR 周冠军笔记 02｜曹议：我是如何给 AI 老师打下手，把进度条推进到 96% 的？](https://mp.weixin.qq.com/s/juzNNA56h1sD847qNlcPeQ)
 - [【2026-03-07】SOAR 周冠军笔记 01｜曹议：赛题初识、环境搭建与配置探索](https://mp.weixin.qq.com/s/mBI9osYWlBC-riR7cSt1AA)
 - [【2025-07-18】竞赛总结：WWW 2025 EReL@MIR 多模态检索挑战赛](https://mp.weixin.qq.com/s/-ldkXZKrGa6lYcLN_e5F1g)
 - [【2025-07-07】CVPR'25 workshop 冠军方案！中科院&字节 Seed 提出 BridgeVLA：视觉干扰、任务组合等泛化场景轻松拿捏](https://mp.weixin.qq.com/s/Bi6ucEjDmSHuq-I17n1iAg)

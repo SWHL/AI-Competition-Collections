@@ -36,7 +36,8 @@ hide:
 
 | **平台名称** | **简单介绍** |
 |:---|:---|
-|[CompHub](https://comphub.notion.site/comphub/CompHub-c353e310c8f84846ace87a13221637e8) | 实时聚合国内外技术比赛，一个页面，全知道。 |
+|[AI 赛事通](https://competehub.dev/zh) | 汇聚全球最新人工智能大赛信息，助力你的 AI 技能提升之路|
+|[CompHub](https://comphub.notion.site/comphub/CompHub-c353e310c8f84846ace87a13221637e8) | 实时聚合国内外技术比赛，一个页面，全知道。|
 |[科大讯飞 A\.I\.开发者大赛](https://challenge.xfyun.cn/) | 全平台比赛信息汇总平台，涵盖 CV/NLP/Speech/ 数据挖掘等比赛，短平快 |
 | [DataFountain](https://www.datafountain.cn/competitions) | 涉及 CV, NLP、数据挖掘等全面的比赛平台 |
 | [和鲸社区](https://www.heywhale.com/home/competitions) | 综合性比赛平台，侧重数据科学、机器人一些 |

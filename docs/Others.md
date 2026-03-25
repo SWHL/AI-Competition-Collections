@@ -13,6 +13,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-03-25】行业落地分享：自如企业内 LLM 落地案例、思考与实践](https://mp.weixin.qq.com/s/9m9OUsUPt958JUaMPKd1rA)
 - [【2026-03-04】运筹优化顶级赛事 CVRPLib BKS 冠军方案](https://mp.weixin.qq.com/s/mkT-9NATy85cxiZEdROUWQ)
 - [【2026-02-03】CSIRO Image2Biomass Prediction - 第 5 名 Solo 金牌方案,代码已开源！](https://mp.weixin.qq.com/s/XIOoxr-Z-dlIr2OC3oQeTQ)
 - [【2026-01-20】竞赛总结：Kaggle NFL 预测球员运动轨迹](https://mp.weixin.qq.com/s/VgbinLx86pksapvYwygS3g)
@@ -205,7 +206,7 @@ hide:
 - [【2023-01-04】竞赛总结：Jane Street 简街市场预测](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247494731&amp;idx=1&amp;sn=90866a67ae54e391a725905641899a5d&amp;chksm=96c7c18ea1b04898be656a1f52a4e013a216aa0bf48d4f224a3d4785432580c0dd0d3926235c&amp;scene=21#wechat_redirect)
 - [【2023-01-04】竞赛总结：Kaggle MLB 运动员互动预测](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247494970&amp;idx=1&amp;sn=120f03093babc18f1274e3cfe9803fbf&amp;chksm=96c7c0ffa1b049e930510ea9ed717cfb4e1ab0f34aae7183368e2fe83b35fb0cf33c4418e423&amp;scene=21#wechat_redirect)
 - [【2023-01-04】比赛总结：微信大数据挑战赛（内有决赛 Top1 至 Top7 答辩视频 + PPT）](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247495179&amp;idx=1&amp;sn=5c52d43b939124fc84f3fa6bff01d0d8&amp;chksm=96c7c3cea1b04ad8a81b4b3491800d0eacb7be7fbc5db026f17ecca0dae2f05ef467f1d7e505&amp;scene=21#wechat_redirect)
-- [【2023-01-04】竞赛总结：KDD Cup 2021 时序异常检测（附 Top1 至 Top7 思路视频 ）](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247495508&amp;idx=1&amp;sn=fd8f5dbaee2fbd8642000b582db9f606&amp;chksm=96c7c291a1b04b87ea0b2fac578f766bc85bd66d2ec39abd012d91bbdbef929463e56a59460c&amp;scene=21#wechat_redirect)
+- [【2023-01-04】竞赛总结：KDD Cup 2021 时序异常检测（附 Top1 至 Top7 思路视频）](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247495508&amp;idx=1&amp;sn=fd8f5dbaee2fbd8642000b582db9f606&amp;chksm=96c7c291a1b04b87ea0b2fac578f766bc85bd66d2ec39abd012d91bbdbef929463e56a59460c&amp;scene=21#wechat_redirect)
 - [【2023-01-04】科大讯飞 2021 关系抽取比赛 Top10 方案！](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247495585&amp;idx=1&amp;sn=6cbcde4496a237a1a9fc56b78336d6a3&amp;chksm=96c7c264a1b04b72553af5f55843337ba51090136e9a8a8fbf9c01e22c2369dfaa6c5b47df60&amp;scene=21#wechat_redirect)
 - [【2023-01-04】竞赛总结：KDD Cup 2021 OGB 知识图谱（附 Top 选手方案+代码+答辩视频）](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247495639&amp;idx=1&amp;sn=feabb5cbef7cabbfff21d19ee5ea2c50&amp;chksm=96c7c212a1b04b0453d53a6f1e687d254862912f6e48ad4e7b4b8f230401ad9a652df5330897&amp;scene=21#wechat_redirect)
 - [【2023-01-04】竞赛总结：KDD Cup 2021 City Brain 城市大脑（附 Top1 - Top10 PDF 报告）](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247495981&amp;idx=1&amp;sn=665a7e6c4d1525fb31c7ef1aaf4e8cf7&amp;chksm=96c7dce8a1b055fe4dd14bfba9b1247135a8461d1321f77b85a586a1d4e004dbbc55d7e12e81&amp;scene=21#wechat_redirect)

@@ -13,6 +13,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-04-03】行业落地分享：去哪儿 AI 大模型 研发流程落地案例](https://mp.weixin.qq.com/s/JUw_11sLeV9EjZECmlxgNg)
 - [【2026-03-25】行业落地分享：自如企业内 LLM 落地案例、思考与实践](https://mp.weixin.qq.com/s/9m9OUsUPt958JUaMPKd1rA)
 - [【2026-03-04】运筹优化顶级赛事 CVRPLib BKS 冠军方案](https://mp.weixin.qq.com/s/mkT-9NATy85cxiZEdROUWQ)
 - [【2026-02-03】CSIRO Image2Biomass Prediction - 第 5 名 Solo 金牌方案,代码已开源！](https://mp.weixin.qq.com/s/XIOoxr-Z-dlIr2OC3oQeTQ)

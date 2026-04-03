@@ -11,6 +11,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-04-03】SOAR 周冠军笔记 04 | 智算一队：W4A16 量化与推理算子融合实践](https://mp.weixin.qq.com/s/MUYvxhb38XYxCd4ciaptYw)
 - [【2026-03-21】SOAR 周冠军笔记 03｜曹议：量化精度稳定性与数据集分析](https://mp.weixin.qq.com/s/SbzFY5KPpU3oQcqp8zT_Eg)
 - [【2026-03-17】RAG 竞赛 WattBot 2025 冠军方案：基于文档层次结构索引的集成打榜思路 KohakuRAG](https://mp.weixin.qq.com/s/hUsr55bXBrHor0kHMo9htg)
 - [【2026-03-13】SOAR 周冠军笔记 02｜曹议：我是如何给 AI 老师打下手，把进度条推进到 96% 的？](https://mp.weixin.qq.com/s/juzNNA56h1sD847qNlcPeQ)

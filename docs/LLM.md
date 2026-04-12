@@ -11,6 +11,8 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-04-12】蚂蚁AI鉴真拿下CVPR 2026冠军](https://mp.weixin.qq.com/s/xlvP_rkyaLD0Pfp4g3Jwdw)
+- [【2026-04-12】SOAR 周冠军笔记 05 | 智算一队：NVFP4 KV Cache 与混合精度实践](https://mp.weixin.qq.com/s/w1g3njB24rxLCiCLxWFD7Q)
 - [【2026-04-03】SOAR 周冠军笔记 04 | 智算一队：W4A16 量化与推理算子融合实践](https://mp.weixin.qq.com/s/MUYvxhb38XYxCd4ciaptYw)
 - [【2026-03-21】SOAR 周冠军笔记 03｜曹议：量化精度稳定性与数据集分析](https://mp.weixin.qq.com/s/SbzFY5KPpU3oQcqp8zT_Eg)
 - [【2026-03-17】RAG 竞赛 WattBot 2025 冠军方案：基于文档层次结构索引的集成打榜思路 KohakuRAG](https://mp.weixin.qq.com/s/hUsr55bXBrHor0kHMo9htg)

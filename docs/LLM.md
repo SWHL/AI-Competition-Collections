@@ -11,7 +11,8 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
-- [【2026-04-12】蚂蚁AI鉴真拿下CVPR 2026冠军](https://mp.weixin.qq.com/s/xlvP_rkyaLD0Pfp4g3Jwdw)
+- [【2026-04-25】SOAR 周冠军笔记 06| FlashSALA：Marlin GEMM 内核调优与 W4A16 推理优化实践](https://mp.weixin.qq.com/s/yg1ICQs2uTm9faw_W4m9lw)
+- [【2026-04-12】蚂蚁 AI 鉴真拿下 CVPR 2026 冠军](https://mp.weixin.qq.com/s/xlvP_rkyaLD0Pfp4g3Jwdw)
 - [【2026-04-12】SOAR 周冠军笔记 05 | 智算一队：NVFP4 KV Cache 与混合精度实践](https://mp.weixin.qq.com/s/w1g3njB24rxLCiCLxWFD7Q)
 - [【2026-04-03】SOAR 周冠军笔记 04 | 智算一队：W4A16 量化与推理算子融合实践](https://mp.weixin.qq.com/s/MUYvxhb38XYxCd4ciaptYw)
 - [【2026-03-21】SOAR 周冠军笔记 03｜曹议：量化精度稳定性与数据集分析](https://mp.weixin.qq.com/s/SbzFY5KPpU3oQcqp8zT_Eg)

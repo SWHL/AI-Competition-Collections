@@ -10,6 +10,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-04-29】《如何打一场世界级 AI 赛事》入门版](https://mp.weixin.qq.com/s/A-rO-Pv8Ger_pNLKbv01cQ)
 - [【2024-10-12】专访首届冠军赵鉴博士：是时候有人来填补强化学习应用空白](https://mp.weixin.qq.com/s/t0-qr73iEcmrBIPMCA7-Vw)
 - [【2024-05-12】算法竞赛知多少？盘点算法竞赛的全过程](https://mp.weixin.qq.com/s/jzHW_-iMDqqoXrLKMRyTUg)
 - [【2023-12-09】Coggle 专访 LTZ：我的竞赛上岸经历](https://mp.weixin.qq.com/s/3Xzhv3vZIdQ_rt4jr7XQ6Q)
@@ -19,7 +20,7 @@ hide:
 - [【2023-05-09】算法竞赛知多少？盘点算法竞赛的全过程](https://mp.weixin.qq.com/s/xl1-LJNHrC0yLzM7ZePT7A)
 - [【2023-04-08】AI 竞赛经验丨全国大学生光电设计竞赛经验分享 by 陈冰文](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247485844&idx=1&sn=e2652e70b9cd259f8d68ac62bb5dc7a7&chksm=fe5fd2c1c9285bd790a8d7dd69fee2dc7add69f1072c6a147cc26164b9c44904c1bb104ea637#rd)
 - [【2023-03-10】AI 竞赛经验 | 全国大学生物理实验竞赛（创新）分享 by 李子芊](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247485681&idx=1&sn=84722f0febb3842590f1da5e880c0081&chksm=fe5fd3a4c9285ab23abf64defa9072f03fdf2528c721f4e242ac7fc5db606c6f8c1447d90be4#rd)
-- [【2023-01-04】从 0 开始到天池比赛 Top 1‰ ，万字长文总结我的竞赛学习之路！](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247489671&amp;idx=1&amp;sn=dfbb6d11a27b4834e293b18406635465&amp;chksm=96c43542a1b3bc543674145033b05be413a9aee2c95f8053103b632a506c9b8d4c6bef8c3dd3&amp;scene=21#wechat_redirect)
+- [【2023-01-04】从 0 开始到天池比赛 Top 1‰，万字长文总结我的竞赛学习之路！](http://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&amp;mid=2247489671&amp;idx=1&amp;sn=dfbb6d11a27b4834e293b18406635465&amp;chksm=96c43542a1b3bc543674145033b05be413a9aee2c95f8053103b632a506c9b8d4c6bef8c3dd3&amp;scene=21#wechat_redirect)
 - [【2023-01-01】一场冠军两场 Top10% 我的 CCF 比赛总结！](https://mp.weixin.qq.com/s?__biz=MzIwNDA5NDYzNA==&mid=2247498489&idx=1&sn=3f0bbf0e1b7f4bfef3ad9765e363a725&chksm=96c7d73ca1b05e2a59d8ad5bde394ae8598aff1c7ae8bbc6bf118252b44e39aa51e6861a938f&scene=21#wechat_redirect)
 - [【2022-12-09】AI 竞赛经验 | 互联网＋大赛经验分享 by 刘玉洁](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247484857&idx=1&sn=18abb546f36b103f050026065d74ed32&chksm=fe5fdeecc92857fa4c30e55d7a03d80b29ddca62c78c8f2a6a555e3b33f6220090caadda75e0#rd)
 - [【2022-12-09】AI 竞赛经验 | “青创北京”2022 年 “挑战杯”首都大学生创业计划竞赛分享 by 刘寿宇](http://mp.weixin.qq.com/s?__biz=MzU5NjcwODkyMg==&mid=2247485396&idx=1&sn=451a26593820dd1732b8366ff33b1b5b&chksm=fe5fdc81c92855972bf2bc1aa05ab5e4d4c52a76d9284990bb75ab410310a7f5a4cc64c68872#rd)

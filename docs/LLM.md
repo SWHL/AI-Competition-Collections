@@ -11,6 +11,9 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-05-12】ClawCon2026 第一届龙虾 AI 大会合集：OpenClaw 原理与企业落地案例](https://mp.weixin.qq.com/s/6ZA6SiX4F4XAMiSPiJ5k-Q)
+- [【2026-05-12】SOAR 周冠军笔记 08  | 香草小张：MiniCPM-SALA 推测解码演进](https://mp.weixin.qq.com/s/l-n7yqCkyzRrny2EGF8ndw)
+- [【2026-05-12】行业落地分享：蚂蚁阿福 Agent 医疗研发范式与实践](https://mp.weixin.qq.com/s/9fJ-Z6ABoxc8e6zQpoj0wA)
 - [【2026-04-25】SOAR 周冠军笔记 06| FlashSALA：Marlin GEMM 内核调优与 W4A16 推理优化实践](https://mp.weixin.qq.com/s/yg1ICQs2uTm9faw_W4m9lw)
 - [【2026-04-12】蚂蚁 AI 鉴真拿下 CVPR 2026 冠军](https://mp.weixin.qq.com/s/xlvP_rkyaLD0Pfp4g3Jwdw)
 - [【2026-04-12】SOAR 周冠军笔记 05 | 智算一队：NVFP4 KV Cache 与混合精度实践](https://mp.weixin.qq.com/s/w1g3njB24rxLCiCLxWFD7Q)

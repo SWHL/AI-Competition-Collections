@@ -2,6 +2,7 @@
 comments: true
 ---
 
+- [【2026-05-12】ICPR 2026 | 真实场景低分辨率车牌识别挑战：复旦、韩国高丽大学等顶尖团队方案解析](https://mp.weixin.qq.com/s/rtRZdiGysWpTsrd6QeXJAQ)
 - [【2025-07-07】SIGIR 2025 LiveRAG 竞赛获奖方案及中文文档版式分析的标签设计](https://mp.weixin.qq.com/s/qH4nGqPGPc-tEAmDrUARPQ)
 - [【2023-12-28】2023 科大讯飞表格结构识别挑战赛 Top 方案](https://mp.weixin.qq.com/s/6NdSY6H4C1t-s2w_pJXYrQ)
 - [【2023-07-13】ICDAR21 表格解析方案汇总](https://zhuanlan.zhihu.com/p/379585300)

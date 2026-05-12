@@ -11,6 +11,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-05-12】竞赛总结：Kaggle Akkadian 语言翻译挑战赛](https://mp.weixin.qq.com/s/HR1tpXSSA2mUW5eVzWiJyw)
 - [【2024-12-31】竞赛总结：KDD2024 OAG-Challenge](https://mp.weixin.qq.com/s/pINNh1KEY6vV6lSw_R8tAg)
 - [【2024-06-30】2024 KDD CUP-Whoiswho 赛道 Rank8 方案分享](https://mp.weixin.qq.com/s/6bN-2kON9AjQqvTJ1wUfQA)
 - [【2024-02-06】竞赛总结：科大讯飞 2023 校招简历项目技能匹配检测](https://mp.weixin.qq.com/s/tw7NsNXEYPI4yi0LuXZraQ)

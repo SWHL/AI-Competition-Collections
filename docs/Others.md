@@ -13,6 +13,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-07-20】科大讯飞 AI 大赛：二氧化硅气凝胶制备工艺优化挑战赛 Baseline](https://mp.weixin.qq.com/s/iggN9m8eFCZ0Y8kkAS8j7A)
 - [【2026-06-11】竞赛总结：2025 届腾讯广告算法大赛（数据集、评价指标和优胜方案解析）](https://mp.weixin.qq.com/s/p-hHZ3f4BzLwiQ8S1I88pA)
 - [【2026-04-03】行业落地分享：去哪儿 AI 大模型 研发流程落地案例](https://mp.weixin.qq.com/s/JUw_11sLeV9EjZECmlxgNg)
 - [【2026-03-25】行业落地分享：自如企业内 LLM 落地案例、思考与实践](https://mp.weixin.qq.com/s/9m9OUsUPt958JUaMPKd1rA)

@@ -11,8 +11,9 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
-- [【2026-07-20】行业落地分享：微信AI搜索Agent实现与落地](https://mp.weixin.qq.com/s/j13Khs8M4sMgKaWd8CzF0w)
-- [【2026-06-17】Google Gemini Vibe Coding马拉松优胜方案全解析：50+款AI应用如何重塑未来](https://mp.weixin.qq.com/s/Fxc4DizfKV-pYKdSKB7mWA)
+- [【2026-08-03】小模型，大作品：OpenBMB × Hugging Face Build Small Hackathon 获奖项目揭晓](https://mp.weixin.qq.com/s/uPQpQvMa0uAoeCG9ZmRt8w)
+- [【2026-07-20】行业落地分享：微信 AI 搜索 Agent 实现与落地](https://mp.weixin.qq.com/s/j13Khs8M4sMgKaWd8CzF0w)
+- [【2026-06-17】Google Gemini Vibe Coding 马拉松优胜方案全解析：50+款 AI 应用如何重塑未来](https://mp.weixin.qq.com/s/Fxc4DizfKV-pYKdSKB7mWA)
 - [【2026-05-12】ClawCon2026 第一届龙虾 AI 大会合集：OpenClaw 原理与企业落地案例](https://mp.weixin.qq.com/s/6ZA6SiX4F4XAMiSPiJ5k-Q)
 - [【2026-05-12】SOAR 周冠军笔记 08  | 香草小张：MiniCPM-SALA 推测解码演进](https://mp.weixin.qq.com/s/l-n7yqCkyzRrny2EGF8ndw)
 - [【2026-05-12】行业落地分享：蚂蚁阿福 Agent 医疗研发范式与实践](https://mp.weixin.qq.com/s/9fJ-Z6ABoxc8e6zQpoj0wA)

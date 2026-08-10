@@ -11,6 +11,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-08-10】科大讯飞 AI 大赛：基于多份材料的信息整合冲突判断与可靠问答挑战赛](https://mp.weixin.qq.com/s/iIfdMTVcGCVJ_40YOSgWdw)
 - [【2026-08-03】小模型，大作品：OpenBMB × Hugging Face Build Small Hackathon 获奖项目揭晓](https://mp.weixin.qq.com/s/uPQpQvMa0uAoeCG9ZmRt8w)
 - [【2026-07-20】行业落地分享：微信 AI 搜索 Agent 实现与落地](https://mp.weixin.qq.com/s/j13Khs8M4sMgKaWd8CzF0w)
 - [【2026-06-17】Google Gemini Vibe Coding 马拉松优胜方案全解析：50+款 AI 应用如何重塑未来](https://mp.weixin.qq.com/s/Fxc4DizfKV-pYKdSKB7mWA)

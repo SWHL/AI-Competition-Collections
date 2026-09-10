@@ -13,6 +13,8 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-09-10】我用 DeepSeek 网页版拿下 KDD Cup 冠军！](https://mp.weixin.qq.com/s/BG63zmVLRsaFgAZFv6_xmw)
+- [【2026-09-10】科大讯飞 AI 大赛：纠错码解码挑战赛](https://mp.weixin.qq.com/s/GfsANP1wqiYbQe-c8BYfhg)
 - [【2026-07-20】科大讯飞 AI 大赛：二氧化硅气凝胶制备工艺优化挑战赛 Baseline](https://mp.weixin.qq.com/s/iggN9m8eFCZ0Y8kkAS8j7A)
 - [【2026-06-11】竞赛总结：2025 届腾讯广告算法大赛（数据集、评价指标和优胜方案解析）](https://mp.weixin.qq.com/s/p-hHZ3f4BzLwiQ8S1I88pA)
 - [【2026-04-03】行业落地分享：去哪儿 AI 大模型 研发流程落地案例](https://mp.weixin.qq.com/s/JUw_11sLeV9EjZECmlxgNg)

@@ -11,6 +11,7 @@ hide:
 
     从他人比赛经验中，总是可以学到很多东西
 
+- [【2026-10-02】LLM For Algorithm Design，华为联合团队斩获SAT 2026大赛AI赛道冠军](https://mp.weixin.qq.com/s/hO3qwjKNpzkAp4_Igb6tqQ)
 - [【2026-09-10】Vibe Coding 改变 Kaggle：Smartphone Addiction 优胜方案 60万行代码 +150个模型](https://mp.weixin.qq.com/s/8Md-0tpLnj6RDarJIrOB2g?scene=334)
 - [【2026-08-10】科大讯飞 AI 大赛：基于多份材料的信息整合冲突判断与可靠问答挑战赛](https://mp.weixin.qq.com/s/iIfdMTVcGCVJ_40YOSgWdw)
 - [【2026-08-03】小模型，大作品：OpenBMB × Hugging Face Build Small Hackathon 获奖项目揭晓](https://mp.weixin.qq.com/s/uPQpQvMa0uAoeCG9ZmRt8w)
